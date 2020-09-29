@@ -1,0 +1,100 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,110001,Appetizer,Super Nachos,10.99,,,,,13.19,13.19
+,110002,Appetizer,Nachos,7.99,,,,,9.59,9.59
+,110003,Appetizer,Cheese Quesadilla,9.49,,,,,8.99,8.99
+,110004,Appetizer,Guacamole and Chips,6.99,,,,,8.39,8.39
+,110005,Appetizer,4 Taquitos,7.99,,,,,9.59,9.59
+,110007,Salad,Original Taco Salad,9.99,,,,,9.89,9.89
+,110008,Salad,Salad de Lite,10.99,,,,,10.99,10.99
+,110009,Breakfast,Huevos Rancheros,9.49,,,,,9.34,9.34
+,110010,Breakfast,Chorizo con Huevos,10.49,,,,,10.44,10.44
+,110011,Soup,Tortilla Lime Soup,5.99,,,,,5.05,5.05
+,110012,Platter,Chicken Fajita,12.99,,,,,14.29,14.29
+,110013,Platter,Steak Fajita,15.99,,,,,15.39,15.39
+,110014,Platter,Chicken and Steak Combo Fajita,13.99,,,,,17.59,17.59
+,110015,Platter,Shrimp Fajita,13.99,,,,,14.29,14.29
+,110016,Platter,Carnitas Fajita,13.99,,,,,14.29,14.29
+,110017,Platter,#1 Super Cancun,14.59,,,,,16.05,16.05
+,110018,Platter,#2 Cancun Pequeno,10.99,,,,,12.09,12.09
+,110019,Platter,#3 Chicken-itza,11.59,,,,,12.75,12.75
+,110020,Platter,#4 Merida,10.99,,,,,12.09,12.09
+,110021,Platter,#5 Isla Mujeres,11.59,,,,,12.75,12.75
+,110022,Platter,#6 Cancun Trio,12.99,,,,,14.29,14.29
+,110023,Platter,#8 Chelem,10.99,,,,,12.09,12.09
+,110024,Platter,# 17 Fish Tacos,12.99,,,,,14.29,14.29
+,110025,Platter,# 7 Uxmal,9.99,,,,,10.99,10.99
+,110026,House Specialties,#9 Carne Asada Mexican Steak,15.99,,,,,14.95,14.95
+,110027,House Specialties,#10 Cochinita,12.99,,,,,14.29,14.29
+,110028,House Specialties,#11 Chile Verde Platter,11.99,,,,,13.19,13.19
+,110029,House Specialties,#12 Carnitas,12.99,,,,,14.29,14.29
+,110030,House Specialties,#13 Machaca,11.29,,,,,13.52,13.52
+,110031,House Specialties,#14 Tulum,10.59,,,,,11.65,11.65
+,110032,House Specialties,#15 Tamales,10.99,,,,,13.19,13.19
+,110033,House Specialties,#16 Chile Relleno,11.99,,,,,12.75,12.75
+,110034,A la Carte,Taco,3.79,,,,,4.55,4.55
+,110035,A la Carte,Fish Taco,4.99,,,,,5.99,5.99
+,110036,A la Carte,Carne Asada Taco,4.99,,,,,5.99,5.99
+,110037,A la Carte,Carnitas Taco,4.99,,,,,5.99,5.99
+,110038,A la Carte,Burrito,5.79,,,,,6.95,6.95
+,110039,A la Carte,Enchilada,4.59,,,,,5.51,5.51
+,110040,A la Carte,Tostada,3.99,,,,,4.79,4.79
+,110041,A la Carte,Pork Tamale,4.59,,,,,5.51,5.51
+,110042,A la Carte,Chile Relleno,4.99,,,,,5.99,5.99
+,110043,Daily Lunch Specials (11:00-4:00),Cochinita Taco Monday,7.99,,,,,8.79,8.79
+,110044,Daily Lunch Specials (11:00-4:00),Carnitas Taco Tuesday,7.99,,,,,8.79,8.79
+,110045,Daily Lunch Specials (11:00-4:00),3 Beef tacos / 1 Fish Taco Wednesday,7.99,,,,,8.79,8.79
+,110046,Daily Lunch Specials (11:00-4:00),Chile Verde Burrito Thursday,7.99,,,,,8.79,8.79
+,110047,Daily Lunch Specials (11:00-4:00),2 Cheese Enchiladas Friday,7.99,,,,,8.79,8.79
+,110048,Daily Lunch Specials (11:00-4:00),Chile Relleno Saturday,7.99,,,,,8.79,8.79
+,110049,Sides,Rice,2,,,,,2.4,2.4
+,110050,Sides,Beans,2,,,,,2.4,2.4
+,110051,Sides,Guacamole,4.99,,,,,5.99,5.99
+,110052,Sides,Extra Cheese,0.99,,,,,1.19,1.19
+,110053,Sides,Pico de Gallo,1.49,,,,,1.79,1.79
+,110054,Sides,4 oz. Chile Verde,2.99,,,,,3.59,3.59
+,110055,Sides,3 Flour Tortillas,1.49,,,,,1.79,1.79
+,110056,Sides,3 Corn Tortillas,1.29,,,,,1.55,1.55
+,110057,Sides,Sour Cream,0.99,,,,,1.19,1.19
+,110058,Sides,Jalapenos,0.99,,,,,1.19,1.19
+,110059,Sides,Roasted Jalapenos,1.99,,,,,2.39,2.39
+,110060,Sides,16 oz. Salsa,4,,,,,6,6
+,110061,Sides,16 oz. Chile Verde,7.99,,,,,9.59,9.59
+,110062,Sides,Chips and Salsa,3,,,,,3.6,3.6
+,110063,Sides,16 oz salsa (Mild),4,,,,,4.8,4.8
+,110064,Donate,$1 Donation,1,,,,,1,1
+,110065,Donate,$5 Donation,5,,,,,5,5
+,110066,Donate,$10 Donation,10,,,,,10,10
+,110067,Donate,$20 Donation,20,,,,,20,20
+,110068,Donate,$50 Donation,50,,,,,50,50
+,110069,Donate,$100 Donation,100,,,,,100,100
+,110070,Drinks,Jarritos,2.5,,,,,2.25,2.25
+,110071,Drinks,Fountain Drink,2.5,,,,,3.14,3.14
+,110072,Drinks,Horchata,2.5,,,,,3.36,3.36
+,110073,Drinks,Flavored Lemonade,,,,,,3.36,3.36
+,110074,Drinks,Margarita (non alcoholic),,,,,,5.61,5.61
+,110075,Drinks,Pina Colada (non alcoholic),,,,,,5.61,5.61
+,110076,Drinks,Daiquiri (non alcoholic),,,,,,5.61,5.61
+,110077,Drinks,Mexican Coke,2.99,,,,,3.38,3.38
+,110078,Lunch Menu (11:00-4:00),"L1 Cheese Enchilada, Beef Taco",8.99,,,,,9.89,9.89
+,110079,Lunch Menu (11:00-4:00),"L2 Soft Chicken Taco, Soft Bean Taco",8.99,,,,,9.89,9.89
+,110080,Lunch Menu (11:00-4:00),"L3 Chille Verde Burrito, Chicken Enchilada",8.99,,,,,9.89,9.89
+,110081,Lunch Menu (11:00-4:00),"L4 Bean & Cheese Burrito, Cheese Enchilada",8.99,,,,,9.89,9.89
+,110082,Lunch Menu (11:00-4:00),"L5 Chicken Enchilada, Chicken Tostada",8.49,,,,,9.89,9.89
+,110083,Lunch Menu (11:00-4:00),L6 Chile Verde Burrito,8.99,,,,,9.34,9.34
+,110084,Lunch Menu (11:00-4:00),L7 Fish Taco,8.49,,,,,9.34,9.34
+,110085,Lunch Menu (11:00-4:00),L8 Pork Tamale,8.49,,,,,9.34,9.34
+,110086,Lunch Menu (11:00-4:00),L9 Chile Relleno,8.49,,,,,9.34,9.34
+,110087,Lunch Menu (11:00-4:00),L10 Carnitas Taco,8.49,,,,,9.34,9.34
+,110088,Kids Menu,Adrianita (Cheese Quesadilla),6.99,,,,,7.69,7.69
+,110089,Kids Menu,Alaincito (Beef Taco),6.99,,,,,7.69,7.69
+,110090,Kids Menu,Natita (Cheese Enchilada),6.99,,,,,7.69,7.69
+,110091,Kids Menu,Matito (Bean & Cheese Burrito),6.99,,,,,7.69,7.69
+,110092,Dessert,Churros,1.5,,,,,1.75,1.75
+,110093,Dessert,Flan,3.99,,,,,4.69,4.69
+,110094,Dessert,Fried Ice Cream,3.99,,,,,4.69,4.69
+,,,Add Chicken,1.99,,Add - On,,,2.4,2.4
+,,,Chicken,0.99,,Add - On,,,1.2,1.2
+,,,Add Egg,0.99,,Add - On,,,1.1,1.1
+,,,Hot,0.99,,Add - On,,,1.2,1.2
+,,,Add whipped cream and caramel,0.99,,Add - On,,,1.12,1.12

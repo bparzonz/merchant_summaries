@@ -1,0 +1,29 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3271032,250001,Appetizers,Cinnamon Dusted Plantains,5,,Appetizer,0.2,0.2,6,6
+3271034,250002,Appetizers,Beef Sambusa,5,,Appetizer,0.2,0.2,6,6
+3271035,250003,Appetizers,Veggie Sambusa,5,,Appetizer,0.2,0.2,6,6
+,250004,Appetizers,Lamb Rack,7,,,,,7.7,7.7
+3271036,250005,Sandwiches,Lamb Sandwich w/ Cumin & Sweet Potato Fries,10,"Slow roasted leg of lamb on a fluffy pita bread, shaved red onions, sweet cherry tomato, and a cucumber curry mayo sauce",Entree,0.1,0.15,11,11.5
+3271037,250006,Sandwiches,Jerk Chicken Sandwich w/ Cumin & Sweet Potato Fries,8,Grilled jerk chicken breast/thigh on a fluffy pita bread and spicy tomato sauce,Entree,0.1,0.15,8.8,9.2
+3271038,250007,Sandwiches,Bhajia Sandwich w/ Cumin & Sweet Potato Fries,8,Black eye peas Swahili falafel on a pita bread with roasted veggies and a mango papaya habanero sauce,Entree,0.1,0.15,8.8,9.2
+3702175,250008,Sandwiches,Moroccan Spiced Lamb Burger w/Cumin & Sweet Potato Fries,12,,,,,13.2,13.2
+4073397,250009,Sandwiches,Jerk Tofu Sandwich w/ Cumin & Sweet Potato Fries,10,,,,,11,11
+3271040,250010,Salads,Jerk Chicken Salad,12,"Grilled jerk chicken over spring mix, shaved red onions, sweet cherry tomato, feta cheese, and topped with a mango papaya habanero sauce",Entree,0.1,0.15,13.2,13.8
+3271042,250011,Entrees,Grilled Jerk Chicken Plate,12,Jamaican jerk marinated chicken legs or breast served over rice and beans topped with a spicy tomato sauce and cinnamon dusted plantains,Entree,0.1,0.15,13.2,13.8
+3271044,250012,Entrees,Curry Goat Stew,13,Island style curry goat slow cooked with vegetables over rice and beans,Entree,0.1,0.15,14.3,14.95
+4073413,250013,Entrees,Grilled Jerk Tofu Plate,12,,,,,13.2,13.2
+3271046,250014,Drinks,Water,3,,Drinks,0.125,0.125,3.375,3.375
+3271047,250015,Drinks,Sparkling Water,3,,Drinks,0.125,0.125,3.375,3.375
+3271049,250016,Drinks,Jamaican Tropical Rhythms,3,,Drinks,0.125,0.125,3.375,3.375
+3833999,250017,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3834000,250018,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3834001,250019,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3834002,250020,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3834004,250021,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3834005,250022,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100
+,250023,Special,Grilled Jerk Chicken w/Fries,10,,,,,11,11
+,250024,Special,Chicken Fingers w/fries,5,,,,,5.5,5.5
+,250025,Special,Oxtail,14,,,,,15.4,15.4
+,250026,Special,Surf & Turf Elevated,20,,,,,22,22
+,250027,Dessert,Halwa,5,,,,,5.5,5.5

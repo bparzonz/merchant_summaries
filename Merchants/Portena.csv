@@ -1,0 +1,26 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,280001,Savory Empanadas,"Bacon, Ham & Cheese Empanada",4.13,,,,,4.75,4.75
+,280002,Savory Empanadas,Beef Empanada,4.13,,,,,4.75,4.75
+,280003,Savory Empanadas,Caprese Empanada,4.13,,,,,4.75,4.75
+,280004,Savory Empanadas,Pulled Pork Empanada,4.13,,,,,4.75,4.75
+,280005,Savory Empanadas,Spinach Empanada,4.13,,,,,4.75,4.75
+,280006,Savory Empanadas,Sweet Beef Empanada,4.13,,,,,4.75,4.75
+,280007,Sweet Empanadas,Apple Strudel Empanada,4.13,,,,,4.75,4.75
+,280008,Sweet Empanadas,Banana & Nutella Empanada,4.13,,,,,4.75,4.75
+,280009,Combo Meals,1 Empanada + 1 Sauce + Drink,5.56,,,,,6.39,6.39
+,280010,Combo Meals,2 Empanadas + 1 Sauce,8.33,,,,,8.53,8.53
+,280011,Combo Meals,3 Empanadas + 1 Sauce,12.03,,,,,11.73,11.73
+,280012,Combo Meals,4 Empanadas + 2 Sauces,14.8,,,,,14.93,14.93
+,280013,Sauces,Chimichurri Sauce,0.5,,,,,0.6,0.6
+,280014,Sauces,Criolla Sauce,0.5,,,,,0.6,0.6
+,280015,Sauces,Golf Sauce,0.5,,,,,0.6,0.6
+,280016,Donate,$1 Donation,1,,,,,1,1
+,280017,Donate,$5 Donation,5,,,,,5,5
+,280018,Donate,$10 Donation,10,,,,,10,10
+,280019,Donate,$20 Donation,20,,,,,20,20
+,280020,Donate,$50 Donation,50,,,,,50,50
+,280021,Take & Bake Empanadas,$100 Donation,100,,,,,100,100
+,280022,Take & Bake Empanadas,2 Boxes of 10,75,,,,,82.5,82.5
+,280023,Take & Bake Empanadas,3 Boxes of 10,110,,,,,121,121
+,280024,Take & Bake Empanadas,4 Boxes of 10,140,,,,,154,154

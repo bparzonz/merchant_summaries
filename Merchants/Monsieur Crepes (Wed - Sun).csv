@@ -1,0 +1,38 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,120001,Sweet Crepes,Parisienne,5.5,,,,,6.6,6.6
+,120002,Sweet Crepes,Merci,5.5,,,,,6.6,6.6
+,120003,Sweet Crepes,Louvre,8,,,,,9.6,9.6
+,120004,Sweet Crepes,Champs-Elysees,8,,,,,9.6,9.6
+,120005,Sweet Crepes,S'mores,7.75,,,,,9.3,9.3
+,120006,Sweet Crepes,Marie-Antoinette,8.75,,,,,10.5,10.5
+,120007,Sweet Crepes,Moulin Rouge,6.75,,,,,8.1,8.1
+,120008,Sweet Crepes,Amour,8,,,,,9.6,9.6
+,120009,Sweet Crepes,Romantique,7.75,,,,,9.3,9.3
+,120010,Vegan Options,Crepe,10.25,,,,,12.3,12.3
+,120011,Vegan Options,Ciabatta,9.25,,,,,11.1,11.1
+,120012,Vegan Options,Salade,8.5,,,,,10.2,10.2
+,120013,Savory Crepes,L'Originale,8.5,,,,,10.2,10.2
+,120014,Savory Crepes,Versailles,9.75,,,,,11.7,11.7
+,120015,Savory Crepes,Arc de triomphe,9.5,,,,,11.4,11.4
+,120016,Savory Crepes,From the Alps,8.25,,,,,13.5,13.5
+,120017,Savory Crepes,Puertorican,9.5,,,,,11.4,11.4
+,120018,Savory Crepes,Montmartre,9.5,,,,,11.4,11.4
+,120019,Veggie Options,Le Jardin,8.5,,,,,10.2,10.2
+,120020,Veggie Options,La Campagne,8.5,,,,,10.2,10.2
+,120021,Specialities,Mamie,7.75,,,,,9.3,9.3
+,120022,Specialities,Suzette,7.75,,,,,9.3,9.3
+,120023,Specialities,Monsieur,7.75,,,,,9.3,9.3
+,120024,Specialities,Madame,7.75,,,,,9.3,9.3
+,120025,Others,Oatmeal Served Only Till 12:00 PM,7.5,,,,,9,9
+,120026,Others,Scrambled eggs Served Only Till 12:00 PM,7.75,,,,,9.3,9.3
+,120027,Others,Chicken Ciabatta,9,,,,,10.8,10.8
+,120028,Others,Caesar Salad,8.5,,,,,10.2,10.2
+,120029,Donate,$1 Donation,1,,,,,1,1
+,120030,Donate,$5 Donation,5,,,,,5,5
+,120031,Donate,$10 Donation,10,,,,,10,10
+,120032,Donate,$20 Donation,20,,,,,20,20
+,120033,Donate,$50 Donation,50,,,,,50,50
+,120034,Donate,$100 Donation,100,,,,,100,100
+,,,Gluten Free,1,,Add - On,,,1.5,1.5
+,,,Vegan,1,,Add - On,,,1.5,1.5

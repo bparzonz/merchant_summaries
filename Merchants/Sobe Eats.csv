@@ -1,0 +1,37 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3832720,160001,Power Bowls & Salads,Chicken + Brussels,10,"Roasted Chicken, Roasted Brussels Sprouts, Roasted Sweet Potatoes, Apples, Raw Walnuts, Mesclun Greens, Chopped Romaine, Apple Cider Vinaigrette",Entree,0.1,0.15,11,11.5
+3832721,160002,Power Bowls & Salads,Winter Squash + Blue Cheese Salad,10,"Roasted Squash, Pears, Shredded Cabbage, Basil, Blue Cheese, Roasted Almonds, Raisins, Shredded Kale, Arugula, Cinnamon Vinaigrette",Entree,0.1,0.15,11,11.5
+3832722,160003,Power Bowls & Salads,Shroomami,9,"Wild Rice, Shredded Kale, Raw Beets, Cucumbers, Basil, Spicy Sunflower Seeds, Warm Portobello, Mix, Roasted Sesame Tofu, Miso Sesame Ginger Dressing",Entree,0.1,0.15,9.9,10.35
+3832723,160004,Power Bowls & Salads,Harvest Bowl,10,"Wild Rice Shredded Kale, Apples, Sweet Potatoes, Roasted Chicken, Local Goat Cheese, Toasted Almonds, Walnut Vinaigrette",Entree,0.1,0.15,11,11.5
+3832724,160005,Power Bowls & Salads,Curry Chickpea Bowl,10,"Roasted Chicken, Hot Chickpeas, Shredded Carrots, Shredded Cabbage, Raisins, Cilantro, Toasted Almonds, Warm Quinoa, Spinach, Curry Yogurt Dressing",Entree,0.1,0.15,11,11.5
+3832931,,Power Bowls & Salads,Kale Chicken Caesar Salad,7.99,,,,,9.75,9.75
+3832932,,Power Bowls & Salads,Quinoa + Avocado Salad,8.99,,,,,9.89,9.89
+3832727,160006,Tostadas,Tiradito Nikkei,14,,Entree,0.1,0.15,15.4,16.1
+3832728,160007,Tostadas,Spicy Ahi Poke,14,,Entree,0.1,0.15,15.4,16.1
+3832729,160008,Tostadas,Boneless Short Ribs,10,"Re-fried Beans , Queso, Crema, Salsa de Arbol, pickle onions",Entree,0.1,0.15,11,11.5
+3832730,160009,Tostadas,Slow Roasted Chicken,10,,Entree,0.1,0.15,11,11.5
+3832731,160010,Tostadas,Spicy Shrimp,10,,Entree,0.1,0.15,11,11.5
+3832732,160011,Tostadas,Vegie Guac,10,,Entree,0.1,0.15,11,11.5
+4214741,160021,Tostadas,Build Your Own Tostada Pack,19,Build your own tostada pack.,Entree,0.1,0.15,20.9,21.85
+3832753,160012,Banh Mi Tortas,Boneless Short Rib,14,,Entree,0.1,0.15,15.4,16.1
+3832756,160013,Banh Mi Tortas,Slow Roasted Chicken Tinga,13,,Entree,0.1,0.15,14.3,14.95
+3832759,160014,Banh Mi Tortas,Spicy Shrimp,15,,Entree,0.1,0.15,16.5,17.25
+3932716,160017,Quarantine Survival Kits (Available Friday & Saturday [5-9pm]),2-Person Survival Kit,19,"**Must be preordered by Noon on the day of pickup / delivery. Pick up and delivery only on Friday & Saturday from 5-9pm.**  2x Sobe Eats Gourmet Tostadas (boneless short rib, slow-roasted chicken, spicy shrimp, veggie guac, GF options)  2x 6-packs of San Diablo churros per person (filling choices of dulce de leech, Nutella, sweet cream, raspberry, coconut cream)  2x 32 oz Thirst Drinks soda mixer per person (choose from drink menu)  1x game of reverse charades",Entree,0.1,0.15,20.9,21.85
+3932723,160018,Quarantine Survival Kits (Available Friday & Saturday [5-9pm]),4-Person Survival Kit,39,"**Must be preordered by Noon on the day of pickup / delivery. Pick up and delivery only on Friday & Saturday from 5-9pm.**  4x Sobe Eats Gourmet Tostadas (boneless short rib, slow-roasted chicken, spicy shrimp, veggie guac, GF options)  4x 6-packs of San Diablo churros per person (filling choices of dulce de leech, Nutella, sweet cream, raspberry, coconut cream)  4x 32 oz Thirst Drinks soda mixer per person (choose from drink menu)  1x game of reverse charades",Entree,0.1,0.15,42.9,44.85
+3932726,160019,Quarantine Survival Kits (Available Friday & Saturday [5-9pm]),6-Person Survival Kit,59,"**Must be preordered by Noon on the day of pickup / delivery. Pick up and delivery only on Friday & Saturday from 5-9pm.**  6x Sobe Eats Gourmet Tostadas (boneless short rib, slow-roasted chicken, spicy shrimp, veggie guac, GF options)  6x 6-packs of San Diablo churros per person (filling choices of dulce de leech, Nutella, sweet cream, raspberry, coconut cream)  6x 32 oz Thirst Drinks soda mixer per person (choose from drink menu)  1x game of reverse charades",Entree,0.1,0.15,64.9,67.85
+3932729,160020,Quarantine Survival Kits (Available Friday & Saturday [5-9pm]),8-Person Survival Kit,78,"**Must be preordered by Noon on the day of pickup / delivery. Pick up and delivery only on Friday & Saturday from 5-9pm.**  8x Sobe Eats Gourmet Tostadas (boneless short rib, slow-roasted chicken, spicy shrimp, veggie guac, GF options)  8x 6-packs of San Diablo churros per person (filling choices of dulce de leech, Nutella, sweet cream, raspberry, coconut cream)  8x 32 oz Thirst Drinks soda mixer per person (choose from drink menu)  1x game of reverse charades",Entree,0.1,0.15,85.8,89.7
+3833906,160022,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3833907,160023,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3833908,160024,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3833909,160025,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3833910,160026,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3833911,160027,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100
+,160028,Burritos,Short Rib Macha,13,,,,,14.3,
+,160029,Burritos,De Tinga,11,,,,,12.1,
+,160030,Burritos,Costa Shrimp,12,,,,,13.2,
+,160031,Burritos,Veggie Guac,12,,,,,13.2,
+,,,4 Pack,20,,Add - On,0.1,0.15,22,23
+,,,6 Pack,40,,Add - On,0.1,0.15,44,46
+,,,8 Pack,59,,Add - On,0.1,0.15,64.9,67.85
+,,,10 Pack,76,,Add - On,0.1,0.15,83.6,87.4

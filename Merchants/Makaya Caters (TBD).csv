@@ -1,0 +1,4 @@
+Restaurant - Base Pricing Info,,,,,,,,Markup,,Chefpanzee Price,
+Product Id,Product Name,Original Price,Product Description,Category (Internal),Variation,Cost Variation,,Lunch,Dinner,Lunch,Dinner
+,Poulet Yoganese,9,"Chicken marinated in fresh herbs & authentic Haitian spices for 24 hours, baked and topped with our signature roasted garlic & coconut milk sauce. Served with black beans fricasse & garlic rice.",Entree,,,,0.1,0.15,9.9,10.35
+,Pulled Pork Labadie,10,"Pork marinated for 24 hours in our authentic Haitian Spice Blend, cinnamon, tamarind puree and slow cooked to the melting point. Served with black beans fricassee & garlic rice",Entree,,,,0.1,0.15,11,11.5

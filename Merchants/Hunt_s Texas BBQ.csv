@@ -1,0 +1,22 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3271019,240001,Plates,Sliced Brisket,13,Tender smoked low and slow.,Entree,0.1,0.15,14.3,14.95
+3271020,240002,Plates,Pork Riblets,12,"The chicken wings of pork! 3 flavors: Chili Lime, Asian, and Sweet Heat",Entree,0.1,0.15,13.2,13.8
+3271021,240003,Plates,Chicken Quarter,11,Juicy and Bold,Entree,0.1,0.15,12.1,12.65
+3271022,240004,Sandwiches,Chopped Beef,9,,Entree,0.1,0.15,9.9,10.35
+3271023,240005,Sandwiches,Pulled Pork,8,,Entree,0.1,0.15,8.8,9.2
+3271024,240006,Sandwiches,Shredded Chicken,7,,Entree,0.1,0.15,7.7,8.05
+3271025,240007,Side Dishes,Pinto Beans,3,South Texas style,Side,0.2,0.2,3.6,3.6
+3271026,240008,Side Dishes,Mac Salad,3,"Loaded with cheese, olives, and ham",Side,0.2,0.2,3.6,3.6
+3271027,240009,Side Dishes,Bacon Fried Corn,3,Seasoned kernels and bacon,Side,0.2,0.2,3.6,3.6
+3271028,240010,Drinks,Sweet Tea,1.5,,Drinks,0.125,0.125,1.6875,1.6875
+3271029,240011,Drinks,Soda,1.5,,Drinks,0.125,0.125,1.6875,1.6875
+3271030,240012,Drinks,Water,1.5,,Drinks,0.125,0.125,1.6875,1.6875
+3271031,240013,Specials,Frito Pie,6,Chili plus cheese and sour cream,Entree,0.1,0.15,6.6,6.9
+3864272,240014,Specials,Corned Beef & Cabbage,12,St. Patty's day special!,Entree,0.1,0.15,13.2,13.8
+3834015,240015,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3834016,240016,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3834017,240017,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3834018,240018,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3834019,240019,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+,240020,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,,,100,100

@@ -1,0 +1,90 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3196211,180001,,Beef & Cheese Empanadilla,4,Lightly fried turnover filled with beef & chefs,Appetizer,0.2,0.2,4.8,4.8
+3256418,180002,,Three Cheese Empanadilla,3,Lightly fried turnover filled with three cheese,Appetizer,0.2,0.2,3.6,3.6
+3256419,180003,,Beef Empanadilla,3.5,Lightly fried turnover filled with beef,Appetizer,0.2,0.2,4.2,4.2
+3256420,180004,,Pizza Empanadilla,3,Lightly fried turnover filled with pizza sauce & cheese,Appetizer,0.2,0.2,3.6,3.6
+3256421,180005,,Boricua Chicken Empanadilla,4,Lightly fried turnover filled with boricua chicken,Appetizer,0.2,0.2,4.8,4.8
+3256422,180006,,Bacalaitos,3,Codfish fritters,Appetizer,0.2,0.2,3.6,3.6
+3256423,180007,,Canoa Bites,9.5,"Sweet bites of maduros / sweet plantains covered with picadillo / seasoned ground beef, smothered with three cheeses.",Appetizer,0.2,0.2,11.4,11.4
+3256424,180008,,Platanos Mezcla,8.5,"A combination of two maduros/sweet plantains, two tostones /savory plantains, and two mofongo balls.",Appetizer,0.2,0.2,10.2,10.2
+,180009,,Alcapurria,4,,Appetizer,,,4.8,4.8
+3256425,180010,,Boricua Chicken Grub Bowl,9,Boricua Chicken served with Puerto Rican Rice and your choice of Sweet or Savory Plantains,Entree,0.1,0.15,9.9,10.35
+3256426,180011,,Pernil Roast Pork Pork Grub Bowl,9,Pernil Roast Pork served with Puerto Rican Rice and your choice of Sweet or Savory Plantains,Entree,0.1,0.15,9.9,10.35
+3256427,180012,,Sauteed Vegetable Grub Bowl,9,Saut√©ed Vegetables served with Puerto Rican Rice and your choice of Sweet or Savory Plantains,Entree,0.1,0.15,9.9,10.35
+3256428,180013,,Grilled Shrimp Grub Bowl,13,Grilled Shrimp served with Puerto Rican Rice and your choice of Sweet or Savory Plantains,Entree,0.1,0.15,14.3,14.95
+3256430,180014,,Empanadilla Grub Bowl,9,One Empanadilla of your choice served with Puerto Rican Yellow Rice and your choice of Sweet or Savory Plantains,Entree,0.1,0.15,9.9,10.35
+3256433,180015,,Boricua Chicken Mofongo,11.5,"Ripe plantains mashed in our house garlic sauce, chicharron, and filled to perfection with Boricua Chicken, topped with broth.",Entree,0.1,0.15,12.65,13.225
+3256434,180016,,Pernil Roast Pork Mofongo,11.5,"Ripe plantains mashed in our house garlic sauce, chicharron, and filled to perfection with Pernil Pork, topped with broth.",Entree,0.1,0.15,12.65,13.225
+3256435,180017,,Mofongo Traditional,7.99,"Ripe plantains mashed in our house garlic sauce, chicharron, topped with broth.",Entree,0.1,0.15,8.789,9.1885
+3256436,180018,,Sauteed Vegetable Mofongo,11,"Ripe plantains mashed in our house garlic sauce, chicharron, and filled to perfection with Saut√©ed Vegetables, topped with broth.",Entree,0.1,0.15,12.1,12.65
+3256437,180019,,Grilled Shrimp Mofongo,14,"Ripe plantains mashed in our house garlic sauce, chicharron, and filled to perfection with Grilled Shrimp, topped with broth.",Entree,0.1,0.15,15.4,16.1
+3256438,180020,,Carne Frita Mofongo,12,"Ripe plantains mashed in our house garlic sauce, chicharron, and filled to perfection with Carne Frita, topped with broth.",Entree,0.1,0.15,13.2,13.8
+3256439,180021,,El Gran Caribe,16.99,"Boricua Chicken, Pernil/Roast Pork Shoulder. and Camarones Ajillo/ Garlic Shrimp served with choice of rice and plantains.",Entree,0.1,0.15,18.689,19.5385
+3256440,180022,,Bistec Encebollado,14,Perfectly marinated steak and saut√©ed onions accompanied by Tostones/Savory Plantains.,Entree,0.1,0.15,15.4,16.1
+3256441,180023,,Carne Frita,12,"Juicy fried pork chunks topped with grilled onions, served with Arroz con Habichuelas/White Rice with Stewed Beans and plantains.",Entree,0.1,0.15,13.2,13.8
+3256442,180024,,Tripleta Sandwich,9,"Triple meat sandwich packed with steak, chicken, roast pork, potato sticks, lettuce, tomato, swiss cheese, mustard, and mayo ketchup.  Served on a toasted 8 in. hoagie roll.  Add a seasoned mix of yuca fries and French fries (optional)",Entree,0.1,0.15,9.9,10.35
+3256443,180025,,Kids Empanadilla (Pizza or Cheese),5,"Served with your choice of Fries, Arroz con Gandules or Arroz con Habichuelas",Entree,0.1,0.15,5.5,5.75
+3256444,180026,,Kids Chicken Tenders (with Rice or Fries),6.5,,Entree,0.1,0.15,7.15,7.475
+3256445,180027,,Platanos Maduros,4.75,Six to eight ripened sliced plantains,Side,0.2,0.2,5.7,5.7
+3256446,180028,,Tostones,4.75,Six to eight mashed green plantains with mayo ketchup.,Side,0.2,0.2,5.7,5.7
+3256447,180029,,Arroz con Gandules,4.99,Puerto Rican Yellow Rice with Peas,Side,0.2,0.2,5.988,5.988
+3256448,180030,,Caribe Side Salad,6.5,"A blend of romaine, cherry tomatoes, red onion, and diced pineapple tossed in our house Caribe Vinaigrette.",Side,0.2,0.2,7.8,7.8
+3256449,180031,,Arroz con Habichuelas,5.99,White Rice with Stewed Beans,Side,0.2,0.2,7.188000000000001,7.188000000000001
+3256451,180032,,Coco Rico,2.5,,Drinks,0.125,0.125,2.8125,2.8125
+3256452,180033,,Kola Champagne,2.5,,Drinks,0.125,0.125,2.8125,2.8125
+3256453,180034,,Malta India,3,,Drinks,0.125,0.125,3.375,3.375
+3256454,180035,,Liam & Ian Coffee,3,,Drinks,0.125,0.125,3.375,3.375
+3256455,180036,,Soft Drinks,2,,Drinks,0.125,0.125,2.25,2.25
+,180037,,Jugo Naturales,4,,Drinks,,,4.5,4.5
+3833596,180038,,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3833597,180039,,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3833743,180040,,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3833744,180041,,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3833745,180042,,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3833746,180043,,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100
+4102044,180044,,Wepa Sauce (Mayo Ketchup),0.3,,Entree,0.1,0.15,0.32999999999999996,0.345
+4102047,180045,,Pique (Hot Sauce),0.55,,Entree,0.1,0.15,0.6050000000000001,0.6325000000000001
+4102049,180046,,Mojo de Ajo (Garlic Sauce),0.3,,Entree,0.1,0.15,0.32999999999999996,0.345
+,180047,,Alcapurrias 1/2 Dozen,15,"A root vegetable fritter made with green banana, yucca, and plantain dough stuffed with seasoned ground beef.",Packaged Foods,0.1,0.15,16.5,17.25
+,180048,,Beef Empanadillas 1/2 Dozen,11,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Packaged Foods,0.1,0.15,12.1,12.65
+,180049,,Beef & Cheese Empanadillas 1/2 Dozen,12,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Packaged Foods,0.1,0.15,13.2,13.8
+,180050,,Boricua Chicken Empanadillas 1/2 Dozen,11,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Packaged Foods,0.1,0.15,12.1,12.65
+,180051,,Pizza Empanadillas 1/2 Dozen,9,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Packaged Foods,0.1,0.15,9.9,10.35
+,180052,,Three Cheese Empanadillas 1/2 Dozen,8,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Packaged Foods,0.1,0.15,8.8,9.2
+,180053,,Arroz con Gandules 16 oz,4.99,Yellow Rice with Pigeon Peas. 16 oz serves approx. 1-2 Servings,Packaged Foods,0.1,0.15,5.489,5.7385
+,180054,,Arroz Blanco 16 oz,3.99,White Rice. 16 oz serves approx. 1-2 Servings,Packaged Foods,0.1,0.15,4.389,4.5885
+,180055,,Habichuelas Guisadas 16 oz,5.99,Puerto Rican stewed beans with potatoes. 16 oz serves approx. 1-2 Servings.,Packaged Foods,0.1,0.15,6.589,6.8885000000000005
+,180056,,Boricua Grilled Chicken 16 oz,6.5,Grilled Chicken Bites with Sauteed Onions. 16 oz serves approx. 1-2 Servings,Packaged Foods,0.1,0.15,7.15,7.475
+,180057,,Pernil 16 oz,8.5,Puerto Rican Style Pork Shoulder. 16 oz serves approx. 1-2 Servings.,Packaged Foods,0.1,0.15,9.35,9.775
+,180058,,Sofrito (16 oz),6.3,"Sauce of onions, peppers, garlic, and herbs. Used as a base in rice, beans, pasta sauces, and more.",Packaged Foods,0.1,0.15,6.93,7.245
+,180059,,Coquito Cream Cake,5,,,0.1,0.15,5.5,5.75
+,180060,,Coquito Cream Cake new,5.5,,,0.175,0.2625,6.4625,6.94375
+,180061,,Cream Cheese Flan,4,,,0.175,0.2625,4.7,5.05
+,180062,,The Americano,6,,,,,6.89,6.89
+,180063,,Arroz y Juevos Bowl,9,,,,,10.35,10.35
+,180064,,Pollo y Waffels,12.5,,,,,13.79,13.79
+,180065,,Bistec and Eggs,15,,,,,16.1,16.1
+,180066,,Brunch Moe-Fongo,8,,,,,9.19,9.19
+,180067,,Waffel y Fruta,7.5,,,,,8.63,8.63
+,180068,,Sorullitos / Corn Fritters,3,,,,,3.45,3.45
+,180069,,BRUNCH MOE-FONGO,7,,,,,7.99,7.99
+,180070,,Empanadillas / PR Style Turnovers,3,,,,,3.6,3.6
+,,,Alcapurrias 1 Dozen,15,"A root vegetable fritter made with green banana, yucca, and plantain dough stuffed with seasoned ground beef.",Add - On,0.1,0.15,16.5,17.25
+,,,Beef Empanadillas 1 Dozen,11,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Add - On,0.1,0.15,12.1,12.65
+,,,Beef & Cheese Empanadillas 1 Dozen,12,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Add - On,0.1,0.15,13.2,13.8
+,,,Boricua Chicken Empanadillas 1 Dozen,11,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Add - On,0.1,0.15,12.1,12.65
+,,,Pizza Empanadillas 1 Dozen,9,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Add - On,0.1,0.15,9.9,10.35
+,,,Three Cheese Empanadillas 1 Dozen,8,"Ready to cook, Puerto Rican Turnovers. Cook in your fryer, air fryer, and or bake for a healthier meal or snack. Order 1/2 or Full dozen!",Add - On,0.1,0.15,8.8,9.2
+,,,Arroz con Gandules 32 oz,5,Yellow Rice with Pigeon Peas. 32 oz serves approx. 3-4 Servings,Add - On,0.1,0.15,5.5,5.75
+,,,Arroz Blanco 32 oz,4,White Rice. 32 oz serves approx. 3-4 Servings,Add - On,0.1,0.15,4.4,4.6
+,,,Habichuelas Guisadas 32 oz,5,Puerto Rican stewed beans with potatoes. 32 oz serves approx. 3-4 Servings,Add - On,0.1,0.15,5.5,5.75
+,,,Boricua Grilled Chicken 32 oz,6,Grilled Chicken Bites with Sauteed Onions. 32 oz serves approx. 3-4 Servings,Add - On,0.1,0.15,6.6,6.9
+,,,Pernil 32 oz,6.49,Puerto Rican Style Pork Shoulder. 16 oz serves approx. 1-2 Servings.,Add - On,0.1,0.15,7.139,7.4635
+,,,Carne,2,,Add - On,,,2.4,2.4
+,,,Pollo,1,,Add - On,,,1.2,1.2
+,,,Carne Y Queso,1,,Add - On,,,1.2,1.2
+,,,Soft Bacon,3,,Add - On,,,3.74,3.74
+,,,Crispy Bacon,3,,Add - On,,,3.74,3.74
+,,,Sausage Links,3,,Add - On,,,3.74,3.74
+,,,White Rice & Beans,1.25,,Add - On,,,1.38,1.38

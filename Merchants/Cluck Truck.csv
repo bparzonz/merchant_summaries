@@ -1,0 +1,74 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,130001,Wraps,The Original,8,,,,,8.8,8.8
+,130002,Wraps,The Hawaiian,9,,,,,9.9,9.9
+,130003,Wraps,The Buffalo,9,,,,,9.9,9.9
+,130004,Wraps,The Southwest,9,,,,,9.9,9.9
+,130005,Wraps,California Wrap,11,,,,,12.1,12.1
+,130006,Other Menu Items,Chicken & Fries,11,,,,,12.1,12.1
+,130007,Other Menu Items,Loaded Chicken & Cheese Fries,12,,,,,13.2,13.2
+,130008,Sides,Crispy French Fries,4,,,,,4.8,4.8
+,130009,Sides,Cajun Fries,5,,,,,6,6
+,130010,Sides,Garlic Parmesan Fries,5,,,,,6,6
+,130011,Sides,Sweet Potato Fries,6,,,,,7,7
+,130012,Sides,Mexican Corn,4,,,,,4.8,4.8
+,130013,Cluck Box,2 Entrees & 2 Sides,20,,,,,22,22
+,130014,Cluck Box,4 Entrees & 4 Sides,40,,,,,44,44
+,130015,Cluck Box Sides,Fries,4,,,,,4.8,4.8
+,130016,Cluck Box Sides,Cajun Fries,4,,,,,4.8,4.8
+,130017,Cluck Box Sides,Garlic Parmesan Fries,4,,,,,4.8,4.8
+,130018,Cluck Box Sides,Sweet Potato Fries,5,,,,,6,6
+,130019,Cluck Box Sides,Mac and Cheese,4,,,,,4.8,4.8
+,130020,Cluck Box Sides,Caesar salad,4,,,,,4.8,4.8
+,130021,Cluck Box Sides,Pacific Mac Salad,4,,,,,4.8,4.8
+,130022,Cluck Box Sides,Roasted Veggies,4,,,,,4.8,4.8
+,130023,Cluck Box Sides,Mango-Jalapeno Slaw,4,,,,,4.8,4.8
+,130024,Cluck Box Sides,Mexican Corn (off the cob),4,,,,,4.8,4.8
+,130025,Dessert,Cookie,1.5,,,,,1.76,1.76
+,130026,Dessert,4 Cookies,5,,,,,5.88,5.88
+,130027,Sauce,Ranch,0.5,,,,,0.55,0.55
+,130028,Sauce,Mango-Jalapeno,0.5,,,,,0.55,0.55
+,130029,Sauce,Chipotle-Lime,0.5,,,,,0.55,0.55
+,130030,Sauce,Buffalo,0.5,,,,,0.55,0.55
+,130031,Sauce,BBQ,0.5,,,,,0.55,0.55
+,130032,Sauce,Fry Sauce,0.5,,,,,0.55,0.55
+,130033,Cluck Bucket,Cluck Bucket,29.99,,,,,32.99,32.99
+,130034,Cluck Bucket (Extra Sides),Fries,4,,,,,4.4,4.4
+,130035,Cluck Bucket (Extra Sides),Cajun Fries,4,,,,,4.4,4.4
+,130036,Cluck Bucket (Extra Sides),Garlic Parmesan Fries,4,,,,,4.4,4.4
+,130037,Cluck Bucket (Extra Sides),Sweet Potato Fries,5,,,,,5.5,5.5
+,130038,Cluck Bucket (Extra Sides),Mac and Cheese,4,,,,,4.4,4.4
+,130039,Cluck Bucket (Extra Sides),Caesar salad,4,,,,,4.4,4.4
+,130040,Cluck Bucket (Extra Sides),Pacific Mac Salad,4,,,,,4.4,4.4
+,130041,Cluck Bucket (Extra Sides),Roasted Veggies,4,,,,,4.4,4.4
+,130042,Cluck Bucket (Extra Sides),Mango-Jalapeno Slaw,4,,,,,4.4,4.4
+,130043,Cluck Bucket (Extra Sides),Mexican Corn (off the cob),4,,,,,4.4,4.4
+,130044,Cluck Bucket (Dessert),1 Cookie,1.5,,,,,1.76,1.76
+,130045,Cluck Bucket (Dessert),4 Cookies,5,,,,,5.88,5.88
+,130046,Cluck Bucket (Sauces),Ranch,0.5,,,,,0.55,0.55
+,130047,Cluck Bucket (Sauces),Mango-Jalapeno,0.5,,,,,0.55,0.55
+,130048,Cluck Bucket (Sauces),Chipotle-Lime,0.5,,,,,0.55,0.55
+,130049,Cluck Bucket (Sauces),Buffalo,0.5,,,,,0.55,0.55
+,130050,Cluck Bucket (Sauces),BBQ,0.5,,,,,0.55,0.55
+,130051,Cluck Bucket (Sauces),Fry Sauce,0.5,,,,,0.55,0.55
+,130052,Donate,$1 Donation,1,,,,,1,1
+,130053,Donate,$5 Donation,5,,,,,5,5
+,130054,Donate,$10 Donation,10,,,,,10,10
+,130055,Donate,$20 Donation,20,,,,,20,20
+,130056,Donate,$50 Donation,50,,,,,50,50
+,130057,Donate,$100 Donation,100,,,,,100,100
+,130058,Cluck Truck Brunch,Chicken and Waffles,12,,,,,13.2,13.2
+,130059,Cluck Truck Brunch,Fruit Waffle,7,,,,,7.7,7.7
+,130060,Cluck Truck Brunch,Breakfast Wrap,10,,,,,11,11
+,130061,Cluck Truck Brunch,Loaded Breakfast Potatoes,10,,,,,11,11
+,130062,Cluck Truck Brunch,Side of House Potatoes,4,,,,,4.4,4.4
+,130063,Specials,El Dorado Taco,8,,,,,8.8,8.8
+,,,Fries,3,,Add - On,,,3.3,3.3
+,,,Cajun Fries,4,,Add - On,,,4.4,4.4
+,,,Garlic Parmesan Fries,4,,Add - On,,,4.4,4.4
+,,,Sweet Potato Fries,5,,Add - On,,,5.5,5.5
+,,,Mexican Corn,4,,Add - On,,,4.4,4.4
+,,,Cajun Fries Sub,1,,Add - On,,,1,1
+,,,Garlic Parmesan Fries Sub,1,,Add - On,,,1,1
+,,,Sweet Potato Fries Sub,1,,Add - On,,,1,1
+,,,Sweet Potato Fries: Sweet potatofries seasoned with salt andpepper. Served with ranch,1,,Add - On,,,1,1

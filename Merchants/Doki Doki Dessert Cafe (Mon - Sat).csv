@@ -1,0 +1,83 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,140001,Fluffy Pancakes,Rose,6.95,,,,,7.65,7.65
+,140002,Fluffy Pancakes,Meadow,6.95,,,,,7.65,7.65
+,140003,Fluffy Pancakes,Cocoa,6.95,,,,,7.65,7.65
+,140004,Fluffy Pancakes,Amber,6.95,,,,,7.65,7.65
+,140005,Rolled Ice Cream,Berry Bunny,6.95,,,,,7.65,7.65
+,140006,Rolled Ice Cream,Heart Drop,6.95,,,,,7.65,7.65
+,140007,Rolled Ice Cream,Tahiti,6.95,,,,,7.65,7.65
+,140008,Rolled Ice Cream,Twilight,7.42,,,,,8.16,8.16
+,140009,Rolled Ice Cream,NY NY,7.42,,,,,8.16,8.16
+,140010,Rolled Ice Cream,Velvet,7.42,,,,,8.16,8.16
+,140011,Rolled Ice Cream,Choco Loco,6.95,,,,,7.65,7.65
+,140012,Rolled Ice Cream,Rocky Canyons,6.95,,,,,7.65,7.65
+,140013,Rolled Ice Cream,Frostbite,6.95,,,,,7.65,7.65
+,140014,Rolled Ice Cream,Tiramisu Dream,6.95,,,,,7.65,7.65
+,140015,Japanese Crepes,Doki Doki,6.95,,,,,7.65,7.65
+,140016,Japanese Crepes,First Date,6.95,,,,,7.65,7.65
+,140017,Japanese Crepes,Red Rose,6.95,,,,,7.65,7.65
+,140018,Japanese Crepes,Kiss Kiss,7.42,,,,,8.16,8.16
+,140019,Japanese Crepes,Honeymoon,7.42,,,,,8.16,8.16
+,140020,Japanese Crepes,Sweet Dough,7.42,,,,,8.16,8.16
+,140021,Japanese Crepes,Bling Bling,6.95,,,,,7.65,7.65
+,140022,Japanese Crepes,SoCal Crush,6.95,,,,,7.65,7.65
+,140023,Japanese Crepes,Secret,6.95,,,,,7.65,7.65
+,140024,Japanese Crepes,Something Something,6.95,,,,,7.65,7.65
+,140025,Drinks,Passion Fruit Limeade,4,,,,,4.5,4.5
+,140026,Drinks,Berry Hibiscus,4,,,,,4.5,4.5
+,140027,Drinks,Tigerblood,4,,,,,4.5,4.5
+,140028,Drinks,Princess Peach,4,,,,,4.5,4.5
+,140029,Tea,Green,3,,,,,3.38,3.38
+,140030,Tea,Oolong,3,,,,,3.38,3.38
+,140031,Tea,Black,3,,,,,3.38,3.38
+,140032,Tea,Thai,3,,,,,3.38,3.38
+,140033,Tea,Matcha,3,,,,,3.38,3.38
+,140034,Smoothies,Berries,5,,,,,5.63,5.63
+,140035,Smoothies,Strawberry,5,,,,,5.63,5.63
+,140036,Smoothies,Banana,5,,,,,5.63,5.63
+,140037,Smoothies,Kiwi,5,,,,,5.63,5.63
+,140038,Smoothies,Mango,5,,,,,5.63,5.63
+,140039,Smoothies,Avocado,5,,,,,5.63,5.63
+,140040,Smoothies,Combination,6,,,,,6.75,6.75
+,140041,Coffee,Viethal Weapon,4,,,,,4.5,4.5
+,140042,Coffee,House Blend,2,,,,,2.25,2.25
+,140043,Donate,$1 Donation,1,,,,,1,1
+,140044,Donate,$5 Donation,5,,,,,5,5
+,140045,Donate,$10 Donation,10,,,,,10,10
+,140046,Donate,$20 Donation,20,,,,,20,20
+,140047,Donate,$50 Donation,50,,,,,50,50
+,140048,Donate,$100 Donation,100,,,,,100,100
+,140049,Crepe Cakes,7" Matcha Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140050,Crepe Cakes,7" Peach Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140051,Crepe Cakes,7" Tiramisu Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140052,Crepe Cakes,7" Cookie & Cream Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140053,Crepe Cakes,7" Orange Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140054,Crepe Cakes,7" Mango Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140055,Crepe Cakes,7" Fruit Creme Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140056,Crepe Cakes,7" Chocolate Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140057,Crepe Cakes,**NEW** 7" Blueberry Cream Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140058,Crepe Cakes,7" Key Lime Crepe Cake (24 Hours Required),45,,,,,50,50
+,140059,Crepe Cakes,7" Strawberry Crepe Cape (24 HOURS REQUIRED),45,,,,,50,50
+,140060,Crepe Cakes,7" Strawberry Cheesecake Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140061,Crepe Cakes,7" Chocolate Nutella Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140062,Crepe Cakes,**NEW** 7" Pistachio Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140063,Crepe Cakes,7" Coconut Crepe Cake (24 HOURS REQUIRED),45,,,,,50,50
+,140064,Dalgona Milk,Coffee Dalgona (Whole Milk),5,,,,,5.6,5.6
+,140065,Dalgona Milk,Matcha Dalgona (Whole Milk),5,,,,,5.6,5.6
+,140066,Dalgona Milk,Vanilla Dalgona (Whole Milk),5,,,,,5.6,5.6
+,140067,Dalgona Milk,Chocolate Dalgona (Whole Milk),5,,,,,5.6,5.6
+,140068,Dalgona Milk,Strawberry Dalgona (Whole Milk),5,,,,,5.6,5.6
+,140069,Savory Crepes,Opal,7.42,,,,,8.16,8.16
+,140070,Savory Crepes,Emerald,7.42,,,,,8.16,8.16
+,140071,Savory Crepes,Moon,7.42,,,,,8.16,8.16
+,140072,Savory Crepes,Ruby,7.42,,,,,8.16,8.16
+,140073,Savory Crepes,Sapphire,7.42,,,,,8.16,8.16
+,,,Coconut Base (Vanilla),0.5,,Add - On,,,0.55,0.55
+,,,Almond Base (Vanilla),0.5,,Add - On,,,0.55,0.55
+,,,Add Milk,0.95,,Add - On,,,1.13,1.13
+,,,Add Boba,0.5,,Add - On,,,0.56,0.56
+,,,Add Foam,1.5,,Add - On,,,1.69,1.69
+,,,Upsize to 10",20,,Add - On,,,23,23
+,,,Upsize to 13",40,,Add - On,,,46,46
+,,,Creme Brulee,0.5,,,,,0.55,

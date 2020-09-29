@@ -1,0 +1,21 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3256498,300001,Appetizers,Vegetable Bolani (2 pc),4.99,"Two flatbread turnovers stuffed with baked potatoes, green onions, cilantro & herbs",Appetizer,0.2,0.2,5.988,5.988
+3256499,300002,Appetizers,Chicken Samosas (2 pc),5.99,"Crispy triangular pastry shells stuffed with seasoned chicken, potatoes, peas & onion",Appetizer,0.2,0.2,7.188000000000001,7.188000000000001
+3256500,300003,Main Dishes,Chicken Tikka Kabob Plate,10.99,"Cubed chicken breasts marinated with signature tikka spices & herbs, cooked over a grill. Served with Afghan rice (Pulao), garbanzo beans and salad",Entree,0.1,0.15,12.089,12.6385
+3256501,300004,Main Dishes,Chicken Tikka Masala Plate,10.99,"Seasoned chicken, simmered in a tomato, onion & cream sauce. Served with Afghan rice (Pulao) and salad",Entree,0.1,0.15,12.089,12.6385
+3256502,300005,Main Dishes,Chicken Wrap Plate,9.99,"Grilled chicken wrapped in a pita bread, filled with tomatoes & onions, with a signature sour cream sauce mixed in chopped pickle lemons & black pepper. Served with a side of french fries",Entree,0.1,0.15,10.989,11.4885
+3256503,300006,Main Dishes,Eggplant Wrap Plate,9.99,"Grilled Eggplant wrapped in a pita bread, filled with tomatoes & onions, with a signature sour cream sauce mixed in chopped pickle lemons & black pepper. Served with a side of french fries",Entree,0.1,0.15,10.989,11.4885
+3256504,300007,Main Dishes,Fried Chicken,9.99,Chicken quarters marinated in spices and herbs served with french fries and chutney,Entree,0.1,0.15,10.989,11.4885
+3256505,300008,Specials,Beef Kofta Kabob Plate,11.99,"Ground beef kabob, marinated in signature spices & herbs and grilled. Served with pita bread, french fries, a salad & Chef Hayat‚Äôs signature chutney.",Entree,0.1,0.15,13.189,13.7885
+3256506,300009,Specials,Kofta Korma Plate,11.99,,Entree,0.1,0.15,13.189,13.7885
+3256507,300010,Sides,French Fries,3.99,,Sides,0.2,0.2,4.788,4.788
+3256508,300011,Sides,Afghan Rice (Pulao),3.99,,Sides,0.2,0.2,4.788,4.788
+3256509,300012,Sides,Salad,3.99,,Sides,0.2,0.2,4.788,4.788
+3256510,300013,Sides,Garbanzo Beans,3.99,,Sides,0.2,0.2,4.788,4.788
+3833924,300014,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3833925,300015,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3833926,300016,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3833927,300017,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3833928,300018,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3833929,300019,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100

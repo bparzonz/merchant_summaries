@@ -1,0 +1,31 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,30001,Tequenos,Regular,1.15,,Entrees ,,,1.27,1.27
+,30002,Tequenos,Guava Paste and Cheese,1.15,,Entrees ,,,1.27,1.27
+,30003,Tequenos,Ham and Cheese,1.15,,Entrees ,,,1.27,1.27
+,30004,Tequenos,Party Pack (50),37.5,50 Tequenos Party Tray,Entrees ,,,41.25,41.25
+,30005,Tequenos,Party Pack (100),70,100 Tequenos Party Tray,Entrees ,,,77,77
+,30006,Empanadas,Natural Grass Fed Beef,2.95,,Entrees ,,,3.25,3.25
+,30007,Empanadas,Chicken,2.95,,Entrees ,,,3.25,3.25
+,30008,Empanadas,Potato and Cheese,2.95,,Entrees ,,,3.25,3.25
+,30009,Empanadas,"Scrambled Eggs w Onions, Tomatoes, and Bacon",2.95,,Entrees ,,,3.25,3.25
+,30010,Empanadas,Zucchini,2.95,,Entrees ,,,3.25,3.25
+,30011,Empanadas,Spinach and Cheese,2.95,,Entrees ,,,3.25,3.25
+,30012,Empanadas,Ham and Cheese,2.95,,Entrees ,,,3.25,3.25
+,30013,Turnovers,Ham and Cheese,3.95,Puffed pastry stuffed with ham and cheese.,Entrees ,,,4.35,4.35
+,30014,Turnovers,Natural Grass Fed Beef,3.95,,Entrees ,,,4.35,4.35
+,30015,Turnovers,Chicken,3.95,,Entrees ,,,4.35,4.35
+,30016,Drinks,Bottled Water,1,,Drinks,,,1.13,1.13
+,30017,Drinks,Frescolita,2.5,,Drinks,,,2.81,2.81
+,30018,Drinks,Malta,2.5,,Drinks,,,2.81,2.81
+,30019,Drinks,Coke,1.5,,Drinks,,,1.69,1.69
+,30020,Drinks,Sprite,1.5,,Drinks,,,1.69,1.69
+,30021,Donation,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,,,1,1
+,30022,Donation,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,,,5,5
+,30023,Donation,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,,,10,10
+,30024,Donation,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,,,20,20
+,30025,Donation,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,,,50,50
+,30026,Donation,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,,,100,100
+,,,5,3.85,,Add - On,,,4.18,4.18
+,,,10,8.85,,Add - On,,,9.73,9.73
+,,,6 pack,18.05,,Add - On,,,19.85,19.85

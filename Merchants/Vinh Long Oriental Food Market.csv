@@ -1,0 +1,712 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,200001,Canned Fruits,Young Coconut Meat In Syrup,2.4,,,,,2.4,2.4
+,200002,Canned Fruits,Mango Slice In Syrup,1.88,,,,,1.88,1.88
+,200003,Canned Fruits,Banana In Syrup,1.67,,,,,1.67,1.67
+,200004,Canned Fruits,Longan In Syrup,2.4,,,,,2.4,2.4
+,200005,Canned Fruits,"Longan In Syrup, 20 Oz",2.82,,,,,2.82,2.82
+,200006,Canned Fruits,Jackfruit In Syrup,2.51,,,,,2.51,2.51
+,200007,Canned Fruits,Lychee In Syrup,2.61,,,,,2.61,2.61
+,200008,Canned Fruits,Tropical Fruit Salad In Light Syrup,2.4,,,,,2.4,2.4
+,200009,Canned Fruits,Rambutan With Pineapple In Syrup,3.56,,,,,3.56,3.56
+,200010,Canned Fruits,Mutant Coconut,6.29,,,,,6.29,6.29
+,200011,Canned Fruits,Rambutan In Syrup,3.66,,,,,3.66,3.66
+,200012,Canned Fruits,Pineapple Chunk And Heavy Syrup,2.09,,,,,2.09,2.09
+,200013,Canned Fruits,Pineapple Slices In Heavy Syrup,2.09,,,,,2.09,2.09
+,200014,Canned Fruits,Toddy Palm Seed & Jackfruit In Syrup,2.51,,,,,2.51,2.51
+,200015,Canned Fruits,Pickled Lemon,2.09,,,,,2.09,2.09
+,200016,Canned Fruits,Preserved Lemon,2.4,,,,,2.4,2.4
+,200017,Canned Meats & Poultry,Quail Egg In Brine,3.03,,,,,3.03,3.03
+,200018,Canned Meats & Poultry,Quail Eggs In Water,2.82,,,,,2.82,2.82
+,200019,Canned Meats & Poultry,Pickled Gouramy Fish,10.49,,,,,10.49,10.49
+,200020,Canned Vegetables,Bamboo Shoots,4.71,,,,,4.71,4.71
+,200021,Canned Vegetables,"Bamboo Shoots, 16 Oz",4.19,,,,,4.19,4.19
+,200022,Canned Vegetables,Garbanzo Beans,2.61,,,,,2.61,2.61
+,200023,Canned Vegetables,Red Mung Beans,4.19,,,,,4.19,4.19
+,200024,Canned Vegetables,"Bamboo Shoot With Bai Yanang, Cha Om, Chili, Oyster Mushroom And Tomato",4.82,,,,,4.82,4.82
+,200025,Canned Vegetables,3 Taste Sour Bamboo And Rattan Shoot With Chili,5.24,,,,,5.24,5.24
+,200026,Canned Vegetables,Bamboo Shoot In Bai Yanang Juice,4.82,,,,,4.82,4.82
+,200027,Canned Vegetables,Toddy PalmÔøΩs Seed Whole In Syrup,2.51,,,,,2.51,2.51
+,200028,Canned Vegetables,Water Chestnuts,1.04,,,,,1.04,1.04
+,200029,Canned Vegetables,Black Beans,1.56,,,,,1.56,1.56
+,200030,Canned Vegetables,Kidney Beans In Brine,1.67,,,,,1.67,1.67
+,200031,Canned Vegetables,Black-eyed Beans,1.56,,,,,1.56,1.56
+,200032,Canned Vegetables,Fermented Mixed Vegetables Slice In Soy Sauce,0.72,,,,,0.72,0.72
+,200033,Canned Vegetables,Fermented Hot And Sour Green Mustard Slices In Soy Sauce,0.72,,,,,0.72,0.72
+,200034,Canned Vegetables,Fermented Sweet And Mustard Greens In Soy Sauce,0.72,,,,,0.72,0.72
+,200035,Canned Vegetables,Fermented Green Mustard House With Chili In Soy Sauce,0.83,,,,,0.83,0.83
+,200036,Canned Vegetables,Preserved Galanga,1.04,,,,,1.04,1.04
+,200037,Canned Vegetables,Young Green Peppercorns,3.66,,,,,3.66,3.66
+,200038,Canned Vegetables,Pickled Cassia Leaves In Brine,2.09,,,,,2.09,2.09
+,200039,Canned Vegetables,Fish Sauce With Eggplants,3.14,,,,,3.14,3.14
+,200040,Canned Vegetables,Pickled Lotus Rootlets,2.3,,,,,2.3,2.3
+,200041,Canned Vegetables,Whole Pickled Leek In Vinegar,3.77,,,,,3.77,3.77
+,200042,Canned Vegetables,Pickled Garlic,2.93,,,,,2.93,2.93
+,200043,Canned Vegetables,Pickled Krachai,2.3,,,,,2.3,2.3
+,200044,Canned Vegetables,Pickled Galangal,2.4,,,,,2.4,2.4
+,200045,Canned Vegetables,Pickled Ginger,1.88,,,,,1.88,1.88
+,200046,Canned Vegetables,Minced Garlic,3.45,,,,,3.45,3.45
+,200047,Canned Vegetables,Minced Ginger,3.77,,,,,3.77,3.77
+,200048,Chili Sauces,"Combination Chili Relish, Hot",3.77,,,,,3.77,3.77
+,200049,Chili Sauces,"Indonesian Extra Hot Chili Sauce, Extra Hot",3.77,,,,,3.77,3.77
+,200050,Chili Sauces,"Traditional Condiment Sauce, Hot",3.77,,,,,3.77,3.77
+,200051,Chili Sauces,"Sambal Bakso, Extra Hot",3.77,,,,,3.77,3.77
+,200052,Chili Sauces,"Green Chile Sauce, Hot",3.77,,,,,3.77,3.77
+,200053,Chili Sauces,"Sambal Asli, Chili Sauce",2.4,,,,,2.4,2.4
+,200054,Chili Sauces,Chili Oil With Black Bean,3.14,,,,,3.14,3.14
+,200055,Chili Sauces,Chili Paste Malaengda Flavored,3.66,,,,,3.66,3.66
+,200056,Chili Sauces,Ground Chili In Soya Bean Oil,2.72,,,,,2.72,2.72
+,200057,Chili Sauces,Chili Paste With Holy Basil Leaves,1.98,,,,,1.98,1.98
+,200058,Chili Sauces,Ground Chili With Fried Garlic,2.09,,,,,2.09,2.09
+,200059,Chili Sauces,Sriracha,2.61,,,,,2.61,2.61
+,200060,Chili Sauces,Sambal Oelek Ground Fresh Chili Paste,2.82,,,,,2.82,2.82
+,200061,Dried Produce,Dried Betel Nut,2.09,,,,,2.09,2.09
+,200062,Dried Produce,Dried Palm Nut Slices,4.71,,,,,4.71,4.71
+,200063,Dried Produce,Dried Ginger,0.83,,,,,0.83,0.83
+,200064,Dried Produce,Dried Galanga,4.19,,,,,4.19,4.19
+,200065,Dried Produce,Dehydrated Galangal Sliced,5.24,,,,,5.24,5.24
+,200066,Dried Produce,Dried Black Fungus Slices,33.59,,,,,33.59,33.59
+,200067,Dried Produce,Dried Mushroom,62.99,,,,,62.99,62.99
+,200068,Dried Produce,Dried Red Onion,5.24,,,,,5.24,5.24
+,200069,Dried Produce,Dried Chili Pepper,15.74,,,,,15.74,15.74
+,200070,Dried Produce,Dehydrated Small Chili,27.29,,,,,27.29,27.29
+,200071,Dried Produce,Dehydrated Chili,15.74,,,,,15.74,15.74
+,200072,Dried Produce,Fried Onions,6.81,,,,,6.81,6.81
+,200073,Dried Produce,Fried Onion,14.69,,,,,14.69,14.69
+,200074,Dried Produce,Fried Garlic,5.24,,,,,5.24,5.24
+,200075,Dried Produce,Dried Grated Coconut,4.19,,,,,4.19,4.19
+,200076,Filipino Spice Mixes,Fried Spring Rolls Seasoning Mix,1.25,,,,,1.25,1.25
+,200077,Filipino Spice Mixes,"Homestyle Filipino Recipes, Rice Noodle Stir-Fry Mix Seasoning",1.25,,,,,1.25,1.25
+,200078,Filipino Spice Mixes,"Tocino Mix, Marinating Mix",1.25,,,,,1.25,1.25
+,200079,Filipino Spice Mixes,Breading Mix,1.35,,,,,1.35,1.35
+,200080,Filipino Spice Mixes,Stew Base Mix,1.25,,,,,1.25,1.25
+,200081,Filipino Spice Mixes,Sweet And Sour Sauce Mix,0.93,,,,,0.93,0.93
+,200082,Filipino Spice Mixes,Peanut Sauce Mix,1.25,,,,,1.25,1.25
+,200083,Filipino Spice Mixes,Barbecue Marinade Mix,1.25,,,,,1.25,1.25
+,200084,Filipino Spice Mixes,Guava Soup Base Mix,1.25,,,,,1.25,1.25
+,200085,Filipino Spice Mixes,Instant Mung Bean Soup Mix,1.25,,,,,1.25,1.25
+,200086,Filipino Spice Mixes,Tamarind Seasoning Mix,1.25,,,,,1.25,1.25
+,200087,Filipino Spice Mixes,Tamarind Soup Base Mix,1.25,,,,,1.25,1.25
+,200088,Filipino Spice Mixes,Tamarind Soup Mix With Other Natural Flavor,1.25,,,,,1.25,1.25
+,200089,Herbal Teas & Remedies,"Tongbian Tea Bags, 10 Tea Bags",3.77,,,,,3.77,3.77
+,200090,Herbal Teas & Remedies,Artichoke Tea,5.24,,,,,5.24,5.24
+,200091,Herbal Teas & Remedies,Lo Han Kuo,3.14,,,,,3.14,3.14
+,200092,Herbal Teas & Remedies,Pearl Barley And Lily Bulb Stock,1.77,,,,,1.77,1.77
+,200093,Herbal Teas & Remedies,Assorted Herbs,1.04,,,,,1.04,1.04
+,200094,Herbal Teas & Remedies,"Thuoc Xong Bac Thai, Herb Mix, External Use Only",3.98,,,,,3.98,3.98
+,200095,Herbal Teas & Remedies,Herb Tea,4.82,,,,,4.82,4.82
+,200096,Herbal Teas & Remedies,Korean Ginseng Drink With Root,17.84,,,,,17.84,17.84
+,200097,Herbal Teas & Remedies,Ginseng Drink,17.84,,,,,17.84,17.84
+,200098,Herbal Teas & Remedies,Joy Luck Oolong Tea,8.39,,,,,8.39,8.39
+,200099,Herbal Teas & Remedies,Vita-kidney Natural Herbs Tea,15.74,,,,,15.74,15.74
+,200100,Herbal Teas & Remedies,Vita-blood Pressure Herbs Tea,15.74,,,,,15.74,15.74
+,200101,Herbal Teas & Remedies,Vita-prostate Natural Herbs Tea,15.74,,,,,15.74,15.74
+,200102,Herbal Teas & Remedies,Vita-rejuve Natural Herb Tea,15.74,,,,,15.74,15.74
+,200103,Herbal Teas & Remedies,Tibetan Rhubarb Detox,9.44,,,,,9.44,9.44
+,200104,Herbal Teas & Remedies,Mangosteen Tea,3.14,,,,,3.14,3.14
+,200105,Herbal Teas & Remedies,Turmeric Tea,2.93,,,,,2.93,2.93
+,200106,Herbal Teas & Remedies,Ginger Tea,2.4,,,,,2.4,2.4
+,200107,Herbal Teas & Remedies,Bitter Gourd Tea,2.93,,,,,2.93,2.93
+,200108,Herbal Teas & Remedies,Noni Tea,2.93,,,,,2.93,2.93
+,200109,Herbal Teas & Remedies,Dia Bet Tea,5.24,,,,,5.24,5.24
+,200110,Herbal Teas & Remedies,Sugar Balance And Women's Tonic With Dong Quai And Mulberry Tea,5.24,,,,,5.24,5.24
+,200111,Herbal Teas & Remedies,Horny Goat Weed Yang Herbal Tea,5.24,,,,,5.24,5.24
+,200112,Herbal Teas & Remedies,Roasted Green Tea,3.14,,,,,3.14,3.14
+,200113,Herbal Teas & Remedies,Ginkgo Biloba And Red Panax Ginseng Extract,11.54,,,,,11.54,11.54
+,200114,Herbal Teas & Remedies,Green Tea,4.19,,,,,4.19,4.19
+,200115,Herbal Teas & Remedies,Instant Coffee Mix,4.19,,,,,4.19,4.19
+,200116,Herbal Teas & Remedies,Nescafe Cafe Viet Black Iced Coffee,4.71,,,,,4.71,4.71
+,200117,Indonesian Spice Mixes,Indonesian Fried Noodle (Mie Goreng),1.35,,,,,1.35,1.35
+,200118,Indonesian Spice Mixes,Indonesian Rendang Curry,1.35,,,,,1.35,1.35
+,200119,Indonesian Spice Mixes,Kalasan Fried Chicken,1.35,,,,,1.35,1.35
+,200120,Indonesian Spice Mixes,Instant Spices For Grilled Chicken In Rujak Sauce,1.35,,,,,1.35,1.35
+,200121,Indonesian Spice Mixes,Javanese Curry,1.35,,,,,1.35,1.35
+,200122,Indonesian Spice Mixes,Indonesian Gulai Curry Soup,1.35,,,,,1.35,1.35
+,200123,Indonesian Spice Mixes,Instant Spices For Liver And Chili Gravy,1.35,,,,,1.35,1.35
+,200124,Indonesian Spice Mixes,"Indonesian Instant Spices, Vegetable Stew",1.35,,,,,1.35,1.35
+,200125,Indonesian Spice Mixes,"Indonesian Instant Spices, Indonesian Beef Gravy",1.35,,,,,1.35,1.35
+,200126,Indonesian Spice Mixes,"Indonesian Instant Spices, Sweet And Sour Vegetable Soup With Tamarind",1.35,,,,,1.35,1.35
+,200127,Indonesian Spice Mixes,"Indonesian Instant Spices, Instant Spices For East Java Meat Soup",1.35,,,,,1.35,1.35
+,200128,Indonesian Spice Mixes,"Indonesian Instant Spices, Indonesian Fried Chicken",1.35,,,,,1.35,1.35
+,200129,Indonesian Spice Mixes,"Indonesian Instant Spices, Indonesian Soto Soup",1.35,,,,,1.35,1.35
+,200130,Indonesian Spice Mixes,"Indonesian Instant Spices, Instant Spices For Beef Soto Soup",1.35,,,,,1.35,1.35
+,200131,Indonesian Spice Mixes,"Indonesian Instant Spices, Instant Spices For Chicken, Beef, Oxtail Soup",1.35,,,,,1.35,1.35
+,200132,Indonesian Spice Mixes,"Indonesian Spices, Betawi Soto Soup",1.35,,,,,1.35,1.35
+,200133,Indonesian Spice Mixes,"Indonesian Instant Spices, Indonesian Yellow Fragrant Rice",1.35,,,,,1.35,1.35
+,200134,Indonesian Spice Mixes,"Indonesian Instant Spices, Spicy Asian Fried Rice",1.35,,,,,1.35,1.35
+,200135,Indonesian Spice Mixes,"Indonesian Instant Spices, Bali Spices",1.35,,,,,1.35,1.35
+,200136,Indonesian Spice Mixes,"Indonesian Instant Spices, White Curry",1.35,,,,,1.35,1.35
+,200137,Indonesian Spice Mixes,"Indonesian Instant Seasoning Mix, Oriental Curry",1.25,,,,,1.25,1.25
+,200138,Indonesian Spice Mixes,Instant Seasoning Mix Authentic Indonesian Recipe For Spicy Beef In Black Nut Soup,1.35,,,,,1.35,1.35
+,200139,Indonesian Spice Mixes,"Instant Seasoning Mix, Curry",1.25,,,,,1.25,1.25
+,200140,Indonesian Spice Mixes,"Instant Seasoning Mix, Chili And Spices Coconut Gravy",1.25,,,,,1.25,1.25
+,200141,Indonesian Spice Mixes,"Instant Seasoning Paste, Braised Chicken In Coconut Milk",3.77,,,,,3.77,3.77
+,200142,Indonesian Spice Mixes,"Instant Seasoning Paste, Sour Tamarind Soup",3.77,,,,,3.77,3.77
+,200143,Indonesian Spice Mixes,"Instant Seasoning Paste, Chili Chicken",3.77,,,,,3.77,3.77
+,200144,Milk,Coconut Milk Powder,1.04,,,,,1.04,1.04
+,200145,Milk,"Coconut Cream, Mae Ploy",2.4,,,,,2.4,2.4
+,200146,Milk,"Coconut Milk, Chaudoc",1.88,,,,,1.88,1.88
+,200147,Milk,"Coconut Milk, Aroy-D",1.77,,,,,1.77,1.77
+,200148,Milk,"Coconut Milk, Chaokoh, 13.5 Fluid Oz",1.88,,,,,1.88,1.88
+,200149,Milk,"Coconut Milk, Chaokoh, 5.6 Fluid Ounces",1.04,,,,,1.04,1.04
+,200150,Milk,"Coconut Milk, Aroy-D, 5.6 Fluid Oz",1.04,,,,,1.04,1.04
+,200151,Milk,Sweetened Condensed Milk,3.77,,,,,3.77,3.77
+,200152,Milk,Sweetened Condensed Filled Milk,2.4,,,,,2.4,2.4
+,200153,Oils,"Vegetable Oil, Great Value, 48 Oz",4.19,,,,,4.19,4.19
+,200154,Oils,"Corn Oil, Mazola, 40 Fluid Oz",4.19,,,,,4.19,4.19
+,200155,Oils,"Peanut Oil, 20 Fluid Oz",7.34,,,,,7.34,7.34
+,200156,Oils & Vinegars,Shaoxing Rice Cooking Wine,3.14,,,,,3.14,3.14
+,200157,Oils & Vinegars,Lite Rice Vinegar Reduced Sodium And Sugar,3.77,,,,,3.77,3.77
+,200158,Oils & Vinegars,Seasoned Gourmet Rice Vinegar Sweet And Tangy Flavor,3.98,,,,,3.98,3.98
+,200159,Oils & Vinegars,Sodium Free Sugar Free Rice Vinegar,2.72,,,,,2.72,2.72
+,200160,Oils & Vinegars,Diluted Black Vinegar,3.14,,,,,3.14,3.14
+,200161,Oils & Vinegars,Red Vinegar,3.03,,,,,3.03,3.03
+,200162,Oils & Vinegars,Vinegar,2.09,,,,,2.09,2.09
+,200163,Oils & Vinegars,Spiced Vinegar,2.61,,,,,2.61,2.61
+,200164,Oils & Vinegars,Distilled Vinegar,1.77,,,,,1.77,1.77
+,200165,Rice & Noodles,Lungkow Bean Thread,1.77,,,,,1.77,1.77
+,200166,Rice & Noodles,Rice Sticks,1.56,,,,,1.56,1.56
+,200167,Rice & Noodles,Rice Sticks Extra Sticky,1.56,,,,,1.56,1.56
+,200168,Rice & Noodles,Vietnamese Rice Vermicelli,1.67,,,,,1.67,1.67
+,200169,Rice & Noodles,Fried Rice Vermicelli,1.88,,,,,1.88,1.88
+,200170,Rice & Noodles,Quang Nam's Noodle,1.56,,,,,1.56,1.56
+,200171,Rice & Noodles,Saifun Bean Threads,2.3,,,,,2.3,2.3
+,200172,Rice & Noodles,Mekong Rice Paper,1.98,,,,,1.98,1.98
+,200173,Rice & Noodles,Rice Paper,4.71,,,,,4.71,4.71
+,200174,Rice & Noodles,Vegetarian Noodle,1.77,,,,,1.77,1.77
+,200175,Rice & Noodles,Stir-fried Noodle,6.29,,,,,6.29,6.29
+,200176,Sauces,Medium Sweet Soy Sauce,4.82,,,,,4.82,4.82
+,200177,Sauces,Sweet Soy Sauce,4.82,,,,,4.82,4.82
+,200178,Sauces,"Stir Fry Sauce, Kikkoman",3.66,,,,,3.66,3.66
+,200179,Sauces,"Steak Sauce, Kikkoman",3.66,,,,,3.66,3.66
+,200180,Sauces,"Baste And Glaze, Kikkoman",3.45,,,,,3.45,3.45
+,200181,Sauces,"Sweet And Sour Sauce, Kikkoman",3.14,,,,,3.14,3.14
+,200182,Sauces,"Orange Sauce, Kikkoman",3.45,,,,,3.45,3.45
+,200183,Sauces,"Katsu Sauce, Kikkoman",3.66,,,,,3.66,3.66
+,200184,Sauces,"Teriyaki Baste And Glaze With Honey And Pineapple, Kikkoman",3.66,,,,,3.66,3.66
+,200185,Sauces,"Sweet And Sour Dipping Sauce, Kikkoman",3.66,,,,,3.66,3.66
+,200186,Sauces,"Oyster Flavored Sauce, Kikkoman",3.14,,,,,3.14,3.14
+,200187,Sauces,"Worcestershire Sauce, Bulldog",5.24,,,,,5.24,5.24
+,200188,Sauces,"Soy Sauce, Kikkoman, 15 Fl Oz",4.19,,,,,4.19,4.19
+,200189,Sauces,"Less Sodium Soy Sauce, Kikkoman, 15 Oz",4.19,,,,,4.19,4.19
+,200190,Sauces,"Superior Light Soy Sauce, Pearl River Bridge",2.82,,,,,2.82,2.82
+,200191,Sauces,"Mushroom Flavored Soy Sauce Superior Dark Soy Sauce, Pearl River Bridge",2.93,,,,,2.93,2.93
+,200192,Sauces,"Soy Sauce Original Blend, Aloha",6.08,,,,,6.08,6.08
+,200193,Sauces,"Barbecue Sauce, Aloha",6.29,,,,,6.29,6.29
+,200194,Sauces,"Soy Sauce Lower Salt, Aloha",5.55,,,,,5.55,5.55
+,200195,Sauces,"Soy Sauce, Kikkoman, 20 Fluid Ounces",5.24,,,,,5.24,5.24
+,200196,Sauces,"Less Sodium Soy Sauce, Kikkoman, 20 Fluid Ounces",5.87,,,,,5.87,5.87
+,200197,Sauces,Naturally Fermented Soy Sauce,2.93,,,,,2.93,2.93
+,200198,Sauces,"Toyomansi, Soy Sauce With Philippine Lemon",3.14,,,,,3.14,3.14
+,200199,Sauces,Soy Sauce,3.14,,,,,3.14,3.14
+,200200,Sauces,Black Soy Sauce,4.19,,,,,4.19,4.19
+,200201,Sauces,Golden Mountain Seasoning Sauce,2.09,,,,,2.09,2.09
+,200202,Sauces,Mely Seasoning Soy Sauce,7.86,,,,,7.86,7.86
+,200203,Sauces,Maggi Seasoning,16.79,,,,,16.79,16.79
+,200204,Sauces,"Soy Sauce, Datu Puti",2.3,,,,,2.3,2.3
+,200205,Sauces,"Soy Sauce, Lauriat",3.14,,,,,3.14,3.14
+,200206,Sauces,"Special Soy Sauce, Silver Swan",3.14,,,,,3.14,3.14
+,200207,Sauces,Mushroom Soy Sauce,3.35,,,,,3.35,3.35
+,200208,Sauces,"Thin Soy Sauce, Healthy Boy Brand",3.03,,,,,3.03,3.03
+,200209,Sauces,"Seasoning Sauce, Healthy Boy Brand",3.03,,,,,3.03,3.03
+,200210,Sauces,Oyster Sauce,3.35,,,,,3.35,3.35
+,200211,Sauces,Panda Brand Oyster Flavored Sauce,7.34,,,,,7.34,7.34
+,200212,Sauces,"Oyster Flavored Sauce, Lee Kum Kee",6.29,,,,,6.29,6.29
+,200213,Sauces,"Hoisin Sauce, Lee Kum Kee",7.97,,,,,7.97,7.97
+,200214,Sauces,"Gold Label Plum Sauce, Lee Kum Kee",11.54,,,,,11.54,11.54
+,200215,Sauces,"Superior Light Soy Sauce, Pearl River Bridge, 1.8 L",5.87,,,,,5.87,5.87
+,200216,Sauces,"Superior Dark Soy Sauce, Pearl River Bridge, 1.8 L",6.92,,,,,6.92,6.92
+,200217,Sauces,"Mushroom Flavored Superior Dark Soy Sauce, Pearl River Bridge, 1.8 L",6.92,,,,,6.92,6.92
+,200218,Sauces,"Soy Sauce, Kikkoman, 1.89 L",9.44,,,,,9.44,9.44
+,200219,Sauces & Marinades,Korean Bbq Chicken And Pork Marinade,3.98,,,,,3.98,3.98
+,200220,Sauces & Marinades,Korean Bbq Marinade For Ribs,3.98,,,,,3.98,3.98
+,200221,Sauces & Marinades,Korean Bbq Bulgogi Marinade,3.98,,,,,3.98,3.98
+,200222,Sauces & Marinades,Super Premium Fish Sauce,0.72,,,,,0.72,0.72
+,200223,Sauces & Marinades,Premium Soy Sauce,2.72,,,,,2.72,2.72
+,200224,Sauces & Marinades,Kikkoman Soy Sauce,2.72,,,,,2.72,2.72
+,200225,Sauces & Marinades,Kikkoman Less Sodium Soy Sauce,3.77,,,,,3.77,3.77
+,200226,Sauces & Marinades,Maggi Seasoning,5.55,,,,,5.55,5.55
+,200227,Sauces & Marinades,Knorr Liquid Seasoning Original,3.77,,,,,3.77,3.77
+,200228,Sauces & Marinades,Potsticker Gyoza Dipping Sauce,2.09,,,,,2.09,2.09
+,200229,Sauces & Marinades,Kikkoman Gyoza Dipping Sauce,3.14,,,,,3.14,3.14
+,200230,Sauces & Marinades,Kikkoman Tempura Dipping Sauce,3.45,,,,,3.45,3.45
+,200231,Sauces & Marinades,Kikkoman Traditionally Brewed Soy Sauce,3.87,,,,,3.87,3.87
+,200232,Sauces & Marinades,Kikkoman Sushi And Sashimi Soy Sauce,3.35,,,,,3.35,3.35
+,200233,Sauces & Marinades,Kikkoman Teriyaki Marinade And Sauce,3.77,,,,,3.77,3.77
+,200234,Sauces & Marinades,Kikkoman Memmi Noodle Soup Base,3.14,,,,,3.14,3.14
+,200235,Sauces & Marinades,Kikkoman Sukiyaki Sauce,3.66,,,,,3.66,3.66
+,200236,Sauces & Marinades,Kikkoman Ponzu Citrus Seasoned Dressing And Sauce Lime,3.14,,,,,3.14,3.14
+,200237,Sauces & Marinades,Tamari Gluten Free Soy Sauce,4.82,,,,,4.82,4.82
+,200238,Sauces & Marinades,Tamari Gluten Free Soy Sauce Reduce Sodium,4.5,,,,,4.5,4.5
+,200239,Sauces & Marinades,Organic Tamari Gluten Free Soy Sauce,5.24,,,,,5.24,5.24
+,200240,Sauces & Marinades,Yakisoba Sauce,4.5,,,,,4.5,4.5
+,200241,Sauces & Marinades,Soup Base For Noodles,6.29,,,,,6.29,6.29
+,200242,Sauces & Marinades,Yakitori Marinade And Sauce,3.14,,,,,3.14,3.14
+,200243,Sauces & Marinades,Thai Peanut Dressing,3.14,,,,,3.14,3.14
+,200244,Sauces & Marinades,Creamy Miso Dressing,3.14,,,,,3.14,3.14
+,200245,Sauces & Marinades,Thai Noodle Sauce,1.56,,,,,1.56,1.56
+,200246,Sauces & Marinades,Sweet Thai Noodle Sauce,1.35,,,,,1.35,1.35
+,200247,Sauces & Marinades,Mud Fish Sauce,12.59,,,,,12.59,12.59
+,200248,Sauces & Marinades,Fish Sauce,8.39,,,,,8.39,8.39
+,200249,Sauces & Marinades,Special Fish Sauce,17.84,,,,,17.84,17.84
+,200250,Sauces & Marinades,Yentafo Sauce,3.14,,,,,3.14,3.14
+,200251,Sauces & Marinades,O.C. Cajun Dipping Sauce,6.29,,,,,6.29,6.29
+,200252,Sauces & Marinades,O.C. Cajun Sauce,7.86,,,,,7.86,7.86
+,200253,Sauces & Marinades,Spicy Bean Sauce,3.77,,,,,3.77,3.77
+,200254,Sauces & Marinades,Black Bean Garlic Sauce,4.08,,,,,4.08,4.08
+,200255,Sauces & Marinades,Chinese Style Bbq Sauce,2.09,,,,,2.09,2.09
+,200256,Sauces & Marinades,Black Bean Sauce With Garlic,3.98,,,,,3.98,3.98
+,200257,Sauces & Marinades,Thai Style Peanut Sauce,4.19,,,,,4.19,4.19
+,200258,Sauces & Marinades,Peanut Satay Sauce,2.72,,,,,2.72,2.72
+,200259,Sauces & Marinades,Hoisin Sauce,3.03,,,,,3.03,3.03
+,200260,Sauces & Marinades,Original Stir Fry Sauce,4.19,,,,,4.19,4.19
+,200261,Sauces & Marinades,Kung Pao Stir Fry Sauce,4.19,,,,,4.19,4.19
+,200262,Sauces & Marinades,Sriracha Mayo,3.77,,,,,3.77,3.77
+,200263,Sauces & Marinades,Spring Roll Sauce,3.56,,,,,3.56,3.56
+,200264,Sauces & Marinades,Lucky Fish Sauce,1.35,,,,,1.35,1.35
+,200265,Savory Snacks,Shrimp Crackers,4.19,,,,,4.19,4.19
+,200266,Savory Snacks,Preserved Duck Eggs,3.14,,,,,3.14,3.14
+,200267,Savory Snacks,Salted And Cooked Duck Eggs,6.29,,,,,6.29,6.29
+,200268,Savory Snacks,Prawn Crackers,4.71,,,,,4.71,4.71
+,200269,Savory Snacks,Padi Oates Cracker,4.19,,,,,4.19,4.19
+,200270,Savory Snacks,Rempeyek Batter Mix,4.19,,,,,4.19,4.19
+,200271,Savory Snacks,Instant Noodles Spicy Pork,13.64,,,,,13.64,13.64
+,200272,Savory Snacks,Bowl Noodle Soup Spicy Shrimp Flavor,13.64,,,,,13.64,13.64
+,200273,Savory Snacks,Bowl Noodle Soup Spicy Chicken Flavor,13.64,,,,,13.64,13.64
+,200274,Savory Snacks,Bowl Noodle Soup Hot And Spicy Flavor,13.64,,,,,13.64,13.64
+,200275,Savory Snacks,Bowl Noodle Soup Spicy Kimchi Flavor,13.64,,,,,13.64,13.64
+,200276,Savory Snacks,Mama Shrimp Tom Yum Flavor,13.22,,,,,13.22,13.22
+,200277,Savory Snacks,Porridge Soup Artificial Pork Flavor,15.74,,,,,15.74,15.74
+,200278,Savory Snacks,Porridge Soup Artificial Chicken Flavor,15.74,,,,,15.74,15.74
+,200279,Savory Snacks,Flour Sticks,3.98,,,,,3.98,3.98
+,200280,Savory Snacks,Hot Chicken Flavor Ramen,6.29,,,,,6.29,6.29
+,200281,Savory Snacks,Hot Wasabi Peas,5.24,,,,,5.24,5.24
+,200282,Seasoning & Curry Pastes,Chicken Woku Seasoning,3.77,,,,,3.77,3.77
+,200283,Seasoning & Curry Pastes,Aroma Pasta,1.25,,,,,1.25,1.25
+,200284,Seasoning & Curry Pastes,Holy Basil Seasoning Paste,1.25,,,,,1.25,1.25
+,200285,Seasoning & Curry Pastes,Oriental Braised Beef Seasoning Paste,1.25,,,,,1.25,1.25
+,200286,Seasoning & Curry Pastes,Massaman Curry Paste,1.35,,,,,1.35,1.35
+,200287,Seasoning & Curry Pastes,Panang Curry Paste,1.35,,,,,1.35,1.35
+,200288,Seasoning & Curry Pastes,Red Curry Paste,1.25,,,,,1.25,1.25
+,200289,Seasoning & Curry Pastes,Yellow Curry Paste,1.25,,,,,1.25,1.25
+,200290,Seasoning & Curry Pastes,Seafood Chili Sauce Mix,1.35,,,,,1.35,1.35
+,200291,Seasoning & Curry Pastes,Potted Seafood Seasoning Paste,1.25,,,,,1.25,1.25
+,200292,Seasoning & Curry Pastes,Sauteed Shrimp Paste,3.14,,,,,3.14,3.14
+,200293,Seasoning & Curry Pastes,Sauteed Shrimp Fry,4.19,,,,,4.19,4.19
+,200294,Seasonings & Curry Pastes,Salted Soybean Paste,2.93,,,,,2.93,2.93
+,200295,Seasonings & Curry Pastes,Tom Ka Paste,1.25,,,,,1.25,1.25
+,200296,Seasonings & Curry Pastes,Tom Yum Paste,1.25,,,,,1.25,1.25
+,200297,Seasonings & Curry Pastes,Nam Ya Curry Paste,1.04,,,,,1.04,1.04
+,200298,Seasonings & Curry Pastes,Kang Kiewwan Curry Paste,5.24,,,,,5.24,5.24
+,200299,Seasonings & Curry Pastes,Oxtail Seasoning Paste,3.77,,,,,3.77,3.77
+,200300,Seasonings & Curry Pastes,Madras Curry Paste,3.77,,,,,3.77,3.77
+,200301,Seasonings & Curry Pastes,White Lime Paste,1.04,,,,,1.04,1.04
+,200302,Seasonings & Curry Pastes,Red Lime Paste,1.04,,,,,1.04,1.04
+,200303,Seasonings & Curry Pastes,Singapore Curry Gravy,3.14,,,,,3.14,3.14
+,200304,Seasonings & Curry Pastes,Sour Curry Paste,1.35,,,,,1.35,1.35
+,200305,Seasonings & Curry Pastes,Karee Curry Paste (Yellow Curry Paste),1.46,,,,,1.46,1.46
+,200306,Seasonings & Curry Pastes,Panang Curry Paste,1.46,,,,,1.46,1.46
+,200307,Seasonings & Curry Pastes,Green Curry Paste,1.35,,,,,1.35,1.35
+,200308,Seasonings & Curry Pastes,Red Curry Paste,1.46,,,,,1.46,1.46
+,200309,Seasonings & Curry Pastes,Prik Khing Curry Paste,1.35,,,,,1.35,1.35
+,200310,Seasonings & Curry Pastes,Massaman Curry Paste,1.46,,,,,1.46,1.46
+,200311,Seasonings & Curry Pastes,Chu Chee Curry Paste,1.35,,,,,1.35,1.35
+,200312,Seasonings & Curry Pastes,Kaeng Kua Curry Paste,1.35,,,,,1.35,1.35
+,200313,Seasonings & Curry Pastes,Yellow Sour Curry Paste,1.35,,,,,1.35,1.35
+,200314,Seasonings & Curry Pastes,Kaeng Par Curry Paste,1.35,,,,,1.35,1.35
+,200315,Seasonings & Curry Pastes,Nam Ya Paste,3.98,,,,,3.98,3.98
+,200316,Seasonings & Curry Pastes,Yellow Curry Paste,3.45,,,,,3.45,3.45
+,200317,Seasonings & Curry Pastes,Instant Sour Paste Tom Yum,3.98,,,,,3.98,3.98
+,200318,Seasonings & Curry Pastes,Instant Seafood Clear Soup Paste,1.98,,,,,1.98,1.98
+,200319,Seasonings & Curry Pastes,Spicy Crab Paste,2.4,,,,,2.4,2.4
+,200320,Seasonings & Curry Pastes,Spicy Beef Flavored Paste,2.09,,,,,2.09,2.09
+,200321,Seasonings & Curry Pastes,Satay,3.35,,,,,3.35,3.35
+,200322,Seasonings & Curry Pastes,Shrimp Paste,2.09,,,,,2.09,2.09
+,200323,Seasonings & Curry Pastes,Shrimp Sauce Finely Ground,6.29,,,,,6.29,6.29
+,200324,Seasonings & Curry Pastes,Shrimp Sauce,5.24,,,,,5.24,5.24
+,200325,Seasonings & Curry Pastes,Mud Fish Sauce,7.34,,,,,7.34,7.34
+,200326,Soup Mixes,Wonton Soup Mix,1.25,,,,,1.25,1.25
+,200327,Soup Mixes,Sour Soup Base Mix,2.93,,,,,2.93,2.93
+,200328,Soup Mixes,Spicy Artificial Beef Flavor Broth,1.88,,,,,1.88,1.88
+,200329,Soup Mixes,Artificial Beef Flavor Broth,1.88,,,,,1.88,1.88
+,200330,Soup Mixes,Beef Flavor Broth,1.67,,,,,1.67,1.67
+,200331,Soup Mixes,Meatball Soup Seasoning,3.77,,,,,3.77,3.77
+,200332,Soup Mixes,Jakarta Variety Meat Soup Seasoning,3.77,,,,,3.77,3.77
+,200333,Soup Mixes,Chicken Soto Soup Seasoning,3.77,,,,,3.77,3.77
+,200334,Soup Mixes,Granulated Shrimp Bouillon,1.88,,,,,1.88,1.88
+,200335,Soup Mixes,Shrimp Tom Yum Flavor,13.22,,,,,13.22,13.22
+,200336,Soup Mixes,Red Curry Soup,1.88,,,,,1.88,1.88
+,200337,Soup Mixes,Green Curry Soup,1.88,,,,,1.88,1.88
+,200338,Soup Mixes,Massaman Curry Soup,1.77,,,,,1.77,1.77
+,200339,Soup Mixes,Artificial Beef Flavor Broth Mix,3.14,,,,,3.14,3.14
+,200340,Soup Mixes,Wonton Soup Base Mix,3.14,,,,,3.14,3.14
+,200341,Soup Mixes,Chicken Flavored Broth Mix,11.54,,,,,11.54,11.54
+,200342,Soup Mixes,Granulated Chicken Flavor Soup Base Mix,6.18,,,,,6.18,6.18
+,200343,Soup Mixes,Seasoning For Rice Soup,2.4,,,,,2.4,2.4
+,200344,Soup Mixes,Instant Wakame Soup Seaweed Soup,3.14,,,,,3.14,3.14
+,200345,Soup Mixes,Instant Tofu Miso Soup,3.35,,,,,3.35,3.35
+,200346,Soup Mixes,Instant Shiro Miso Soup,3.14,,,,,3.14,3.14
+,200347,Soup Mixes,Egg Flower Soup Mix,3.14,,,,,3.14,3.14
+,200348,Soup Mixes,Seafood Soup Mix Shrimp Flavor,3.14,,,,,3.14,3.14
+,200349,Soup Mixes,Egg Flower Soup Mix Hot & Sour,3.35,,,,,3.35,3.35
+,200350,Soup Mixes,Seafood Soup Mix Crab Flavor,3.14,,,,,3.14,3.14
+,200351,Soup Mixes,Egg Flower Soup Mix Vegetable,3.14,,,,,3.14,3.14
+,200352,Soup Mixes,Soup Base For Satay Hot Pot,1.67,,,,,1.67,1.67
+,200353,Soup Mixes,Instant Concentrate Soup Base Chicken Flavor,1.98,,,,,1.98,1.98
+,200354,Soup Mixes,Instant Concentrate Soup Base Pork Flavor,1.98,,,,,1.98,1.98
+,200355,Soup Mixes,Spicy Crab Soup,1.88,,,,,1.88,1.88
+,200356,Spice & Seasoning Mixes,Spicy Chicken And Rice Seasoning Mix,1.35,,,,,1.35,1.35
+,200357,Spice & Seasoning Mixes,"Barbecue Seasoning Mix, Lobo",1.46,,,,,1.46,1.46
+,200358,Spice & Seasoning Mixes,Chinese Five-Spice Blend,1.46,,,,,1.46,1.46
+,200359,Spice & Seasoning Mixes,Powder For Fermenting Pork,1.56,,,,,1.56,1.56
+,200360,Spice & Seasoning Mixes,Pepper And Garlic Seasoning Mix,1.25,,,,,1.25,1.25
+,200361,Spice & Seasoning Mixes,Nam Nuong Seasoning Mix,1.25,,,,,1.25,1.25
+,200362,Spice & Seasoning Mixes,Satay Seasoning Mix,1.56,,,,,1.56,1.56
+,200363,Spice & Seasoning Mixes,Roast Red Pork Seasoning Mix,1.46,,,,,1.46,1.46
+,200364,Spice & Seasoning Mixes,Seasoning Mix For Chicken,1.46,,,,,1.46,1.46
+,200365,Spice & Seasoning Mixes,Mutton In A Tongseng Seasoning,3.87,,,,,3.87,3.87
+,200366,Spice & Seasoning Mixes,Oriental Special Mixed Chili,1.25,,,,,1.25,1.25
+,200367,Spice & Seasoning Mixes,Oriental Special Five Spices,1.25,,,,,1.25,1.25
+,200368,Spice & Seasoning Mixes,Spices For Vietnamese Noodle Soup,1.04,,,,,1.04,1.04
+,200369,Spice & Seasoning Mixes,Spices For Chicken Wings Butter Fry,1.35,,,,,1.35,1.35
+,200370,Spice & Seasoning Mixes,Indian Curry Powder For Chicken,1.98,,,,,1.98,1.98
+,200371,Spice & Seasoning Mixes,Bbq Beef And Shrimp Mix,1.04,,,,,1.04,1.04
+,200372,Spice & Seasoning Mixes,Amomum Costatum,3.03,,,,,3.03,3.03
+,200373,Spice & Seasoning Mixes,Oriental Fried Rice Seasoning Mix,1.04,,,,,1.04,1.04
+,200374,Spice & Seasoning Mixes,Som Tam Seasoning Powder,1.35,,,,,1.35,1.35
+,200375,Spice & Seasoning Mixes,Laab-namtok Seasoning Mix,1.25,,,,,1.25,1.25
+,200376,Spice & Seasoning Mixes,Noodle Curry Mix,1.25,,,,,1.25,1.25
+,200377,Spice & Seasoning Mixes,Satay Sauce Mix,1.04,,,,,1.04,1.04
+,200378,Spice & Seasoning Mixes,Pad Thai Stir-fry Sauce,1.56,,,,,1.56,1.56
+,200379,Spice & Seasoning Mixes,Roast Red Pork Gravy Mix,1.25,,,,,1.25,1.25
+,200380,Spice & Seasoning Mixes,Kaang Lieng Seasoning Mix,1.25,,,,,1.25,1.25
+,200381,Spice & Seasoning Mixes,Ns-mix (Food Additive),1.04,,,,,1.04,1.04
+,200382,Spice & Seasoning Mixes,Artificial Maengdana Flavor,1.88,,,,,1.88,1.88
+,200383,Spice & Seasoning Mixes,Bumbu Satai Padang,3.77,,,,,3.77,3.77
+,200384,Spice & Seasoning Mixes,Laksa Seasoning,3.77,,,,,3.77,3.77
+,200385,Spice & Seasoning Mixes,Jakarta Fragrant Rice Seasoning,3.77,,,,,3.77,3.77
+,200386,Spice & Seasoning Mixes,Steamed Fish With Hot Spices Seasoning,3.66,,,,,3.66,3.66
+,200387,Spice & Seasoning Mixes,Javanese Fried Noodle Seasoning,3.77,,,,,3.77,3.77
+,200388,Spice & Seasoning Mixes,Oriental Spices Roast Pork Rib Beef Chicken,1.25,,,,,1.25,1.25
+,200389,Spice & Seasoning Mixes,Oriental Spices For Catfish Sauce,1.25,,,,,1.25,1.25
+,200390,Spice & Seasoning Mixes,Hot Spicy Szechuan Seasoning Mix,1.25,,,,,1.25,1.25
+,200391,Spice & Seasoning Mixes,Hot And Spicy Kung Pao Chicken Seasoning Mix,1.25,,,,,1.25,1.25
+,200392,Spice & Seasoning Mixes,Chinese Barbecue Seasoning Mix,1.56,,,,,1.56,1.56
+,200393,Spice & Seasoning Mixes,Chinese Fried Rice Seasoning Mix,1.56,,,,,1.56,1.56
+,200394,Spice & Seasoning Mixes,Chinese Roast Duck Mix,1.35,,,,,1.35,1.35
+,200395,Spice & Seasoning Mixes,Hawaiian Style Teri Burger Seasoning Mix,1.56,,,,,1.56,1.56
+,200396,Spice & Seasoning Mixes,Korean Barbecue Seasoning Mix,1.46,,,,,1.46,1.46
+,200397,Spice & Seasoning Mixes,Chinese Sweet Sour Spareribs Seasoning Mix,1.46,,,,,1.46,1.46
+,200398,Spice & Seasoning Mixes,Malaysian Curry Powder,1.56,,,,,1.56,1.56
+,200399,Spice & Seasoning Mixes,Tofu Burger Patty Mix,3.14,,,,,3.14,3.14
+,200400,Spice & Seasoning Mixes,Japanese Teriyaki Seasoning Mix,1.25,,,,,1.25,1.25
+,200401,Spice & Seasoning Mixes,Hawaiian Spicy Chicken Seasoning Mix,2.09,,,,,2.09,2.09
+,200402,Spice & Seasoning Mixes,Chinese Lemon Chicken Sauce Mix,2.09,,,,,2.09,2.09
+,200403,Spice & Seasoning Mixes,Bree Hot Pot Paste,3.03,,,,,3.03,3.03
+,200404,Spice & Seasoning Mixes,Sauce For Ma Po Tofu,1.46,,,,,1.46,1.46
+,200405,Spice & Seasoning Mixes,Sauce For Shredded Pork In Peking Style,1.25,,,,,1.25,1.25
+,200406,Spice & Seasoning Mixes,Sauce For Sweet And Spicy Beef Ribs,1.14,,,,,1.14,1.14
+,200407,Spice & Seasoning Mixes,O.C. Cajun Seasoning,7.86,,,,,7.86,7.86
+,200408,Spice & Seasoning Mixes,O.C. Cajun Chili Mix,3.03,,,,,3.03,3.03
+,200409,Spice & Seasoning Mixes,Shrimp Powder With Chili,4.19,,,,,4.19,4.19
+,200410,Spice & Seasoning Mixes,Spicy Thai Salad Dressing Mix,3.35,,,,,3.35,3.35
+,200411,Spices,Paprika,22.04,,,,,22.04,22.04
+,200412,Spices,Oriental Beef Spices,1.25,,,,,1.25,1.25
+,200413,Spices,Coriander Seeds,1.25,,,,,1.25,1.25
+,200414,Spices,Paprika Powder,1.67,,,,,1.67,1.67
+,200415,Spices,Spice Seasoning,2.09,,,,,2.09,2.09
+,200416,Spices,Dried Prickly Ash (Dried Sichuan Pepper),3.14,,,,,3.14,3.14
+,200417,Spices,Fennel Seeds,1.25,,,,,1.25,1.25
+,200418,Spices,Basil Seeds,1.56,,,,,1.56,1.56
+,200419,Spices,Annatto Seed,1.25,,,,,1.25,1.25
+,200420,Spices,Coriander,1.25,,,,,1.25,1.25
+,200421,Spices,"Fried Desiccated Coconut, Spicy",2.3,,,,,2.3,2.3
+,200422,Spices,Annatto Powder,0.72,,,,,0.72,0.72
+,200423,Spices,Ground Cinnamon,0.62,,,,,0.62,0.62
+,200424,Spices,Baking Powder,2.09,,,,,2.09,2.09
+,200425,Spices,Dried Star Anise,7.34,,,,,7.34,7.34
+,200426,Spices,"Spice Grains, Coriander Seeds",5.24,,,,,5.24,5.24
+,200427,Spices,Dried Cloves,16.79,,,,,16.79,16.79
+,200428,Spices,Concentrated Cooking Tamarind,2.93,,,,,2.93,2.93
+,200429,Spices,Dried Yeast,3.77,,,,,3.77,3.77
+,200430,Spices,Poontalai,1.77,,,,,1.77,1.77
+,200431,Spices,Black Sesame Seed,1.88,,,,,1.88,1.88
+,200432,Spices,Dried Cinnamon,7.34,,,,,7.34,7.34
+,200433,Spices,White Sesame Seed,1.88,,,,,1.88,1.88
+,200434,Spices,Indonesian Bay Leaf,1.25,,,,,1.25,1.25
+,200435,Spices,Crushed Chili,0.93,,,,,0.93,0.93
+,200436,Spices,Cumin Powder,1.04,,,,,1.04,1.04
+,200437,Spices,Turmeric Powder,1.25,,,,,1.25,1.25
+,200438,Spices,Chili Powder,4.5,,,,,4.5,4.5
+,200439,Spices,Red Pepper Powder,1.88,,,,,1.88,1.88
+,200440,Spices,Special Grade White Pepper,5.87,,,,,5.87,5.87
+,200441,Spices,Whole Black Pepper,4.19,,,,,4.19,4.19
+,200442,Spices,White Pepper Powder,10.49,,,,,10.49,10.49
+,200443,Spices,Black Pepper Powder,9.44,,,,,9.44,9.44
+,200444,Spices,Clove Powder,2.09,,,,,2.09,2.09
+,200445,Spices,Kaempferia Galanga Powder,2.72,,,,,2.72,2.72
+,200446,Spices,Caraway Powder,2.09,,,,,2.09,2.09
+,200447,Spices,Whole Cumin Seeds,2.09,,,,,2.09,2.09
+,200448,Spices,Star Anise Powder,1.56,,,,,1.56,1.56
+,200449,Spices,Lemongrass Powder,3.14,,,,,3.14,3.14
+,200450,Spices,Ginger Powder,3.14,,,,,3.14,3.14
+,200451,Spices,Galanga Powder,3.77,,,,,3.77,3.77
+,200452,Spices,Madras Curry Powder,3.77,,,,,3.77,3.77
+,200453,Spices,Fried Garlic,6.29,,,,,6.29,6.29
+,200454,Spices,Bai-ya-nan Leaves,3.14,,,,,3.14,3.14
+,200455,Spices,Palm Nut,3.14,,,,,3.14,3.14
+,200456,Spices,Som-poi,8.39,,,,,8.39,8.39
+,200457,Spices,Dehydrated Crushed Hot Chili,26.24,,,,,26.24,26.24
+,200458,Spices,Natural Sea Salt,2.4,,,,,2.4,2.4
+,200459,Spices,Sea Salt Fine Grain,6.6,,,,,6.6,6.6
+,200460,Spices,Five Spices Powder,2.3,,,,,2.3,2.3
+,200461,Spices,Chinese Five Spices,2.4,,,,,2.4,2.4
+,200462,Starches & Flours,Mung Bean Starch,2.72,,,,,2.72,2.72
+,200463,Starches & Flours,Mixed Flour For Rice Sticks,0.93,,,,,0.93,0.93
+,200464,Starches & Flours,Tapioca Starch,1.35,,,,,1.35,1.35
+,200465,Starches & Flours,Powdered Purple Yam,4.82,,,,,4.82,4.82
+,200466,Starches & Flours,Jelly Powder,1.67,,,,,1.67,1.67
+,200467,Starches & Flours,Tempura Flour,0.93,,,,,0.93,0.93
+,200468,Starches & Flours,Tempura Mix,0.83,,,,,0.83,0.83
+,200469,Starches & Flours,"Agar-Agar Powder, Telephone Brand",2.3,,,,,2.3,2.3
+,200470,Starches & Flours,"Agar Agar Powder, Now Globe Brand",1.35,,,,,1.35,1.35
+,200471,Starches & Flours,Corn Flakes,2.09,,,,,2.09,2.09
+,200472,Starches & Flours,"Tapioca Starch, 14 Oz",0.93,,,,,0.93,0.93
+,200473,Starches & Flours,"Tapioca Starch, 16 Oz",1.35,,,,,1.35,1.35
+,200474,Starches & Flours,"Rice Flour, 16 Oz",1.14,,,,,1.14,1.14
+,200475,Starches & Flours,"Glutinous Rice Flour, 16 Oz",1.25,,,,,1.25,1.25
+,200476,Starches & Flours,Rice Spaghetti (Bot Banh Canh),1.35,,,,,1.35,1.35
+,200477,Starches & Flours,Flour For Rice Pancake,1.67,,,,,1.67,1.67
+,200478,Starches & Flours,Vietnamese Steamed Rice Roll Mix,1.46,,,,,1.46,1.46
+,200479,Starches & Flours,Sweet Potato Starch,1.77,,,,,1.77,1.77
+,200480,Starches & Flours,Mixed Flour For Finest Flour Cake,1.35,,,,,1.35,1.35
+,200481,Starches & Flours,Flower For Small Pancakes,1.46,,,,,1.46,1.46
+,200482,Starches & Flours,Potato Starch,3.03,,,,,3.03,3.03
+,200483,Starches & Flours,"White Rice Cake, Flour ??",1.35,,,,,1.35,1.35
+,200484,Starches & Flours,Dumpling Flour,1.46,,,,,1.46,1.46
+,200485,Starches & Flours,All Purpose Flour,2.09,,,,,2.09,2.09
+,200486,Starches & Flours,Steamed Bun Flour,1.46,,,,,1.46,1.46
+,200487,Starches & Flours,Flour For Steamed Rice Rolls,1.35,,,,,1.35,1.35
+,200488,Starches & Flours,Transparent Wet Rice Rolls Flour,1.35,,,,,1.35,1.35
+,200489,Starches & Flours,"Deep Fried Shrimp Cake, Mix",1.35,,,,,1.35,1.35
+,200490,Starches & Flours,Flour For Steamed Pork Cake,1.25,,,,,1.25,1.25
+,200491,Starches & Flours,Tempura Batter Mix,1.35,,,,,1.35,1.35
+,200492,Starches & Flours,Little Circle Fried Shrimp Flour,1.35,,,,,1.35,1.35
+,200493,Starches & Flours,Banana And Shrimp Batter Mix,1.35,,,,,1.35,1.35
+,200494,Starches & Flours,Kanomchan Flour,1.88,,,,,1.88,1.88
+,200495,Starches & Flours,Wheat Starch,1.46,,,,,1.46,1.46
+,200496,Starches & Flours,Roast Rice Powder,1.25,,,,,1.25,1.25
+,200497,Starches & Flours,Banana Fritter Batter Mix,1.56,,,,,1.56,1.56
+,200498,Starches & Flours,Water Chestnut Starch,4.08,,,,,4.08,4.08
+,200499,Starches & Flours,Sweet Rice Flour,2.09,,,,,2.09,2.09
+,200500,Starches & Flours,Cornstarch,1.56,,,,,1.56,1.56
+,200501,Starches & Flours,Salapao Mix,2.09,,,,,2.09,2.09
+,200502,Sugar & Sweets,Vanilla Sugar,2.09,,,,,2.09,2.09
+,200503,Sugar & Sweets,White Alum,1.04,,,,,1.04,1.04
+,200504,Sugar & Sweets,Green Jelly,1.35,,,,,1.35,1.35
+,200505,Sugar & Sweets,Almond Jelly,1.56,,,,,1.56,1.56
+,200506,Sugar & Sweets,Ai Yu Jelly,1.35,,,,,1.35,1.35
+,200507,Sugar & Sweets,Sweet Coconut Balls,3.14,,,,,3.14,3.14
+,200508,Sugar & Sweets,Sweet Fruit Mixture,5.24,,,,,5.24,5.24
+,200509,Sugar & Sweets,Dried Licorice Slice,2.3,,,,,2.3,2.3
+,200510,Sugar & Sweets,Lump Candy,1.98,,,,,1.98,1.98
+,200511,Sugar & Sweets,"Palm Sugar, 17.6 Oz",1.88,,,,,1.88,1.88
+,200512,Sugar & Sweets,Palm Sugar,2.3,,,,,2.3,2.3
+,200513,Sugar & Sweets,"Palm Sugar, O - Cha",1.77,,,,,1.77,1.77
+,200514,Sugar & Sweets,"Palm Sugar, Ctf Brand",1.88,,,,,1.88,1.88
+,200515,Sugar & Sweets,"Palm Sugar, Oh - Cha",1.88,,,,,1.88,1.88
+,200516,Sugar & Sweets,Rock Candy,1.88,,,,,1.88,1.88
+,200517,Sugar & Sweets,"Yellow Rock Sugar, 16 Oz",1.88,,,,,1.88,1.88
+,200518,Sugar & Sweets,"Palm Sugar, Kokonusszucker",3.66,,,,,3.66,3.66
+,200519,Sugar & Sweets,Fruit Pickles,3.87,,,,,3.87,3.87
+,200520,Sugar & Sweets,Coconut Agar Dessert Mix,1.35,,,,,1.35,1.35
+,200521,Sugar & Sweets,Mango Flavor Agar Dessert Mix,1.46,,,,,1.46,1.46
+,200522,Sugar & Sweets,Coconut Juice Flavor Agar Dessert Mix,1.46,,,,,1.46,1.46
+,200523,Sugar & Sweets,Thai Flowers Flavor Agar Dessert Mix,1.46,,,,,1.46,1.46
+,200524,Sugar & Sweets,Thai Fruits Flavor Agar Dessert Mix,1.14,,,,,1.14,1.14
+,200525,Sugar & Sweets,Coffee Agar Dessert Mix,1.14,,,,,1.14,1.14
+,200526,Sugar & Sweets,Custard Agar Dessert Mix,1.14,,,,,1.14,1.14
+,200527,Sugar & Sweets,Black Grass Jelly,1.67,,,,,1.67,1.67
+,200528,Sugar & Sweets,Green Mashed Beans Flavor Pudding Powder,1.46,,,,,1.46,1.46
+,200529,Sugar & Sweets,Thai Custard Mix Pandan Flavor,1.25,,,,,1.25,1.25
+,200530,Sugar & Sweets,Thai Custard Mix Vanilla Flavor,1.14,,,,,1.14,1.14
+,200531,Sugar & Sweets,Coconut Milk Pudding,1.88,,,,,1.88,1.88
+,200532,Sugar & Sweets,Jelly Pudding Mango Flavor,1.67,,,,,1.67,1.67
+,200533,Sugar & Sweets,Jelly Powder Pandan Flavor,1.67,,,,,1.67,1.67
+,200534,Sugar & Sweets,Agar Jelly Pudding Coconut Flavor,1.67,,,,,1.67,1.67
+,200535,Sugar & Sweets,Natural Agar Gelatin Dessert,2.72,,,,,2.72,2.72
+,200536,Sugar & Sweets,Steam Rose Cake Mix,3.14,,,,,3.14,3.14
+,200537,Sugar & Sweets,Pandan Chiffon Cake Mix,3.14,,,,,3.14,3.14
+,200538,Sugar & Sweets,Sponge Cake Mix,3.14,,,,,3.14,3.14
+,200539,Sugar & Sweets,Sweet Martabak Cake Mix,3.14,,,,,3.14,3.14
+,200540,Sugar & Sweets,Steamed White Cake Mix,2.39,,,,,2.39,2.39
+,200541,Sugar & Sweets,Sweetened Red Beans,4.5,,,,,4.5,4.5
+,200542,Sugar & Sweets,Coco Caramel Syrup,2.09,,,,,2.09,2.09
+,200543,Sugar & Sweets,Coconut Cream Powder,2.09,,,,,2.09,2.09
+,200544,Syrups & Flavorings,Concentrated Artificial Sala Flavored Syrup,3.66,,,,,3.66,3.66
+,200545,Syrups & Flavorings,Concentrated Artificial Cream Soda Flavored Syrup,3.66,,,,,3.66,3.66
+,200546,Syrups & Flavorings,Concentrated Artificial Pineapple Flavored Syrup,3.45,,,,,3.45,3.45
+,200547,Syrups & Flavorings,Concentrated Artificial Mali Flavored Syrup,3.45,,,,,3.45,3.45
+,200548,Syrups & Flavorings,Pandan Flavoring,1.56,,,,,1.56,1.56
+,200549,Syrups & Flavorings,"Flavoring Essence, Coconut",1.88,,,,,1.88,1.88
+,200550,Syrups & Flavorings,"Flavoring Essence, Jasmine",1.98,,,,,1.98,1.98
+,200551,Syrups & Flavorings,Vanilla Syrup,3.98,,,,,3.98,3.98
+,200552,Syrups & Flavorings,Strawberry Syrup,4.19,,,,,4.19,4.19
+,200553,Syrups & Flavorings,Rasa Mocca Syrup,3.45,,,,,3.45,3.45
+,200554,Syrups & Flavorings,Coconut Gel In Syrup,1.88,,,,,1.88,1.88
+,200555,Tapioca,Dried Tapioca Shreds,1.46,,,,,1.46,1.46
+,200556,Tapioca,Black Tapioca Pearls,2.72,,,,,2.72,2.72
+,200557,Tapioca,Clear Tapioca Pearls,3.03,,,,,3.03,3.03
+,200558,Tapioca,Tapioca Pearls,1.25,,,,,1.25,1.25
+,200559,Refrigerated Produce,Sweet Tamarind,4.71,,,,,4.71,4.71
+,200560,Refrigerated Produce,Yuzi Tofu,2.61,,,,,2.61,2.61
+,200561,Refrigerated Produce,Seasoned Fried Bean Curd (12pcs),4.19,,,,,4.19,4.19
+,200562,Refrigerated Produce,Tofu (Firm),1.88,,,,,1.88,1.88
+,200563,Refrigerated Produce,Tofu (Medium Firm),1.88,,,,,1.88,1.88
+,200564,Refrigerated Produce,White Beech Mushroom,1.56,,,,,1.56,1.56
+,200565,Refrigerated Produce,Brown Beech Mushroom,1.56,,,,,1.56,1.56
+,200566,Refrigerated Produce,Organic Maitake Mushrooms,2.72,,,,,2.72,2.72
+,200567,Refrigerated Produce,Organic Dried Red Jujubes,4.19,,,,,4.19,4.19
+,200568,Refrigerated Produce,Pickled Radish,4.19,,,,,4.19,4.19
+,200569,Refrigerated Produce,Kimchi (3LB),11.54,,,,,11.54,11.54
+,200570,Refrigerated Produce,"Kimchi (1lb, 12oz.)",7.86,,,,,7.86,7.86
+,200571,Refrigerated Produce,Kimchi (14oz),5.55,,,,,5.55,5.55
+,200572,Refrigerated Produce,Radish Kimchi,5.24,,,,,5.24,5.24
+,200573,Refrigerated Produce,Soybean Paste Red Type,5.24,,,,,5.24,5.24
+,200574,Refrigerated Produce,Enoki Mushroom,1.56,,,,,1.56,1.56
+,200575,Refrigerated Produce,Young Coconut (whole),2.3,,,,,2.3,2.3
+,200576,Frozen Meat,Edible Pork Blood,3.14,,,,,3.14,3.14
+,200577,Frozen Meat,Cooked Beef Meatballs,4.5,,,,,4.5,4.5
+,200578,Frozen Meat,Cooked Beef Tendon Ball,4.5,,,,,4.5,4.5
+,200579,Frozen Meat,Cooked Pork Balls,4.61,,,,,4.61,4.61
+,200580,Frozen Meat,Seasoned Chicken Skewers,6.81,,,,,6.81,6.81
+,200581,Frozen Meat,Beef Tapa,3.77,,,,,3.77,3.77
+,200582,Frozen Meat,Chicken Tocino,4.08,,,,,4.08,4.08
+,200583,Frozen Meat,Beef Longansia,6.29,,,,,6.29,6.29
+,200584,Frozen Meat,Swee Pork Longanisa,5.76,,,,,5.76,5.76
+,200585,Frozen Meat,Pork Meat Balls,4.82,,,,,4.82,4.82
+,200586,Frozen Meat,Beef Tendon Balls,5.03,,,,,5.03,5.03
+,200587,Frozen Meat,Cured Pork Sausage,14.69,,,,,14.69,14.69
+,200588,Frozen Meat,Hot Dogs,3.14,,,,,3.14,3.14
+,200589,Frozen Meat,Cured Ground Pork For BBQ Meat Balls,9.44,,,,,9.44,9.44
+,200590,Frozen Meat,Cooked Beef & Beef Tendon Balls,4.82,,,,,4.82,4.82
+,200591,Frozen Meat,Cooked Sliced Pork Skins,1.77,,,,,1.77,1.77
+,200592,Frozen Meat,Pork Meatloaf,4.19,,,,,4.19,4.19
+,200593,Frozen Meat,Pork Meatloaf with Pork Skins,4.19,,,,,4.19,4.19
+,200594,Frozen Fish,Frozen Crab With Shell Cooked (BA KHIA),5.03,,,,,5.03,5.03
+,200595,Frozen Fish,Greenshell Mussels,14.69,,,,,14.69,14.69
+,200596,Frozen Fish,"White Shrimp (Raw, Large, 26-30)",15.74,,,,,15.74,15.74
+,200597,Frozen Fish,Shrimp (Peeled and Deveined),16.79,,,,,16.79,16.79
+,200598,Frozen Fish,Blood Clam,4.4,,,,,4.4,4.4
+,200599,Frozen Fish,Squid Rings (12 oz),4.19,,,,,4.19,4.19
+,200600,Frozen Fish,Yellow Eel,4.82,,,,,4.82,4.82
+,200601,Frozen Fish,Yellowtail Scad Fish,5.76,,,,,5.76,5.76
+,200602,Frozen Fish,Bonito Tuna Fisn,12.48,,,,,12.48,12.48
+,200603,Frozen Fish,Baby Snake Head Fish Fillet,7.86,,,,,7.86,7.86
+,200604,Frozen Fish,Loligo Squid Tentacles,5.24,,,,,5.24,5.24
+,200605,Frozen Fish,Frozen Whole Cleaned Octopus,4.19,,,,,4.19,4.19
+,200606,Frozen Fish,Frozen Cuttlefish (Cleaned) IVP,4.92,,,,,4.92,4.92
+,200607,Frozen Fish,Frozen Raw Shrimp (4Lbs.),26.24,,,,,26.24,26.24
+,200608,Frozen Fish,Frozen Squid (3lb),10.38,,,,,10.38,10.38
+,200609,Frozen Fish,Silver Fish,8.18,,,,,8.18,8.18
+,200610,Frozen Fish,Gourami Fish Gutted,7.86,,,,,7.86,7.86
+,200611,Frozen Fish,Frog Cleaned,9.86,,,,,9.86,9.86
+,200612,Frozen Fish,Frozen Krill,2.72,,,,,2.72,2.72
+,200613,Frozen Fish,Frozen Tiny Shrimp,3.14,,,,,3.14,3.14
+,200614,Frozen Fish,Blue Crab,3.77,,,,,3.77,3.77
+,200615,Frozen Fish,Periwinkle Meat,1.88,,,,,1.88,1.88
+,200616,Frozen Fish,Frozen Climbing Perch Gutted,2.09,,,,,2.09,2.09
+,200617,Frozen Fish,Clams,4.19,,,,,4.19,4.19
+,200618,Frozen Fish,Imitation Crab Flakes,2.09,,,,,2.09,2.09
+,200619,Frozen Fish,Dried Silver Croaker,4.19,,,,,4.19,4.19
+,200620,Frozen Fish,Cooked Snail Meat,3.14,,,,,3.14,3.14
+,200621,Frozen Fish,Salted Bull Head Fish Fillet,10.07,,,,,10.07,10.07
+,200622,Frozen Fish,Headless Sand Goby,3.14,,,,,3.14,3.14
+,200623,Frozen Fish,Wild Caught Goby Fish,5.76,,,,,5.76,5.76
+,200624,Frozen Fish,Dried Bombay Duck Fish,5.13,,,,,5.13,5.13
+,200625,Frozen Fish,Boneless Milkfish,6.08,,,,,6.08,6.08
+,200626,Frozen Fish,Steamed Mackerel,6.81,,,,,6.81,6.81
+,200627,Frozen Fish,Frozen Red Mackerel,6.92,,,,,6.92,6.92
+,200628,Frozen Produce,Frozen Lin Mai,2.72,,,,,2.72,2.72
+,200629,Frozen Produce,Frozen Margosa,2.61,,,,,2.61,2.61
+,200630,Frozen Produce,Frozen Cassave Leaves,2.4,,,,,2.4,2.4
+,200631,Frozen Produce,Frozen Fried Silworm,3.45,,,,,3.45,3.45
+,200632,Frozen Produce,Frozen Fried Grasshopper With Salt,6.81,,,,,6.81,6.81
+,200633,Frozen Produce,Stewing Hen,6.18,,,,,6.18,6.18
+,200634,Frozen Produce,Frozne Pandan Leaves,1.88,,,,,1.88,1.88
+,200635,Frozen Produce,Frozen Red Chilli,1.56,,,,,1.56,1.56
+,200636,Frozen Produce,Lao Olive,2.3,,,,,2.3,2.3
+,200637,Frozen Produce,Yanang Leaves,1.77,,,,,1.77,1.77
+,200638,Frozen Produce,Cassava,1.67,,,,,1.67,1.67
+,200639,Frozen Produce,Grated Cassava,1.67,,,,,1.67,1.67
+,200640,Frozen Produce,Grated Coconut,2.72,,,,,2.72,2.72
+,200641,Frozen Produce,Frozen Coconut Milk,2.51,,,,,2.51,2.51
+,200642,Frozen Produce,Coconut Milk,2.51,,,,,2.51,2.51
+,200643,Frozen Produce,Yanang Extract,1.67,,,,,1.67,1.67
+,200644,Frozen Produce,Frozen Parkia Speciosa,3.14,,,,,3.14,3.14
+,200645,Frozen Produce,Frozen Galanga Whole,1.88,,,,,1.88,1.88
+,200646,Frozen Produce,Frozen Chopped Lemon Grass,3.45,,,,,3.45,3.45
+,200647,Frozen Produce,Frozen Seedless Durian,11.54,,,,,11.54,11.54
+,200648,Frozen Produce,Frozen Cooked Peeled Young Corn,2.09,,,,,2.09,2.09
+,200649,Frozen Produce,Shredded Young Coconut,1.98,,,,,1.98,1.98
+,200650,Frozen Produce,Galanga,4.19,,,,,4.19,4.19
+,200651,Frozen Produce,Frozen Krachai,1.88,,,,,1.88,1.88
+,200652,Frozen Produce,KareKare,6.29,,,,,6.29,6.29
+,200653,Frozen Produce,Palm Nut,3.56,,,,,3.56,3.56
+,200654,Frozen Produce,Fried Tofu,2.51,,,,,2.51,2.51
+,200655,Frozen Produce,Candle Nut,2.93,,,,,2.93,2.93
+,200656,Frozen Produce,Soybean Cake,3.14,,,,,3.14,3.14
+,200657,Frozen Produce,New Zealand Butter (Salted),8.28,,,,,8.28,8.28
+,200658,Frozen Produce,Vegetarian Sausage,6.29,,,,,6.29,6.29
+,200659,Frozen Produce,Edamame Shelled,2.4,,,,,2.4,2.4
+,200660,Frozen Produce,Sour Bamboo Shoot,2.09,,,,,2.09,2.09
+,200661,Frozen Produce,Poached Green Bamboo,2.4,,,,,2.4,2.4
+,200662,Frozen Produce,Bamboo Shoots,2.72,,,,,2.72,2.72
+,200663,Frozen Seafood,Shrimp Balls,5.24,,,,,5.24,5.24
+,200664,Frozen Seafood,Dried Squid (whole),13.64,,,,,13.64,13.64
+,200665,Frozen Meals,Vegetarian Pia Cake (Mungbean and Durian),4.82,,,,,4.82,4.82
+,200666,Frozen Meals,Barbecue Siopao,4.19,,,,,4.19,4.19
+,200667,Frozen Meals,Potstickers Veg & Pork,7.34,,,,,7.34,7.34
+,200668,Frozen Meals,Potstickers Veg & Chicken,7.34,,,,,7.34,7.34
+,200669,Frozen Meals,Pork Meatloaf,5.24,,,,,5.24,5.24
+,200670,Frozen Meals,Pork Meat Roll,6.29,,,,,6.29,6.29
+,200671,Frozen Meals,Fried Fish Cake,5.24,,,,,5.24,5.24
+,200672,Frozen Meals,Wonton Skins,2.09,,,,,2.09,2.09
+,200673,Frozen Meals,Wonton Wrappers,3.77,,,,,3.77,3.77
+,200674,Frozen Meals,Thin Wonton Wraps,2.61,,,,,2.61,2.61
+,200675,Frozen Meals,TYJ Spring Roll Pastry,1.88,,,,,1.88,1.88
+,200676,Frozen Meals,Chinese Donuts,4.61,,,,,4.61,4.61
+,200677,Frozen Meals,"Shumai, Pork and Shrimp Dumplings",3.98,,,,,3.98,3.98
+,200678,Frozen Meals,"Shumai, Shrimp Dumplings",3.98,,,,,3.98,3.98
+,200679,Frozen Meals,"Shumai, Chicken Dumplings",3.98,,,,,3.98,3.98
+,200680,Frozen Meals,Brown Rice (ready in 1 min),2.09,,,,,2.09,2.09
+,200681,Frozen Meals,Egg Roll Skins,3.45,,,,,3.45,3.45
+,200682,Frozen Meals,Spring Roll Skins,1.88,,,,,1.88,1.88
+,200683,Frozen Meals,Red Kamaboko Fish Cake,4.19,,,,,4.19,4.19
+,200684,Frozen Meals,Steam Egg Noodle,2.51,,,,,2.51,2.51
+,200685,Frozen Meals,Japanese Ramen,4.71,,,,,4.71,4.71
+,200686,Frozen Meals,Fish Tofu,5.55,,,,,5.55,5.55
+,200687,Frozen Meals,Spring Roll Shells,1.56,,,,,1.56,1.56
+,200688,Frozen Meals,TYJ Spring Roll Pastry (25 pc),1.88,,,,,1.88,1.88
+,200689,Frozen Meals,Puff Paratha,2.72,,,,,2.72,2.72
+,200690,Frozen Meals,Puff Paratha Onion,2.72,,,,,2.72,2.72
+,200691,Frozen Meals,Wonton Noodles,2.61,,,,,2.61,2.61
+,200692,Frozen Dessert,Mochi Ice Cream Azuki Red Bean,5.55,,,,,5.55,5.55
+,200693,Frozen Dessert,Mochi Ice Cream Silky Chocolate,5.55,,,,,5.55,5.55
+,200694,Frozen Dessert,Mochi Ice Cream Matcha Green Tea,5.55,,,,,5.55,5.55
+,200695,Frozen Dessert,Mochi Sherbet Juicy Mango,5.55,,,,,5.55,5.55
+,200696,Frozen Dessert,Mochi Ice Cream Creamy Strawberry,5.55,,,,,5.55,5.55
+,200697,Frozen Dessert,Mochi Ice Cream Classy Vanilla,5.55,,,,,5.55,5.55
+,200698,Frozen Dessert,Frozen Banana Cake,3.45,,,,,3.45,3.45
+,200699,Frozen Dessert,Toddy Palm Cake,3.03,,,,,3.03,3.03
+,200700,Frozen Dessert,Toddy Palm Cake (Pandan Flavor),3.03,,,,,3.03,3.03
+,200701,Frozen Dessert,Frozen Sticky Rice with Jackfruit,3.45,,,,,3.45,3.45
+,200702,Frozen Dessert,Cheese Cake,6.92,,,,,6.92,6.92
+,200703,Frozen Dessert,Frozen Seaweed Bean Curd Slice,5.76,,,,,5.76,5.76
+,200704,Frozen Dessert,Frozen Black Sticky Rice Dessert,1.77,,,,,1.77,1.77
+,200705,Donate,$1 Donation,1,,,,,1,1
+,200706,Donate,$5 Donation,5,,,,,5,5
+,200707,Donate,$10 Donation,10,,,,,10,10
+,200708,Donate,$20 Donation,20,,,,,20,20
+,200709,Donate,$50 Donation,50,,,,,50,50
+,200710,Donate,$100 Donation,100,,,,,100,100

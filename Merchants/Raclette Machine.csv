@@ -1,0 +1,44 @@
+Restaurant - Base Pricing Info,,,,,,,,Markup,,Chefpanzee Price,
+Product Id,Product Name,Original Price,Product Description,Category (Internal),Variation,Cost Variation,,Lunch,Dinner,Lunch,Dinner
+3655845,The Alpine [V],9,"Raclette cheese, sliced bread, potatoes, and cornichons (pickles)",Entree,1,1,,0.1,0.15,9.9,10.35
+,Add Prosciutto,2,,Entree,1,1,,0.1,0.15,2.2,2.3
+3655846,The Sunrise [GF],10,"Raclette cheese, potatoes, fried egg, greens, poblano pesto, and cornichons (pickles)",Entree,1,1,,0.1,0.15,11,11.5
+,Add Crispy Prosciutto,3,,Entree,1,1,,0.1,0.15,3.3,3.45
+3655847,The Mad Green Salad [K] [GF],10,"Raclette cheese melted over a bed of greens, poblano pesto, fried egg, and cornichons (pickles)",Entree,1,1,,0.1,0.15,11,11.5
+,Add Warm Turkey,3,,Entree,1,1,,0.1,0.15,3.3,3.45
+3655848,French Dip,15,"Raclette cheese, roast beef, grilled onions, side of au jus, and cornichons",Entree,0,0,,0.1,0.15,16.5,17.25
+3655849,French Onion Soup [V],8,Topped with garlic croutons & raclette cheese,Entree,1,1,,0.1,0.15,8.8,9.2
+,Upgrade to Bowl,2,,Entree,1,1,,0.1,0.15,2.2,2.3
+3655851,The Wasatch [V],9,"Wasatch Mountain cheese, red pepper sauce, and greens",Entree,1,1,,0.1,0.15,9.9,10.35
+,Add Salami,2,,Entree,1,1,,0.1,0.15,2.2,2.3
+3655852,The Breakfast Sando,10,"Wasatch Mountain cheese, fried egg, poblano pesto, and greens",Entree,1,1,,0.1,0.15,11,11.5
+,Add Crispy Prosciutto,3,,Entree,1,1,,0.1,0.15,3.3,3.45
+3655853,The Mustard Melt [V],9,"Wasatch Mountain cheese, Dijon mustard, greens, and cornichons (pickles)",Entree,1,1,,0.1,0.15,9.9,10.35
+,Add Warm Turkey,3,,Entree,1,1,,0.1,0.15,3.3,3.45
+3655854,The Queen Bee,9,"Wasatch Mountain cheese, honey, and greens",Entree,1,1,,0.1,0.15,9.9,10.35
+,Add Salami,2,,Entree,1,1,,0.1,0.15,2.2,2.3
+3655855,The Cheese Sando [V],8,Wasatch Mountain cheese,Entree,1,1,,0.1,0.15,8.8,9.2
+,Add Warm Turkey,3,,Entree,1,1,,0.1,0.15,3.3,3.45
+3655856,Sliced Bread & Cheese,7,Served with a side of pickles,Side,0,0,,0.2,0.2,8.4,8.4
+3655857,Potatoes & Cheese [GF],7,Served with a side of pickles,Side,0,0,,0.2,0.2,8.4,8.4
+3655858,Extra Cheeee,5,,Side,0,0,,0.2,0.2,6,6
+3655859,Cup of Pickles,3,,Side,0,0,,0.2,0.2,3.6,3.6
+3655860,Crispy Proscuitto,3,,Side,0,0,,0.2,0.2,3.6,3.6
+3655861,Turkey,3,,Side,0,0,,0.2,0.2,3.6,3.6
+3655862,Proscuitto,2,,Side,0,0,,0.2,0.2,2.4,2.4
+3655863,Salami,2,,Side,0,0,,0.2,0.2,2.4,2.4
+3655864,Fried Egg,2,,Side,0,0,,0.2,0.2,2.4,2.4
+3655865,Bag of Chips,2,,Side,0,0,,0.2,0.2,2.4,2.4
+3655866,Lactaid,1,,Side,0,0,,0.2,0.2,1.2,1.2
+3655867,Blood Orange San Pelligrino,2,,Drinks,0,0,,0.125,0.125,2.25,2.25
+3655868,Clementine San Pellegrino,2,,Drinks,0,0,,0.125,0.125,2.25,2.25
+3655869,Pomegranate San Pelligrino,2,,Drinks,0,0,,0.125,0.125,2.25,2.25
+3655870,Perrier,2,,Drinks,0,0,,0.125,0.125,2.25,2.25
+3655871,Bottled Water,1,,Drinks,0,0,,0.125,0.125,1.125,1.125
+3833989,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,1,1
+3833990,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,5,5
+3833991,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,10,10
+3833992,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,20,20
+3833993,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,50,50
+3833994,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,100,100
+4185453,$10 - Humane Society Staff Meal Donation,10,,Donation,0,0,,0,0,10,10

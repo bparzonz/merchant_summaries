@@ -1,0 +1,33 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3702534,310001,Appetizers,Jamaican Patty,5,Traditional Jamaican pastry filled with spiced ground beef,Appetizer,0.2,0.2,6,6
+3702535,310002,Appetizers,Fried Dumpling,5,Fried buttery dough with a subtle hint of sweetness,Appetizer,0.2,0.2,6,6
+,,Appetizers,Jerk Wings,9,,Appetizer,,,9.9,9.9
+3702536,310003,Plates,Beef Oxtail,14,"Tender pieces of oxtail slowly cooked with butter beans. Served with Coleslaw, Rice & Peas and Fried Plantains.",Entree,0.1,0.15,15.4,16.1
+3702537,310004,Plates,Jamaican Ackeed & Saltfish,13,Ackee & Salt Fish with Rice & Peas and Fried Plantains,Entree,0.1,0.15,14.3,14.95
+3702538,310005,Plates,Curry Goat,12.5,Savory pieces slowly cooked with traditional Jamaican curry and cooked in a variety of spices,Entree,0.1,0.15,13.75,14.375
+3702539,310006,Plates,Jerk Chicken,11,Chicken quarters marinated in our special jerk seasoning then grilled to perfection,Entree,0.1,0.15,12.1,12.65
+3702540,310007,Plates,Jerk Chicken Quesadilla,10,Jerk Chicken Quesadillas with Avocado Salsa & Cilantro Lime Sour Cream,Entree,0.1,0.15,11,11.5
+3702541,310008,Plates,Jerk Burger & Fries,9,Burger smothered in jerk sauce & served with fries.,Entree,0.1,0.15,9.9,10.35
+3702542,310009,Plates,Veggie Burger & Fries,9,Veggie burger smothered in jerk sauce & served with fries.,Entree,0.1,0.15,9.9,10.35
+4067786,310010,Plates,Chicken Tenders & Fries,9,,Entree,0.1,0.15,9.9,10.35
+,310011,Plates,Jerk Pork,11.5,,,,,12.6,12.6
+,310012,Plates,Curry Chicken,11,,,,,12.1,12.1
+3702544,310013,Sides,Fried Ripe Plantains,4,,Side,0.2,0.2,4.8,4.8
+3702545,310014,Sides,Fries,4,,Side,0.2,0.2,4.8,4.8
+3702546,310015,Sides,Spicy Fries,4,,Drinks,0.125,0.125,4.5,4.5
+3702547,310016,Sides,Bottled Water,3,,Drinks,0.125,0.125,3.375,3.375
+3702548,310017,Drinks,D&G Soda,3,,Drinks,0.125,0.125,3.375,3.375
+3702549,310018,Drinks,Jamaican Tropical Rhythms,3,,Drinks,0.125,0.125,3.375,3.375
+3833917,310019,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3833918,310020,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3833919,310021,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3833920,310022,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3833921,310023,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3833922,310024,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100
+,310025,Kids Meal,Chicken Tenders & Fries,9,,Side,0.2,0.2,9.9,9.9
+,310026,Kids Meal,Grilled Cheese & Fries,9,,Special,0.1,0.15,9.9,9.9
+,310027,Specials,Escovitch Fish,18,,,0.1,0.15,19.8,19.8
+,310028,Specials,Caribbean Fish Taco,4.5,,,0.1,0.15,4.95,4.95
+,310029,Specials,Caribbean Fish Taco (3 pack),12,,,,,13.2,13.2
+,310030,Specials,Brown Stew Chicken,10,,,,,11,11

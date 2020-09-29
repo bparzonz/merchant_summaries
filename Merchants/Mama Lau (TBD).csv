@@ -1,0 +1,14 @@
+Restaurant - Base Pricing Info,,,,,,,,Markup,,Chefpanzee Price,
+Product Id,Product Name,Original Price,Product Description,Category (Internal),Variation,Cost Variation,,Lunch,Dinner,Lunch,Dinner
+,1 Box of 10,40,"Choose from Beef, Hot Beef, Sweet Beef, Chicken, Bacon + Ham + Cheese, Caprese (Vegetarian), Spinach (Vegetarian), Pulled Pork BBQ, Vegan (Sauteed Broccoli, Onion, Carrot, Corn & Curry), Apple Strudel (Vegan), Banana & Nutella",,1,0,,0.1,0.15,44,46
+,2 Boxes of 10,75,"Choose from Beef, Hot Beef, Sweet Beef, Chicken, Bacon + Ham + Cheese, Caprese (Vegetarian), Spinach (Vegetarian), Pulled Pork BBQ, Vegan (Sauteed Broccoli, Onion, Carrot, Corn & Curry), Apple Strudel (Vegan), Banana & Nutella",,1,0,,0.1,0.15,82.5,86.25
+,3 Boxes of 10,110,"Choose from Beef, Hot Beef, Sweet Beef, Chicken, Bacon + Ham + Cheese, Caprese (Vegetarian), Spinach (Vegetarian), Pulled Pork BBQ, Vegan (Sauteed Broccoli, Onion, Carrot, Corn & Curry), Apple Strudel (Vegan), Banana & Nutella",,1,0,,0.1,0.15,121,126.5
+,4 Boxes of 10,140,"Choose from Beef, Hot Beef, Sweet Beef, Chicken, Bacon + Ham + Cheese, Caprese (Vegetarian), Spinach (Vegetarian), Pulled Pork BBQ, Vegan (Sauteed Broccoli, Onion, Carrot, Corn & Curry), Apple Strudel (Vegan), Banana & Nutella",,1,0,,0.1,0.15,154,161
+,,,,,,,,0.1,0.15,0,0
+,,,,,,,,0.125,0.2,0,0
+,,,,,,,,0,0,0,0
+,,,,,,,,0,0,0,0
+,,,,,,,,0,0,0,0
+,,,,,,,,0,0,0,0
+,,,,,,,,0,0,0,0
+,,,,,,,,0,0,0,0

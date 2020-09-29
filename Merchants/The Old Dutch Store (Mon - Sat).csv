@@ -1,0 +1,105 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,210001,Sandwiches,Sharon's Special,4.99,,,,,5.49,5.49
+,210002,Sandwiches,The Copenhagen,6.25,,,,,6.88,6.88
+,210003,Sandwiches,The Amsterdam,6.25,,,,,6.88,6.88
+,210004,Sandwiches,The Stockholm,4.99,,,,,5.49,5.49
+,210005,Sandwiches,The Reuben,4.99,,,,,5.49,5.49
+,210006,Sandwiches,The Berlin,6.25,,,,,6.88,6.88
+,210007,Sandwiches,The Vienna,5.65,,,,,6.22,6.22
+,210008,Sandwiches,The Bavarian,6.99,,,,,7.69,7.69
+,210009,Sandwiches,The Transylvania,5.65,,,,,6.22,6.22
+,210010,Sandwiches,The Dutch Cheese,5.99,,,,,6.59,6.59
+,210011,Sandwiches,The Wienerschnitzel Sandwich,7.45,,,,,8.2,8.2
+,210012,Sandwiches,Netherlander,5.45,,,,,6,6
+,210013,Sandwiches,Omelette Sandwich,6.25,,,,,6.86,6.86
+,210014,Create Your Own Sandwiches,Meat & Cheese Sandwich,4.75,,,,,5.23,5.23
+,210015,Create Your Own Sandwiches,Cheese Sandwich,4.75,,,,,5.23,5.23
+,210016,Create Your Own Sandwiches,Meat Sandwich,3.99,,,,,4.39,4.39
+,210017,Soup of the Day,Potato Gouda (Tuesday),4.25,,,,,4.9,4.9
+,210018,Soup of the Day,Cream of Asparagus (Wednesday),4.25,,,,,4.9,4.9
+,210019,Soup of the Day,Roasted Garlic Lentil (Thursday),4.25,,,,,4.9,4.9
+,210020,Soup of the Day,Norwegian Cauliflower Meatball (Friday),4.25,,,,,4.9,4.9
+,210021,Soup of the Day,Dutch Pea Soup (Saturday),4.25,,,,,4.9,4.9
+,210022,Soup of the Day,Dutch Tomato Meatball (Monday),4.25,,,,,4.9,4.9
+,210023,Dessert,Marzipan Cake (Piece),4.95,,,,,5.82,5.82
+,210024,Dessert,Boter Koek (Butter Cake) - Piece,3.85,,,,,4.52,4.52
+,210025,Dessert,Boter Koek (Butter Cake) - Whole,9.99,,,,,11.74,11.74
+,210026,Dessert,Millionaire Shortbread,2.99,,,,,3,3
+,210027,Dessert,Dutch Chocolate Chunk Cookie,1.99,,,,,2,2
+,210028,Marzipan Cake (48 hrs required),1/8 Sheet (8-10 people),35.99,,,,,42.29,42.29
+,210029,Marzipan Cake (48 hrs required),1/4 Sheet (16-20 people),45.99,,,,,54.04,54.04
+,210030,Box Lunch Combo,The Wiener Schnitzel Sandwich,9.99,,,,,10.99,10.99
+,210031,Box Lunch Combo,Sharon's Special,9.99,,,,,10.99,10.99
+,210032,Box Lunch Combo,The Copenhagen,9.99,,,,,10.99,10.99
+,210033,Box Lunch Combo,The Amsterdam,9.99,,,,,10.99,10.99
+,210034,Box Lunch Combo,The Stockholm,9.99,,,,,10.99,10.99
+,210035,Box Lunch Combo,The Reuben,9.99,,,,,10.99,10.99
+,210036,Box Lunch Combo,The Berlin,9.99,,,,,10.99,10.99
+,210037,Box Lunch Combo,The Vienna,9.99,,,,,10.99,10.99
+,210038,Box Lunch Combo,The Bavarian,9.99,,,,,10.99,10.99
+,210039,Box Lunch Combo,The Transylvania,9.99,,,,,10.99,10.99
+,210040,Box Lunch Combo,The Dutch Cheese,9.99,,,,,10.99,10.99
+,210041,St Patty's Specials **SERVED MARCH 14 & 17**,Corned Beef & Cabbage,,,,,,16,16
+,210042,St Patty's Specials **SERVED MARCH 14 & 17**,Individual Shepherd's Pie,,,,,,10,10
+,210043,St Patty's Specials **SERVED MARCH 14 & 17**,Large Shepherds Pie (48 hrs required),,,,,,21.99,21.99
+,210044,Donate,$1 Donation,1,,,,,1,1
+,210045,Donate,$5 Donation,5,,,,,5,5
+,210046,Donate,$10 Donation,10,,,,,10,10
+,210047,Donate,$20 Donation,20,,,,,20,20
+,210048,Donate,$50 Donation,50,,,,,50,50
+,210049,Donate,$100 Donation,100,,,,,100,100
+,210050,Specials,Stroopwafel (Wednesday Only),,,,,,3.51,3.51
+,210051,Specials,Beef Kroketten (Fried),,,,,,4.24,4.24
+,210052,Specials,3pc Beef Kroketten (Fry At Home),,,,,,11.94,11.94
+,210053,Specials,1 Dozen Beef Kroketten (Fry At Home),,,,,,11.94,11.94
+,210054,Specials,4 pc Stroopwafel (Wednesday Only),,,,,,13.2,13.2
+,210055,Specials,Oliebollen (Dutch Donuts) - 6 pcs,,,,,,11.75,11.75
+,210056,Specials,Individual Shepherd's Pie,,,,,,10.99,10.99
+,210057,Specials,BBQ Meal Deal (Saturday Only!),,,,,,38.5,38.5
+,210058,Father's Day Special - SATURDAY ONLY,Pork Satay Skewer (Make At Home),,,,,,5.5,5.5
+,210059,Father's Day Special - SATURDAY ONLY,Nasi Goreng (1 Quart),,,,,,12.09,12.09
+,210060,Father's Day Special - SATURDAY ONLY,Nasi Goreng (1 Pint),,,,,,6.59,6.59
+,210061,Father's Day Special - SATURDAY ONLY,Peanut Sauce (Half Pint),,,,,,3.29,3.29
+,210062,Father's Day Special - SATURDAY ONLY,Peanut Sauce (Pint),,,,,,6.59,6.59
+,210063,Father's Day Special - SATURDAY ONLY,2 Skewers (cooked) + Nasi Goreng + Peanut Sauce + Shrimp Chips,,,,,,16.49,16.49
+,,,Sharon's Special Whole,2.49,,Add - On,,,2.49,2.49
+,,,The Copenhagen Large,1.2,,Add - On,,,1.32,1.32
+,,,The Amsterdam Large,1.2,,Add - On,,,1.32,1.32
+,,,The Stockholm Whole,2.49,,Add - On,,,2.71,2.71
+,,,The Reuben Whole,3,,Add - On,,,3.3,3.3
+,,,The Berlin Large,1.2,,Add - On,,,1.32,1.32
+,,,The Vienna Large,0.85,,Add - On,,,0.93,0.93
+,,,The Transylvania Large,0.85,,Add - On,,,0.93,0.93
+,,,The Dutch Cheese Large,1,,Add - On,,,1.1,1.1
+,,,Roast Beef,0.5,,Add - On,,,0.55,0.55
+,,,Thuringer,0.5,,Add - On,,,0.55,0.55
+,,,Pastrami,0.5,,Add - On,,,0.55,0.55
+,,,Cervelaat,0.5,,Add - On,,,0.55,0.55
+,,,Meat & Cheese Sandwich Small,1.24,,Add - On,,,1.36,1.36
+,,,Meat & Cheese Sandwich Large,2.24,,Add - On,,,2.46,2.46
+,,,Cooked Ham,1,,Add - On,,,1.1,1.1
+,,,Smoked Ham,1,,Add - On,,,1.1,1.1
+,,,Cooked Turkey,1,,Add - On,,,1.1,1.1
+,,,Smoked Turkey,1,,Add - On,,,1.1,1.1
+,,,Roast Beef,1,,Add - On,,,1.1,1.1
+,,,Jachtwurst,1,,Add - On,,,1.1,1.1
+,,,Liverwurst,1,,Add - On,,,1.1,1.1
+,,,Thuringer,1,,Add - On,,,1.1,1.1
+,,,Pastrami,1,,Add - On,,,1.1,1.1
+,,,Cervelaat,1,,Add - On,,,1.1,1.1
+,,,German Bologna,1,,Add - On,,,1.1,1.1
+,,,Gouda,1,,Add - On,,,1.1,1.1
+,,,Smoked Gouda,1,,Add - On,,,1.1,1.1
+,,,Edam,1,,Add - On,,,1.1,1.1
+,,,Jarlburg,1,,Add - On,,,1.1,1.1
+,,,Havarti,1,,Add - On,,,1.1,1.1
+,,,Dill Havarti,1,,Add - On,,,1.1,1.1
+,,,Butterkase,1,,Add - On,,,1.1,1.1
+,,,Cheese Sandwich Small,1.24,,Add - On,,,1.36,1.36
+,,,Cheese Sandwich Large,2.24,,Add - On,,,2.46,2.46
+,,,Meat Sandwich Small,1.46,,Add - On,,,1.61,1.61
+,,,Meat Sandwich Large,2.31,,Add - On,,,2.54,2.54
+,,,Large (12 oz),1,,Add - On,,,1.1,1.1
+,,,Box Large,1.15,,Add - On,,,1.28,1.28
+,,,7.5x7.5 inches (4-6 servings),10,,Add - On,,,11,11

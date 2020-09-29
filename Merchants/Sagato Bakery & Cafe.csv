@@ -1,0 +1,35 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3422256,190001,Savory,Steak & Cheese Meat Pie,5.25,"New Zealand style savory meat pie with steak and cheese in a tender, flaky pastry crust.",Entree,0.1,0.15,5.775,6.0375
+3422257,190002,Savory,Mince Meat & Cheese Pie,4.95,"New Zealand style savory meat pie with mince meat (ground beef) and cheese in a tender, flaky pastry crust.",Entree,0.1,0.15,5.445,5.6925
+3422263,190003,Savory,Sausage Rolls,3.95,Special sausage blend wrapped in a puff pastry blanket.,Entree,0.1,0.15,4.345000000000001,4.5425
+3422267,190004,Savory,Hearty Chicken,4.95,"A flaky pastry filled with a hearty filling made of chicken, potato, carrots and peas.",Entree,0.1,0.15,5.445,5.6925
+3422272,190005,Savory,Kekepua'a,2.95,"Steamed pork bun, also known as the giant Samoan cousin of the manapua-meaning, MORE MEAT!",Entree,0.1,0.15,3.245,3.3925
+,190006,Savory,Chicken Curry Pie,4.95,,Entree,,,5.45,5.45
+3422277,190007,Plate Lunches,One Meat,8.5,,Entree,0.1,0.15,9.35,9.775
+3422282,190008,Plate Lunches,Two Meat,10.95,,Entree,0.1,0.15,12.045,12.5925
+3422289,190009,Plate Lunches,Three Meat,13.95,,Entree,0.1,0.15,15.344999999999999,16.0425
+3422298,190010,Fish N' Chips,Fish N' Chips (one piece),10.95,,Entree,0.1,0.15,12.045,12.5925
+3422310,190011,Fish N' Chips,Fish N' Chips (two piece),12.95,,Entree,0.1,0.15,14.245,14.892499999999998
+3422313,190012,Sausage N' Chips,Sausage N' Chips (one piece),6.55,,Entree,0.1,0.15,7.205,7.5325
+3422315,190013,Sausage N' Chips,Sausage N' Chips (two piece),7.95,,Entree,0.1,0.15,8.745000000000001,9.1425
+3422317,190014,Sausage N' Chips,Sausage w/ Fish N' Chips (one each),11.95,,Entree,0.1,0.15,13.145,13.7425
+3422319,190015,Sausage N' Chips,Side Sausage,3.95,,Side,0.2,0.2,4.74,4.74
+3422350,190016,Signature Specials,Pani Popo,1.95,A decadent sweet roll baked in a custard made from coconut cream.,Dessert,0.2,0.2,2.34,2.34
+3422353,190017,Signature Specials,Cream Puff,2.95,A light and fluffy cream filled donut dusted with powdered sugar.,Dessert,0.175,0.2625,3.46625,3.724375
+3422364,190018,Signature Specials,Lamington,3.5,"Moist cake drenched in decadent dark chocolate or strawberry glaze, coated with coconut flakes and filled with whipped cream.",Dessert,0.175,0.2625,4.1125,4.41875
+3422371,190019,Signature Specials,Koko Samoa Mini Bundt Cake,3.95,If you're a fan of Koko Samoa you'll love these mini bundt cakes infused with rich cocoa sourced from Samoa. Each cake is filled with coconut caramel and topped with our own Koko Samoa ganache and whipped cream.,Dessert,0.175,0.2625,4.64125,4.986875
+3422373,190020,Signature Specials,Pineapple Pie,3.5,"Half-moon pie with a flaky, buttery crust and a pineapple custard filling",Dessert,0.175,0.2625,4.1125,4.41875
+3422377,190021,Signature Specials,Custard Tart,3.95,"Creamy custard and peach filling in a flaky, buttery crust.",Dessert,0.175,0.2625,4.64125,4.986875
+3422386,190022,Cakes & More,Cake by the slice,3.95,Our delicious cakes are available by the slice!,Dessert,0.175,0.2625,4.64125,4.986875
+3422392,190023,Cakes & More,Cupcakes,2.25,Our cupcakes are perfect alone!,Dessert,0.175,0.2625,2.64375,2.840625
+3422398,190024,Cakes & More,Cookies,1.25,"Our signature cookies are big, chewy, and delicious!",Dessert,0.175,0.2625,1.46875,1.578125
+3422404,190025,Cakes & More,Brownies,1.95,Our decadent brownies makes a wonderful pairing with our savory pies.,Dessert,0.175,0.2625,2.29125,2.461875
+3834247,190026,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3834248,190027,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3834249,190028,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3834250,190029,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3834251,190030,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3834252,190031,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100
+,,,Mashed Potato Top,0.2,,Add - On,0.1,0.15,0.22000000000000003,0.23
+,,,Add Nutella & Strawberries,0.3,,Add - On,0.175,0.2625,0.3525,0.37875

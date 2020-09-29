@@ -1,0 +1,14 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3270644,270001,Main Dishes,Chicken Katsu,10,"Crispy marinated 100% chicken breast with roasted garlic and ginger aioli sauce. Served with Lemongrass Steamed Rice, Gyozas and a Thai Salad.",Entree,0.1,0.15,11,11.5
+3270645,270002,Main Dishes,Ebi (Shrimp) Tempura,13,"Hand-battered then deep-fried shrimp with ginger aioli and House Special combination sauce. Served with Lemongrass Steamed Rice, Gyozas and a Thai Salad.",Entree,0.1,0.15,14.3,14.95
+3270646,270003,Main Dishes,Grilled Chicken Teriyaki,10,"Marinated roasted chicken with delicious teriyaki sauce. Served with Lemongrass Steamed Rice, Gyozas and a Thai Salad.",Entree,0.1,0.15,11,11.5
+3270647,270004,Main Dishes,Special Combo,15,3 pieces of shrimp and chicken katsu,Entree,0.1,0.15,16.5,17.25
+3270648,270005,Main Dishes,Grilled Salmon Teriyaki,15,,Entree,0.1,0.15,16.5,17.25
+3270649,270006,Drinks,Coca Cola,1,,Drink,0.125,0.2,1.125,1.2
+3833938,270007,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3833939,270008,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3833940,270009,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3833941,270010,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3833942,270011,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3833943,270012,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100

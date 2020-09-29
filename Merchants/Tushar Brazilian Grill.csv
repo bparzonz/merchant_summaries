@@ -1,0 +1,66 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,100001,Appetizer,Brazillian Cheese Rolls (4),2.5,,,,,3.6,3.6
+,100002,Appetizer,French Bread (3),3.5,,,,,4.2,4.2
+,100003,Appetizer,Coxinha,3.5,,,,,4.2,4.2
+,100004,Appetizer,Pastel Beef or Cheese,3.5,,,,,4.2,4.2
+,100005,Appetizer,Kibe (3),3.5,,,,,4.2,4.2
+,100006,Skewer,Grilled Chicken,3.5,,,,,4.2,4.2
+,100007,Skewer,Grilled Pork Loin,3.5,,,,,4.2,4.2
+,100008,Skewer,Glazed Pork Loin,3.5,,,,,4.2,4.2
+,100009,Skewer,Grilled Pineapple,3.5,,,,,4.2,4.2
+,100010,Skewer,Beef,3.95,,,,,4.75,4.75
+,100011,Sides,White Rice,3,,,,,3.6,3.6
+,100012,Sides,Brown Rice,3,,,,,3.6,3.6
+,100013,Sides,Black Beans,3,,,,,3.6,3.6
+,100014,Sides,Mashed Potatoes,3,,,,,3.6,3.6
+,100015,Sides,Steamed Veggies,3,,,,,3.6,3.6
+,100016,Sides,Fried Bananas,3,,,,,3.6,3.6
+,100017,Sides,French Fries,3,,,,,3.6,3.6
+,100018,Sides,Green Mixed Salad,3,,,,,3.6,3.6
+,100019,Combos,Onion Steak,13.95,,,,,15.35,15.35
+,100020,Combos,Grilled Chicken Skewer Combo,9.5,,,,,10.45,10.45
+,100021,Combos,Grilled Pork Loin Skewer Combo,9.5,,,,,10.45,10.45
+,100022,Combos,Glazed Pork Loin Skewer Combo,9.5,,,,,10.45,10.45
+,100023,Combos,Grilled Pineapple Skewer Combo (Vegetarian),9.5,,,,,10.45,10.45
+,100024,Combos,Beef Skewer Combo,9.95,,,,,10.95,10.95
+,100025,Combos,Extra Skewer,2.5,,,,,2.75,2.75
+,100026,Combos,Calabresa sandu√≠che,7.99,,,,,9.2,9.2
+,100027,Meals,Kids Meal,6.95,,,,,7.65,7.65
+,100028,Meals,Daily Special,5.99,,,,,6.59,6.59
+,100029,Meals,Light & Healthy Meal,9.5,,,,,10.45,10.45
+,100030,Meals,Brazillian Special,8.5,,,,,9.35,9.35
+,100031,Meals,Family Meal,38.5,,,,,42.35,42.35
+,100032,Meals,Feijoada,,,,,,13.8,13.8
+,100033,Salads,Tushar Salad,8.95,,,,,9.85,9.85
+,100034,Salads,Tropical Salad,8.95,,,,,9.85,9.85
+,100035,Salads,Chicken Caesar Salad,8.95,,,,,9.85,9.85
+,100036,Salads,Brazillian Salad,8.95,,,,,9.85,9.85
+,100037,Salads,Summer Salad,8.95,,,,,9.85,9.85
+,100038,Salads,Add Chicken Skewer To Salad,0.99,,,,,1.09,1.09
+,100039,Drinks,Brazillian Lemonade,3.95,,,,,4.45,4.45
+,100040,Drinks,Guarana Antarctica (Can),1.99,,,,,2.25,2.25
+,100041,Drinks,Guarana Antarctica (2 Liter),4.5,,,,,5.1,5.1
+,100042,Drinks,Fruit Juice,3.99,,,,,5.05,5.05
+,100043,Donate,$1 Donation,1,,,,,1,1
+,100044,Donate,$5 Donation,5,,,,,5,5
+,100045,Donate,$10 Donation,10,,,,,10,10
+,100046,Donate,$20 Donation,20,,,,,20,20
+,100047,Donate,$50 Donation,50,,,,,50,50
+,100048,Donate,$100 Donation,100,,,,,100,100
+,100049,Special,Pork Skewer,,,,,,0.99,0.99
+,100050,Special,Chicken Stroganoff (Monday to Thursday),,,,,,6.6,6.6
+,100051,Special,Calabresa sandu√≠che (Monday to Thursday),,,,,,6.9,6.9
+,100052,Special,Feijoada (Saturday Only),,,,,,6.9,6.9
+,100053,Special,Bobo de Camarao,,,,,,16.5,16.5
+,100054,Special,Bife Role,,,,,,13.2,13.2
+,100055,Desserts,Vanilla Flan,4.5,,,,,5.3,5.3
+,100056,Desserts,Acai Bowl,8.95,,,,,10.5,10.5
+,100057,Desserts,Passion Fruit Mousse,2.95,,,,,4.1,4.1
+,100058,Desserts,Chocolate Cake,4.5,,,,,6.45,6.45
+,,,Add Cheese,1,,Add - On,,,1,1
+,,,Passion Fruit,0.5,,Add - On,,,0.65,0.65
+,,,Mango,0.5,,Add - On,,,0.65,0.65
+,,,Pineapple,0.5,,Add - On,,,0.65,0.65
+,,,Acai Special,0.5,,Add - On,,,0.65,0.65
+,,,Cashew,0.5,,Add - On,,,0.65,0.65

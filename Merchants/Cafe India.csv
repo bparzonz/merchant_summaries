@@ -1,0 +1,27 @@
+Restaurant - Base Pricing Info,,,,,,,,Markup,,Chefpanzee Price,
+Product Id,Product Name,Original Price,Product Description,Category (Internal),Variation,Cost Variation,,Lunch,Dinner,Lunch,Dinner
+3937828,Aloo Paratha,4.99,Spiced Potato stuffed flatbread served with Raita (yogurt sauce),Appetizer,0,0,,0.291,0.291,6.44209,6.44209
+3937829,Chicken Curry Served Over Rice (gluten free),10.99,"Chicken marinated in Indian spices and yogurt and cooked in onions and tomato sauce. Available to order in 12 oz or 16 oz containers, freezer friendly.",Entree,1,1,,0.191,0.241,13.08909,13.63859
+,16 oz,13.99,,Entree,1,1,,0.191,0.241,,
+3937830,Chicken Tikka Wrap,9.99,"Chicken marinated in Indian spices; grilled wrapped in flatbread topped with house sauce, seasonal salad and pickled beets",Entree,0,0,,0.191,0.241,11.89809,12.397590000000001
+3937831,Chicken Biryani (gluten free),10.99,Chicken marinated in yogurt and spices and steam cooked with rice,Entree,0,0,,0.191,0.241,13.08909,13.63859
+3937832,Vegetarian Thali (gluten free),8.99,Rice served with two chef special vegetarian dishes,Entree,0,0,,0.191,0.241,10.70709,11.15659
+3937833,Butter Paneer Masala (gluten free),11.99,"Paneer (Indian cheese) cooked in house sauce made with tomatoes, onions, spices and heavy cream)  Available to order in 12 oz or 16 oz containers, freezer friendly.",Entree,1,1,,0.191,0.241,14.280090000000001,14.87959
+,16 oz,14.99,,Entree,1,1,,0.191,0.241,,
+3937834,Chana Masala (Vegan & gluten free),9.99,"Chickpeas cooked in house sauce and spices served over rice. Available to order in 12 oz or 16 oz containers, freezer friendly.",Entree,1,1,,0.191,0.241,11.89809,12.397590000000001
+,16 oz,11.99,,Entree,1,1,,0.191,0.241,,
+3937835,Extra Naan,1.5,,Side,0,0,,0.291,0.291,1.9365,1.9365
+3937836,Rice 12 oz,2.99,,Side,1,1,,0.291,0.291,3.8600900000000005,3.8600900000000005
+,16 oz,14.99,,Side,1,1,,0.291,0.291,,
+3937837,Chai Tea,3.99,Indian chai latte with cardamom and fennel flavors,Drinks,0,0,,0.216,0.216,4.85184,4.85184
+3937838,Mango Shakes,3.99,,Drinks,0,0,,0.216,0.216,4.85184,4.85184
+3990298,Chocolate Heaven,35,48 Hrs Pre-Order Cake,Dessert,0,0,,0.266,0.3535,44.31,47.3725
+3990301,Coffee Cream Cake,40,48 Hrs Pre-Order Cake,Dessert,0,0,,0.266,0.3535,50.64,54.14
+3990303,Cool Summer Pineapple Cake,35,48 Hrs Pre-Order Cake,Dessert,0,0,,0.266,0.3535,44.31,47.3725
+3992472,Black Forest Cake,40,48 Hrs Pre-Order Cake,Dessert,0,0,,0.266,0.3535,50.64,54.14
+4009679,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,1,1
+4009680,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,5,5
+4009681,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,10,10
+4009682,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,20,20
+4009683,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,50,50
+4009684,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,100,100

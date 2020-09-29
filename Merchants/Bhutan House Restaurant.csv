@@ -1,0 +1,111 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,70001,Appetizer,Papadam (VG),1.95,,,,,2.34,2.34
+,70002,Appetizer,Vegetable Samosa (VG),4.95,,,,,5.94,5.94
+,70003,Appetizer,Onion Bhaji (VG & GF),3.95,,,,,4.74,4.74
+,70004,Appetizer,Aloo Tikki (VG & GF),3.95,,,,,7.74,7.74
+,70005,Appetizer,Paneer Pakora (GF),4.95,,,,,5.94,5.94
+,70006,Appetizer,Vegetable Pakora (VG & GF),4.95,,,,,5.94,5.94
+,70007,Appetizer,Chicken Pakora (GF),5.95,,,,,7.14,7.14
+,70008,Appetizer,Bhutan House Vegetable Samosa Chat,6.95,,,,,8.34,8.34
+,70009,Appetizer,Fish Pakora (GF),6.95,,,,,8.34,8.34
+,70010,Appetizer,Assorted Snacks,9.95,,,,,11.94,11.94
+,70011,Appetizer,Chicken Sekuwa (GF),9.95,,,,,11.94,11.94
+,70012,Appetizer,Lamb Sekuwan (GF),11.95,,,,,14.34,14.34
+,70013,Indian Flat Bread,Bread Basket,9.95,,,,,11.94,11.94
+,70014,Indian Flat Bread,Bhutan Special Naan,4.95,,,,,5.94,5.94
+,70015,Indian Flat Bread,Garlic Naan,3.95,,,,,4.74,4.74
+,70016,Indian Flat Bread,Garlic-Cheese Naan,4.95,,,,,5.94,5.94
+,70017,Indian Flat Bread,Sweet Naan,3.95,,,,,4.74,4.74
+,70018,Indian Flat Bread,Onion Naan,3.95,,,,,4.74,4.74
+,70019,Indian Flat Bread,Cheese Naan,3.95,,,,,4.74,4.74
+,70020,Indian Flat Bread,Aloo Paratha,3.95,,,,,4.74,4.74
+,70021,Indian Flat Bread,Naan,1.95,,,,,2.34,2.34
+,70022,Indian Flat Bread,Roti (VG),1.95,,,,,2.34,2.34
+,70023,Indian Flat Bread,Garlic Roti (VG),2.95,,,,,3.54,3.54
+,70024,Soups,Daal Aloo Soup,3.95,,,,,4.74,4.74
+,70025,Soups,Vegetable Soup,3.95,,,,,4.74,4.74
+,70026,Soups,Chicken Soup,4.95,,,,,5.94,5.94
+,70027,Bhutanese House Specialities,Vegetable Momo,10.95,,,,,12.05,12.05
+,70028,Bhutanese House Specialities,Chicken Momo,12.95,,,,,14.25,14.25
+,70029,Bhutanese House Specialities,Vegetable Chilli Momo,12.95,,,,,14.25,14.25
+,70030,Bhutanese House Specialities,Chicken Chilli Momo,13.95,,,,,16.45,16.45
+,70031,Bhutanese House Specialities,Bhutan House Chaw Chaw,10.95,,,,,12.05,12.05
+,70032,Bhutanese House Specialities,Vegetable Chaw Chaw,11.95,,,,,13.15,13.15
+,70033,Bhutanese House Specialities,Chicken Chaw Chaw,12.95,,,,,14.25,14.25
+,70034,Bhutanese House Specialities,Lamb Chaw Chaw,14.95,,,,,16.45,16.45
+,70035,Bhutanese House Specialities,Shrimp Chaw Chaw,15.95,,,,,17.55,17.55
+,70036,Bhutanese House Specialities,Ema Datshi (Special Bhutanese Curry) (VG),16.95,,,,,18.65,18.65
+,70037,Bhutanese House Specialities,Bhutan House Combo Grill,19.95,,,,,21.95,21.95
+,70038,Tandoori,Bhutan House Shrimp Tandoori (GF),19.95,,,,,21.95,21.95
+,70039,Tandoori,Lamb Boti Kabab (GF),18.95,,,,,20.85,20.85
+,70040,Tandoori,Lamb Shish Kebab (GF),18.95,,,,,20.85,20.85
+,70041,Tandoori,Chicken Tikka Grill (GF),16.95,,,,,18.65,18.65
+,70042,Tandoori,Bhutan House Chicken Tandoori (Half Order),12.95,,,,,14.25,14.25
+,70043,"Vegan, Vegetarian & Gluten Free",Mixed-Vegetable Curry (Vegan & GF),12.95,,,,,14.25,14.25
+,70044,"Vegan, Vegetarian & Gluten Free",Vegetable Coconut Korma (Vegan & Gluten Free),12.95,,,,,14.25,14.25
+,70045,"Vegan, Vegetarian & Gluten Free",Aloo Matter (Vegan & Gluten Free),11.95,,,,,13.15,13.15
+,70046,"Vegan, Vegetarian & Gluten Free",Aloo Govi (Vegan & Gluten Free),11.95,,,,,13.5,13.5
+,70047,"Vegan, Vegetarian & Gluten Free",Okra (Vegan & Gluten Free),12.95,,,,,14.25,14.25
+,70048,"Vegan, Vegetarian & Gluten Free",Chana Masala (Vegan & Gluten Free),11.95,,,,,13.15,13.15
+,70049,"Vegan, Vegetarian & Gluten Free",Paneer Tikka Masala (Vg & Gluten Free),12.95,,,,,14.25,14.25
+,70050,"Vegan, Vegetarian & Gluten Free",Navaratna Korma (Vg & Gluten Free),12.95,,,,,14.25,14.25
+,70051,"Vegan, Vegetarian & Gluten Free",Saag Paneer (Vg & Gluten Free),12.95,,,,,14.25,14.25
+,70052,"Vegan, Vegetarian & Gluten Free",Aloo Chili (Vegan and Gluten Free),10.95,,,,,12.6,12.6
+,70053,"Vegan, Vegetarian & Gluten Free",Matter Mushroom (Vegan & Gluten Free),12.95,,,,,14.25,14.25
+,70054,"Vegan, Vegetarian & Gluten Free",Yellow Daal (Vegan and Gluten Free),10.95,,,,,12.05,12.05
+,70055,"Vegan, Vegetarian & Gluten Free",Daal Maharani (Vegan & Gluten Free),11.95,,,,,13.05,13.05
+,70056,Meat Entrees,Butter Chicken (GF),14.95,,,,,16.45,16.45
+,70057,Meat Entrees,Chili Chicken (GF),13.95,,,,,15.35,15.35
+,70058,Meat Entrees,Chicken Mango (GF),13.95,,,,,15.35,15.35
+,70059,Meat Entrees,Chicken Korma (GF),14.95,,,,,16.45,16.45
+,70060,Meat Entrees,Lamb Korma (GF),15.95,,,,,17.55,17.55
+,70061,Meat Entrees,Shrimp Korma (GF),16.95,,,,,18.65,18.65
+,70062,Meat Entrees,Chicken Jalfrezi (GF),13.95,,,,,15.35,15.35
+,70063,Meat Entrees,Lamb Jalfrezi (GF),15.95,,,,,17.55,17.55
+,70064,Meat Entrees,Shrimp Jalfrezi (GF),16.95,,,,,18.65,18.65
+,70065,Meat Entrees,Chicken Vindaloo (GF),13.95,,,,,15.35,15.35
+,70066,Meat Entrees,Lamb Vindaloo (GF),15.95,,,,,17.55,17.55
+,70067,Meat Entrees,Shrimp Vindaloo (GF),16.95,,,,,18.65,18.65
+,70068,Meat Entrees,Chicken Coconut Curry (GF),14.95,,,,,16.45,16.45
+,70069,Meat Entrees,Lamb Coconut Curry (GF),15.95,,,,,17.55,17.55
+,70070,Meat Entrees,Shrimp Coconut Curry (GF),16.95,,,,,18.65,18.65
+,70071,Meat Entrees,Chicken Tikka Masala (GF),14.95,,,,,16.45,16.45
+,70072,Meat Entrees,Lamb Tikka Masala (GF),15.95,,,,,17.55,17.55
+,70073,Meat Entrees,Prawn Tikka Masala (GF),16.95,,,,,18.65,18.65
+,70074,Meat Entrees,Chicken Saag (GF),13.95,,,,,15.35,15.35
+,70075,Meat Entrees,Lamb Saag (GF),15.95,,,,,17.55,17.55
+,70076,Meat Entrees,Prawn Saag (GF),16.95,,,,,18.65,18.65
+,70077,Meat Entrees,Curry (GF),12.95,,,,,14.25,14.25
+,70078,Meat Entrees,Chicken Curry (GF),12.95,,,,,14.25,14.25
+,70079,Meat Entrees,Lamb Curry (GF),15.95,,,,,17.55,17.55
+,70080,Meat Entrees,Shrimp Curry (GF),16.95,,,,,18.65,18.65
+,70081,Meat Entrees,Fish (seasonal) Curry (GF),16.95,,,,,18.65,18.65
+,70082,Meat Entrees,Goat Curry (GF),16.95,,,,,18.65,18.65
+,70083,Biryani & Rice,Vegetable Biryani (VG & GF),11.95,,,,,13.15,13.15
+,70084,Biryani & Rice,Chicken Biryani (GF),13.95,,,,,15.35,15.35
+,70085,Biryani & Rice,Lamb Biryani (GF),15.95,,,,,17.55,17.55
+,70086,Biryani & Rice,Goat Biryani (GF),15.95,,,,,17.55,17.55
+,70087,Biryani & Rice,Shrimp Biryani (GF),16.95,,,,,18.65,18.65
+,70088,Sides,Pillav Rice (Vegan & GF),4.95,,,,,5.94,5.94
+,70089,Sides,Steamed Basmati Rice,1.95,,,,,3,3
+,70090,Accompaniments,Mango Chutney,3.95,,,,,4.74,4.74
+,70091,Accompaniments,Raita,1.95,,,,,3.54,3.54
+,70092,Accompaniments,Onion Salad,2.95,,,,,3.54,3.54
+,70093,Dessert,Kheer (Rice Pudding) (GF),3.95,,,,,4.46,4.46
+,70094,Dessert,Gulab Jamun,3.95,,,,,3.95,3.95
+,70095,Dessert,"Kulfi (mango, pistachio or strawberry)",3.95,,,,,3.95,3.95
+,70096,Dessert,Indian Tea,2.5,,,,,2.81,2.81
+,70097,Dessert,Indian Coffee,2.5,,,,,2.81,2.81
+,70098,Beverages,Mango Lassi,3.95,,,,,4.44,4.44
+,70099,Beverages,Strawberry Lassi,3.95,,,,,4.44,4.44
+,70100,Beverages,Rose Lassi,2.95,,,,,3.32,3.32
+,70101,Beverages,Rose Milk,2.95,,,,,3.32,3.32
+,70102,Beverages,Soft Drink,1.95,,,,,2.19,2.19
+,70103,Donate,$1 Donation,1,,,,,1,1
+,70104,Donate,$5 Donation,5,,,,,5,5
+,70105,Donate,$10 Donation,10,,,,,10,10
+,70106,Donate,$20 Donation,20,,,,,20,20
+,70107,Donate,$50 Donation,50,,,,,50,50
+,70108,Donate,$100 Donation,100,,,,,100,100
+,,,Full Order,2.95,,Add - On,,,3.3,3.3

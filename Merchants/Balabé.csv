@@ -1,0 +1,45 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,290001,Appetizers,Kaolack Brochettes,8,,,,,9.6,9.6
+,290002,Appetizers,Mafe' Poutine,8,,,,,9.6,9.6
+,290003,Appetizers,Ndar Sambusas,6,,,,,7.2,7.2
+,290004,Main Dishes,Curry Thiou,9,,,,,9.9,9.9
+,290005,Main Dishes,Dakar Shawarma,8,,,,,8.8,8.8
+,290006,Main Dishes,Dibi Guinar,10,,,,,11,11
+,290007,Main Dishes,Dibi Yapp,13,,,,,14.3,14.3
+,290008,Main Dishes,Firire Jenn,14,,,,,15.4,15.4
+,290009,Main Dishes,Mafe,9,,,,,9.9,9.9
+,290010,Main Dishes,Thiou Tomate,9,,,,,9.9,9.9
+,290011,Main Dishes,Tiep Jenn,9,,,,,9.9,9.9
+,290012,Main Dishes,Jolof Rice,9,,,,,9.9,9.9
+,290013,Main Dishes,Thies Burger,10,,,,,11,11
+,290014,Main Dishes,Fouta BBQ Chicken,13,,,,,13,13
+,290015,Main Dishes,**SPECIAL** Grilled Shrimp & Scallop Plate,15,,,,,18,18
+,290016,Main Dishes,Firire Alloco,10,,,,,11,11
+,290017,Drinks,Bissap Juice,5,,,,,5.63,5.63
+,290018,Drinks,Gingembre,5,,,,,5.63,5.63
+,290019,Sides,Fries,2,,,,,2.4,2.4
+,290020,Sides,Rice,3,,,,,3.6,3.6
+,290021,Sides,Alloco,5,,,,,6,6
+,290022,Sides,Cous Cous,4,,,,,4.8,4.8
+,290023,Donate,$1 Donation,1,,,,,1,1
+,290024,Donate,$5 Donation,5,,,,,5,5
+,290025,Donate,$10 Donation,10,,,,,10,10
+,290026,Donate,$20 Donation,20,,,,,20,20
+,290027,Donate,$50 Donation,50,,,,,50,50
+,290028,Donate,$100 Donation,100,,,,,100,100
+,290029,Dessert,Mbourou Fass,6.5,,,,,7.05,7.05
+,290030,Dessert,Beignets,6,,,,,6.6,6.6
+,290031,Take & Bake Platter (4 servings),Chicken Yassa Platter,40,,,,,45,45
+,290032,Take & Bake Platter (4 servings),Lamb Mafe Rice Platter,45,,,,,50,50
+,290033,Take & Bake Platter (4 servings),Fish Cous Cous Platter,50,,,,,55,55
+,290034,Take & Bake Platter (4 servings),Chicken Jolof Rice Platter,40,,,,,50,50
+,,,Curry Thiou Chicken,1,,Add - On,,,1.1,1.1
+,,,Curry Thiou Lamb,4,,Add - On,,,4.4,4.4
+,,,Mafe Chicken,1,,Add - On,,,1.1,1.1
+,,,Mafe Lamb,4,,Add - On,,,4.4,4.4
+,,,Thiou Tomate Chicken,1,,Add - On,,,1.1,1.1
+,,,Thiou Tomate Lamb,4,,Add - On,,,4.4,4.4
+,,,Tiep Jenn Chicken Skewers,3,,Add - On,,,3,3
+,,,Jolof Rice Lamb,4,,Add - On,,,4.4,4.4
+,,,Jolof Rice Chicken,3,,Add - On,,,3.3,3.3

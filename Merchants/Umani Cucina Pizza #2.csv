@@ -1,0 +1,63 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,320001,Pizzas,One Love (7x10),8,,,,,8.8,8.8
+,320002,Pizzas,Pepperoni (7x10),10,,,,,11,11
+,320003,Pizzas,Margarita (7x10),12,,,,,13.2,13.2
+,320004,Pizzas,Hawaii (7x10),10,,,,,11,11
+,320005,Pizzas,Pancho Villa (7x10),13,,,,,14.3,14.3
+,320006,Pizzas,Vegetariana (7x10),12,,,,,13.2,13.2
+,320007,Pizzas,Quattro Formaggi (7x10),13,,,,,14.3,14.3
+,320008,Pizzas,Criolla (7x10),13,,,,,14.3,14.3
+,320009,Pizzas,American Dream (7x10),12,,,,,13.2,13.2
+,320010,Pizzas,Wild West (7x10),13,,,,,14.3,14.3
+,320011,Pizzas,$1 Donation,1,,,,,1,1
+,320012,Pizzas,$5 Donation,5,,,,,5,5
+,320013,Pizzas,$10 Donation,10,,,,,10,10
+,320014,Pizzas,$20 Donation,20,,,,,20,20
+,320015,Pizzas,$50 Donation,50,,,,,50,50
+,320016,Pizzas,$100 Donation,100,,Add - On,,,100,100
+,,,One Love (10x15),7,,Add - On,,,7.75,7.75
+,,,Pepperoni (10x15),7,,Add - On,,,7.75,7.75
+,,,Margarita (10x15),7,,Add - On,,,7.75,7.75
+,,,Hawaii (10x15),7,,Add - On,,,7.75,7.75
+,,,Pancho Villa (10x15),8,,Add - On,,,8.8,8.8
+,,,Vegetariana (10x15),7,,Add - On,,,7.75,7.75
+,,,Quattro Formaggi (10x15),8,,Add - On,,,8.8,8.8
+,,,Criolla (10x15),8,,Add - On,,,8.8,8.8
+,,,American Dream (10x15),9,,Add - On,,,9.9,9.9
+,,,Wild West (18x18),8,,Add - On,,,8.8,8.8
+,,,One Love (18x18),15,,Add - On,,,16.5,16.5
+,,,Pepperoni (18x18),18,,Add - On,,,19.8,19.8
+,,,Margarita (18x18),18,,Add - On,,,19.8,19.8
+,,,Hawaii (18x18),22,,Add - On,,,24.2,24.2
+,,,Pancho Villa (18x18),22,,Add - On,,,24.2,24.2
+,,,Vegetariana (18x18),18,,Add - On,,,19.8,19.8
+,,,Quattro Formaggi (18x18),17,,Add - On,,,18.7,18.7
+,,,Criolla (18x18),21,,Add - On,,,23.1,23.1
+,,,American Dream (18x18),22,,Add - On,,,24.2,24.2
+,,,Wild West (18x18),21,,Add - On,,,23.1,23.1
+,,,Cheese,1,,Add - On,,,1.1,1.1
+,,,Tomato Sauce,1,,Add - On,,,1.1,1.1
+,,,Pepperoni,1.5,,Add - On,,,1.65,1.65
+,,,Ham,1.5,,Add - On,,,1.65,1.65
+,,,Sauteed Onions,1,,Add - On,,,1.1,1.1
+,,,Mushrooms,1,,Add - On,,,1.1,1.1
+,,,Roasted Pepper,1,,Add - On,,,1.1,1.1
+,,,Chives,1,,Add - On,,,1.1,1.1
+,,,Basil Pesto,1,,Add - On,,,1.1,1.1
+,,,Fresh Mozzarella,1,,Add - On,,,1.1,1.1
+,,,Bacon,1.35,,Add - On,,,1.5,1.5
+,,,Black Olives,1,,Add - On,,,1.1,1.1
+,,,Pineapple,1,,Add - On,,,1.1,1.1
+,,,Arugula,1,,Add - On,,,1.1,1.1
+,,,Fresh Tomato,1,,Add - On,,,1.1,1.1
+,,,Beef,2,,Add - On,,,2.2,2.2
+,,,Roquefort,1,,Add - On,,,1.1,1.1
+,,,Cranberries,1,,Add - On,,,1.1,1.1
+,,,Sausage,1.5,,Add - On,,,1.65,1.65
+,,,Chimichurri,1,,Add - On,,,1.1,1.1
+,,,Chicken,2,,Add - On,,,2.2,2.2
+,,,Ranch,2,,Add - On,,,2.2,2.2
+,,,BBQ,1,,Add - On,,,1.1,1.1
+,,,Jalapenos,1,,Add - On,,,1.1,1.1
+,,,White Sauce,1,,Add - On,,,1.1,1.1

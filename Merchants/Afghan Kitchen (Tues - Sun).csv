@@ -1,0 +1,56 @@
+Products,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+,220001,Appetizers,Bulani,4.29,,,,,5.15,5.15
+,220002,Appetizers,Mantu Beef,5.49,,,,,6.59,6.59
+,220003,Appetizers,Bulani Kado (Pumpkin Turnover),4.39,,,,,5.15,5.15
+,220004,Appetizers,Mantu Kado (Pumpkin Dumplings),5.49,,,,,6.59,6.59
+,220005,Soup,Aush,3.69,,,,,4.43,4.43
+,220006,Dashi Kabob,Chicken Dashi,15.39,,,,,17.7,17.7
+,220007,Dashi Kabob,Mix Dashi,15.39,,,,,17.7,17.7
+,220008,Dashi Kabob,Shami Dashi,15.39,,,,,17.7,17.7
+,220009,Dashi Kabob,Lamb Waziri Dashi,17.59,,,,,20.23,20.23
+,220010,Dashi Kabob,Lamb Dashi,17.99,,,,,20.69,20.69
+,220011,Dashi Kabob,Lamb Shahi Dashi,17.59,,,,,20.23,20.23
+,220012,Kabobs,Chicken Seekh Kabob,13.99,,,,,16.09,16.09
+,220013,Kabobs,Mix Kabob,13.99,,,,,16.09,16.09
+,220014,Kabobs,Afghan Shami Kabob,13.99,,,,,16.09,16.09
+,220015,Kabobs,Lamb Kabob,17.49,,,,,20.11,20.11
+,220016,Kabobs,Shinwari Kabob (Frenched Rack),22.99,,,,,26.44,26.44
+,220017,Kabobs,Lamb Waziri Kabob,16.99,,,,,19.54,19.54
+,220018,Kabobs,Lamb Shahi Kabob,16.99,,,,,19.54,19.54
+,220019,Kabobs,Chopan Combo,15.99,,,,,18.39,18.39
+,220020,Single Skewers,1 Lamb Kabob Skewer,6.99,,,,,8.04,8.04
+,220021,Single Skewers,1 Afghan Shami Kabob Skewer,4.99,,,,,5.74,5.74
+,220022,Single Skewers,1 Chicken Seekh Kabob Skewer,4.49,,,,,5.16,5.16
+,220023,Single Skewers,Chopan Kabob Skewer,7.49,,,,,8.61,8.61
+,220024,Vegetarian,Burani Banjan,13.59,,,,,15.63,15.63
+,220025,Vegetarian,Burani Kachalo,11.49,,,,,13.21,13.21
+,220026,Vegetarian,Dall Chalow,10.95,,,,,12.59,12.59
+,220027,Vegetarian,Burani Kado,12.99,,,,,14.94,14.94
+,220028,Vegetarian,Sabzi Challow,10.49,,,,,12.06,12.06
+,220029,Lamb Dishes,Lamb Shank Kabuli,15.99,,,,,18.39,18.39
+,220030,Lamb Dishes,Lamb Shank Sabzi,16.29,,,,,18.73,18.73
+,220031,Lamb Dishes,Lamb Shank Mushroom,16.99,,,,,19.54,19.54
+,220032,Lamb Dishes,Lamb Shank Qurma,15.49,,,,,17.81,17.81
+,220033,Lamb Dishes,Lamb Shank Mughuli,16.59,,,,,19.08,19.08
+,220034,Chicken Dishes,Chicken Kabuli Palow,13.95,,,,,16.04,16.04
+,220035,Chicken Dishes,Chicken Palow,13.95,,,,,16.04,16.04
+,220036,Chicken Dishes,Chicken Mushroom,13.99,,,,,16.09,16.09
+,220037,Chicken Dishes,Chicken Qurma,12.95,,,,,14.89,14.89
+,220038,Chicken Dishes,Chicken Lawang,13.99,,,,,16.09,16.09
+,220039,Afghan Flat Bread,Afghan Naan,1.99,,,,,2.39,2.39
+,220040,Afghan Flat Bread,Garlic Naan,2.79,,,,,3.35,3.35
+,220041,Dessert,Sheer Berenj,3.49,,,,,4.41,4.41
+,220042,Dessert,Firni,3.95,,,,,4.99,4.99
+,220043,Sides,Kabuli Rice,3.29,,,,,3.95,3.95
+,220044,Sides,Afghan Salad,3.29,,,,,3.95,3.95
+,220045,Sides,Burani Banjan,3.29,,,,,3.95,3.95
+,220046,Drinks,Soft Drinks,2.49,,,,,2.8,2.8
+,220047,Drinks,Joose E Am (Mango Yogurt Drink),3.95,,,,,4.44,4.44
+,220048,Drinks,Doogh,2.99,,,,,3.36,3.36
+,220049,Donate,$1 Donation,1,,,,,1,1
+,220050,Donate,$5 Donation,5,,,,,5,5
+,220051,Donate,$10 Donation,10,,,,,10,10
+,220052,Donate,$20 Donation,20,,,,,20,20
+,220053,Donate,$50 Donation,50,,,,,50,50
+,220054,Donate,$100 Donation,100,,,,,100,100

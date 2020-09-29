@@ -1,0 +1,15 @@
+Restaurant - Base Pricing Info,,,,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Variation,Cost Variation,,Lunch,Dinner,Lunch,Dinner
+3758652,170001,Kava Mixes,Kava Pack - 6.5 oz,23,Produces 2-3 quarts of Kava,Drinks,0,0,,0.125,0.125,25.875,25.875
+3758653,170002,Kava Mixes,Kava Pack - 0.5 Kilo,60,Produces 6-7 quarts of Kava,Drinks,0,0,,0.125,0.125,67.5,67.5
+3758654,170003,Kava Mixes,Kava Pack - 1 Kilo,120,Produces 13-14 quarts of Kava,Drinks,0,0,,0.125,0.125,135,135
+3758655,170004,Ready Made Kava,Kava Chai (16 oz),5,"Lio's signature blend of chai tea spices & Kava makes this the perfect calming, yet energizing morning drink. Drink or refrigerate the night before & reheat in the morning after the kava has boldened the chai with flavor.",Drinks,0,0,,0.125,0.125,5.625,5.625
+3758656,170005,Ready Made Kava,Regular Kava (2 quarts),20,This ready-made Kava helps relax your senses,Drinks,0,0,,0.125,0.125,22.5,22.5
+3758657,170006,Ready Made Kava,Premium Kava (2 quarts),50,"This premium, ready-made Kava helps relax your sense",Drinks,0,0,,0.125,0.125,56.25,56.25
+3758658,170007,Accessories,Cheese Cloth,56.25,"This specialty cheese cloth is a premium, two-piece set designed to brew and filter the best Kava.",Drinks,0,0,,0.125,0.125,63.28125,63.28125
+3833945,170008,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Drinks,0,0,,0,0,1,1
+3833946,170009,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Drinks,0,0,,0,0,5,5
+3833947,170010,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Drinks,0,0,,0,0,10,10
+3833948,170011,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Drinks,0,0,,0,0,20,20
+3833949,170012,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Drinks,0,0,,0,0,50,50
+3833950,170013,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Drinks,0,0,,0,0,100,100

@@ -1,0 +1,63 @@
+Restaurant - Base Pricing Info,,,,,,,,Markup,,Chefpanzee Price,
+Product Id,Product Name,Original Price,Product Description,Category (Internal),Variation,Cost Variation,,Lunch,Dinner,Lunch,Dinner
+,Brazillian Cheese Rolls (4),2.5,,Appetizer,,,,0.1,0.15,2.75,2.875
+,French Bread (3),3.5,,Appetizer,,,,0.1,0.15,3.85,4.025
+,Coxinha,3.5,,Appetizer,,,,0.1,0.15,3.85,4.025
+,Pastel Beef or Cheese,3.5,,Appetizer,,,,0.1,0.15,3.85,4.025
+,Kibe (3),3.5,,Appetizer,,,,0.1,0.15,3.3,3.45
+,Grilled Chicken,3.5,,Appetizer,0,0,,0.1,0.15,3.85,4.025
+,Grilled Pork Loin,3.5,,Appetizer,0,0,,0.1,0.15,3.85,4.025
+,Glazed Pork Loin,3.5,,Appetizer,0,0,,0.1,0.15,3.85,4.025
+,Grilled Pineapple,3.5,,Appetizer,0,0,,0.1,0.15,3.85,4.025
+,Beef,3.95,,Appetizer,0,0,,0.1,0.15,4.345000000000001,4.5425
+,White Rice,3,,Sides,0,0,,0.1,0.15,3.3,10.925
+,Brown Rice,3,,Sides,0,0,,0.1,0.15,3.3,3.45
+,Black Beans,3,,Sides,0,0,,0.1,0.15,3.3,10.925
+,Mashed Potatoes,3,,Sides,0,0,,0.1,0.15,3.3,3.45
+,Steamed Veggies,3,,Sides,0,0,,0.1,0.15,3.3,11.442499999999999
+,Fried Bananas,3,,Sides,0,0,,0.1,0.15,3.3,3.45
+,French Fries,3,,Sides,0,0,,0.1,0.15,3.3,7.9925
+,Green Mixed Salad,3,"Choose from Ranch, Italian, or Ceasar dressing",Sides,0,0,,0.1,0.15,3.3,3.45
+,Onion Steak,13.95,8 oz Top sirloin plus 3 sides of your choice,Entree,0,0,,0.1,0.15,15.344999999999999,10.925
+,Grilled Chicken,9.5,"Choose 3 sides: White Rice, Brown Rice, Black Beans, Mashed Potatoes, Steamed Veggies, Fried Bananas, French Fries, Green Mixed Salad (with Ranch, Italian, or Ceasar dressing)",Entree,0,0,,0.1,0.15,10.45,10.925
+,Grilled Pork Loin,9.5,"Choose 3 sides: White Rice, Brown Rice, Black Beans, Mashed Potatoes, Steamed Veggies, Fried Bananas, French Fries, Green Mixed Salad (with Ranch, Italian, or Ceasar dressing)",Entree,0,0,,0.1,0.15,10.45,44.275
+,Glazed Pork Loin,9.5,"Choose 3 sides: White Rice, Brown Rice, Black Beans, Mashed Potatoes, Steamed Veggies, Fried Bananas, French Fries, Green Mixed Salad (with Ranch, Italian, or Ceasar dressing)",Entree,0,0,,0.1,0.15,10.45,10.925
+,Grilled Pineapple (Vegetarian),9.5,"Choose 3 sides: White Rice, Brown Rice, Black Beans, Mashed Potatoes, Steamed Veggies, Fried Bananas, French Fries, Green Mixed Salad (with Ranch, Italian, or Ceasar dressing)",Entree,0,0,,0.1,0.15,10.45,10.925
+,Beef Skewer,9.95,"Choose 3 sides: White Rice, Brown Rice, Black Beans, Mashed Potatoes, Steamed Veggies, Fried Bananas, French Fries, Green Mixed Salad (with Ranch, Italian, or Ceasar dressing)",Entree,0,0,,0.1,0.15,10.944999999999999,11.442499999999999
+,Extra Skewer,2.5,"Choose an extra skewer (with purchase of combo meal, only 1 per meal)",Entree,0,0,,0.1,0.15,2.75,2.875
+,Kids Meal,6.95,1 Chicken Skewer + 1 Side + Small Drink,Entree,0,0,,0.1,0.15,7.6450000000000005,7.9925
+,Daily Special,5.99,1 Skewer + 1 Side,Entree,0,0,,0.1,0.15,6.589,6.8885000000000005
+,Light & Healthy Meal,9.5,Salad + 2 Skewers (Chicken or Pork),Entree,0,0,,0.1,0.15,10.45,10.925
+,Brazillian Special,8.5,"Rice, Beans, Salad, and a choice of Chicken or Pork",Entree,0,0,,0.1,0.15,9.35,9.775
+,Family Meal,38.5,3 Large Sides 4 Skewers (Chicken or Pork),Entree,0,0,,0.1,0.15,42.35,44.275
+,Tushar Salad,8.95,,Entree,0,0,,0.1,0.15,9.844999999999999,10.292499999999999
+,Tropical Salad,8.95,,Entree,0,0,,0.1,0.15,9.844999999999999,10.292499999999999
+,Chicken Caesar Salad,8.95,,Entree,0,0,,0.1,0.15,9.844999999999999,10.292499999999999
+,Brazillian Salad,8.95,,Entree,0,0,,0.1,0.15,9.844999999999999,10.292499999999999
+,Summer Salad,8.95,,Entree,0,0,,0.1,0.15,9.844999999999999,10.292499999999999
+,Bobo de Camarao,15,,Entree,0,0,,0.1,0.15,16.5,17.25
+,Add Chicken Skewer To Salad,0.99,,Entree,0,0,,0.1,0.15,1.089,1.1385
+,Passion Fruit Mousse,3.5,,Dessert,0,0,,0.1,0.15,3.85,4.025
+,Vanilla Flan,4.5,,Dessert,0,0,,0.1,0.15,4.95,5.175
+,Chocolate Cake,5.5,,Dessert,0,0,,0.1,0.15,6.05,6.325
+,Acai Bowl,8.95,,Dessert,0,0,,0.1,0.15,9.844999999999999,10.292499999999999
+,Passion Fruit Juice,4.5,,Dessert,0,0,,0.1,0.15,4.95,5.175
+,Mango Juice,4.5,,Drinks,0,0,,0.1,0.15,4.95,5.175
+,Pineapple Juice,4.5,,Drinks,0,0,,0.1,0.15,4.95,5.175
+,Acai Special,4.5,,Drinks,0,0,,0.1,0.15,4.95,5.175
+,Cashew,4.5,,Drinks,0,0,,0.1,0.15,4.95,5.175
+,Brazillian Lemonade,3.95,,Drinks,0,0,,0.1,0.15,4.345000000000001,4.5425
+,Add Fruit Juice to Lemonade ,0.5,,Drinks,0,0,,0.1,0.15,0.55,0.575
+,Guarana Antarctica (Can),1.99,,Drinks,0,0,,0.1,0.15,2.189,2.2885
+,Guarana Antarctica (2 Liter),4.5,,Drinks,0,0,,0.1,0.15,4.95,5.175
+,,,,Drinks,0,0,,0.1,0.15,0,0
+,,,,Drinks,0,0,,0.1,0.15,0,0
+,,,,Drinks,0,0,,0.1,0.15,0,0
+,,,,Drinks,0,0,,0.1,0.15,0,0
+,,,,Drinks,0,0,,0.1,0.15,0,0
+,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,1,1
+,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,5,5
+,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,10,10
+,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,20,20
+,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,50,50
+,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,100,100

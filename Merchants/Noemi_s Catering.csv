@@ -1,0 +1,23 @@
+Restaurant - Base Pricing Info,,,,,,,Markup,,Chefpanzee Price,
+Product Id,SKU,Category Name,Product Name,Original Price,Product Description,Category (Internal),Lunch,Dinner,Lunch,Dinner
+3896536,150001,Empanadas,Meat Empanada,4,,Entree,0.1,0.15,4.4,4.6
+3896537,150002,Empanadas,Cheese Empanada,3,With fresh mozzarella cheese and deeply fried,Entree,0.1,0.15,3.3,3.45
+3896538,150003,Empanadas,Vegan Empanada,4,,Entree,0.1,0.15,4.4,4.6
+3896539,150004,Empanadas,Seafood Empanada,5,,Entree,0.1,0.15,5.5,5.75
+3896540,150005,Yummy,Completo (Chilean Hotdog),7,"Filled with avocado, tomato, and mayo",Entree,0.1,0.15,7.7,8.05
+3896541,150006,Yummy,Chorrillanan Fries (Carne Asada Fries),13,,Entree,0.1,0.15,14.3,14.95
+3896542,150007,Yummy,Pastel de Choclo,12,,Entree,0.1,0.15,13.2,13.8
+,150008,Yummy,Vegan Pastel de Choclo,12,,,,,13.2,
+,150009,Yummy,Vegan Completo,7,,,,,7.7,
+3896543,150010,Desserts,Alfajores,2.75,,Dessert,0.175,0.2625,3.23125,3.471875
+3896544,150011,Desserts,Chilentios,2.75,A butter-based cookie filled with caramel covered and meringue,Dessert,0.175,0.2625,3.23125,3.471875
+3896545,150012,Desserts,Berlines,2.75,,Dessert,0.175,0.2625,3.23125,3.471875
+3896546,150013,Desserts,Nutella Empanadas,2.75,,Dessert,0.175,0.2625,3.23125,3.471875
+4114083,150014,Desserts,Cachitos (horns),2.75,Puffy pastry dough shaped like a horn filled in with dulce de  leche,Dessert,0.175,0.2625,3.23125,3.471875
+,150015,Desserts,Vegan Coconut Berlines,2.75,,,,,3.23,
+3909088,150016,Donate,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,1,1
+3909090,150017,Donate,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,5,5
+3909091,150018,Donate,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,10,10
+3909092,150019,Donate,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,20,20
+3909093,150020,Donate,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,50,50
+3909094,150021,Donate,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,100,100

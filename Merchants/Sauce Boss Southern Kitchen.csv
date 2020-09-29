@@ -1,0 +1,44 @@
+Restaurant - Base Pricing Info,,,,,,,,Markup,,Chefpanzee Price,
+Product Id,Product Name,Original Price,Product Description,Category (Internal),Variation,Cost Variation,,Lunch,Dinner,Lunch,Dinner
+3636656,Fried Green Tomatoes & Okra,8.95,Cornmeal breaded tomatoes and okra salad our ranch.,Appetizer,0,0,,0.291,0.291,11.55445,11.55445
+3636657,Bacon Cheese Fries,7.95,"Blackened seasoned fries topped with our house cheddar sauce, bacon and soul sauce.",Appetizer,0,0,,0.291,0.291,10.26345,10.26345
+3636658,Fried Chicken,13.95,Drumstick And Thigh Breaded With Herbs And Spices. Served With Our Maple Hot Sauce.,Entree,0,0,,0.191,0.241,16.614449999999998,17.31195
+3636659,Catfish,15.75,Cornmeal Breaded Catfish Fillets Served Crispy With Our Soul Sauce.,Entree,0,0,,0.191,0.241,18.75825,19.545749999999998
+3636660,Blackened Pork Chops,12.95,Two Seasoned And Seared Chops Served With Our Soul Sauce.,Entree,0,0,,0.191,0.241,15.423449999999999,16.07095
+3636661,Fried Pork Chops,12.95,Two Floured And Fried Pork Chops Served With Our Apple Mash.,Entree,0,0,,0.191,0.241,15.423449999999999,16.07095
+3636662,Chicken Fried Chicken,13.95,Pounded And Breaded Chicken Breast Topped With Brown Gravy.,Entree,0,0,,0.191,0.241,16.614449999999998,17.31195
+3636663,Shrimp and Grits,13.95,Shrimp And Bacon Sauteed In Black And Butter And Served Over Cheesy Cheddar Grits.,Entree,0,0,,0.191,0.241,16.614449999999998,17.31195
+3636664,Pork Neck Bones,12.95,Seared And Simmered Neck Bones Red Potatoes And Green Beans In A Rich Broth.,Entree,0,0,,0.191,0.241,15.423449999999999,16.07095
+3636665,The Big Cheddar,13.95,Shrimp And Bacon Sauteed In Blackened Butter And Served Over Our Golden Splendor Shells And Cheese.,Entree,0,0,,0.191,0.241,16.614449999999998,17.31195
+3636666,Broccoli Kale Salad,9.95,Chopped Kale Red Cabbage And Broccoli Tossed With A Honey Dijon Dressing Topped With Dried Cranberries And Sunflower Kernels.,Entree,0,0,,0.191,0.241,11.850449999999999,12.347949999999999
+3636667,Southern Wedge,9.95,Chopped Kale And Applesauce With A Creamy Cranberry Dressing Topped With Candied Walnuts And Bacon.,Entree,0,0,,0.191,0.241,11.850449999999999,12.347949999999999
+3636668,Kale Apple Salad,9.95,Wedges Of Lettuce Topped With Bacon And Cheddar Drizzled With Our Sole Sauce And Finished With A Basted Egg.,Entree,0,0,,0.191,0.241,11.850449999999999,12.347949999999999
+3636669,Fried Chicken Bites,6,Fried Chicken Bites.,Entree,0,0,,0.191,0.241,7.146,7.446
+3636670,Golden Splendor (shells & cheese),6,Golden Splendor (Shells And Cheese),Entree,0,0,,0.191,0.241,7.146,7.446
+3636671,Lemon Bars,6.55,Lemon Curd Baked In A Buttery Graham Cracker Crust.,Dessert,0,0,,0.266,0.3535,8.2923,8.865425
+3636672,Apple Bread Pudding,6.55,Soft And Sweet Bread Pudding Topped With Our Apple Cream.,Dessert,0,0,,0.266,0.3535,8.2923,8.865425
+3636673,Collard Greens,3.95,"Tender Collard Greens Slow Cooked With Bacon, Onion And Garlic.",Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636674,Candied Yams,3.95,"Fresh Yams Simmered With Vanilla, Butter And Cinnamon.",Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636675,Golden Splendor,3.95,Shell Pasta Tossed With Our Cheddar Cheese Sauce.,Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636676,Black Eyed Peas,3.95,Slow Simmered With Bacon In A Savory Broth.,Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636677,Spiced Corn,3.95,Yellow Corn Sauteed With Our Blackened Butter.,Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636678,Mashed Potatoes & Gravy,3.95,Buttery Garlic Mashed Red Potatoes Served With Gravy.,Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636679,Fries,3.95,Crispy Fries Tossed With Our Blackened Spice.,Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636680,Seasonal Vegetables,3.95,"Chef's Choice, Always Delicious.",Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636681,Cornbread,3.95,,Sides,0,0,,0.291,0.291,5.09945,5.09945
+3636682,House Red Drink,3.75,,Drinks,0,0,,0.216,0.216,4.56,4.56
+3636683,House Lemonade with Seasonal Fruit,3.25,,Drinks,0,0,,0.216,0.216,3.952,3.952
+3636684,Iced Sweet Tea,2.75,,Drinks,0,0,,0.216,0.216,3.344,3.344
+3642248,Coke,2.5,,Drinks,0,0,,0.216,0.216,3.04,3.04
+3642250,Diet Coke,2.5,,Drinks,0,0,,0.216,0.216,3.04,3.04
+3642251,Sprite,2.5,,Drinks,0,0,,0.216,0.216,3.04,3.04
+3642252,Dr Pepper,2.5,,Drinks,0,0,,0.216,0.216,3.04,3.04
+3642253,Diet Dr Pepper,2.5,,Drinks,0,0,,0.216,0.216,3.04,3.04
+3833954,$1 Donation,1,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,1,1
+3833955,$5 Donation,5,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,5,5
+3833956,$10 Donation,10,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,10,10
+3833957,$20 Donation,20,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,20,20
+3833958,$50 Donation,50,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,50,50
+3833959,$100 Donation,100,100% of proceeds go directly to this local restaurant,Donation,0,0,,0,0,100,100
+,"4 Chicken Fried Chicken, 2 Sides, 6 Cornbread w/ Honey Butter",45,"4 Chicken Fried Chicken, 2 Sides, 6 Cornbread w/ Honey Butter",Family Dinner,1,0,,0.191,0.241,53.595,55.845
+,"6 Blackened Pork Chops, 2 Sides, 6 Cornbread with Honey Butter",40,"6 Blackened Pork Chops, 2 Sides, 6 Cornbread with Honey Butter",Family Dinner,1,0,,0.191,0.241,47.64,49.64
